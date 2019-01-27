@@ -6,15 +6,17 @@
 
 ## 仓库内容
 
-README.md：就是你现在看到的自述文件。
+README.md：就是您现在看到的自述文件。
 
 list.md：题单主体，其他衍生版本均基于此文件。[Studying Father's Blog](https://studyingfather.com/archives/841)上的版本与该版本同步更新。
 
-list.pdf：基于list.md而导出的pdf文件，并非随list.md一同更新。（如果有修改，一般一周更新一次）
+history.md：记录本题单的更新记录。
+
+在releases中，您还可以获得如下衍生版本，供您直接使用：
+
+list.pdf：定期（有修改的情况下一周一次）导出的PDF版本。
 
 todo.list：为[memset0的todolist工具](https://github.com/memset0/luogu-todolist)而制作的版本。（因为制作比较麻烦，更新频率大约一月一次）
-
-history.md：记录本题单的更新记录。
 
 ## Copyleft
 
