@@ -830,3 +830,22 @@
 * [P2050 [NOI2012]美食节](https://www.luogu.org/problemnew/show/P2050)
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
 
+### Part 4.6 非传统题
+
+> 在NOI等比赛中，非传统题正越来越频繁出现。
+>
+> 非传统题主要包括以下几类：提交答案题，交互题，通信题。
+>
+> 因为洛谷目前只支持提交答案题，因此这里暂时只列出提交答案题。
+
+#### Part 4.6.1 提交答案题
+
+> 给你一些输入，你只需要提交这些输入对应的答案，即为提交答案题。
+
+* [P1335 [NOI2013]小Q的修炼](https://www.luogu.org/problemnew/show/P1335)
+* [P1737 [NOI2016]旷野大计算](https://www.luogu.org/problemnew/show/P1737)
+* [P3614 yyy棋 II](https://www.luogu.org/problemnew/show/P3614)
+* [P3640 [APIO2013]出题人](https://www.luogu.org/problemnew/show/P3640)
+* [P3782 [WC2017]排序](https://www.luogu.org/problemnew/show/P3782)
+* [P3836 Nowruz 诺鲁孜节](https://www.luogu.org/problemnew/show/P3836)
+* [P4920 [WC2015]未来程序](https://www.luogu.org/problemnew/show/P4920)
