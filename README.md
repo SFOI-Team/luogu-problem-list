@@ -4,6 +4,8 @@
 
 试炼场的题目确实很具有代表性，但是近几年以来，又有许多经典题目出现在OI界中，这个大题单就是作为试炼场的扩展和补充。
 
+本项目目前由[SFOI Team](https://github.com/SFOI-Team)进行维护。
+
 ## 仓库内容
 
 README.md：就是您现在看到的自述文件。
@@ -24,7 +26,7 @@ todo.list：为[memset0的todolist工具](https://github.com/memset0/luogu-todol
 
 本项目采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/)以及附加的[The Star And Thank Author License](https://github.com/zTrix/sata-license)进行许可。
 
-换言之，您可以自由的共享并演绎该项目，但是必须给出必要的署名，并以相同方式共享本项目，并为本项目的[Github仓库](https://github.com/StudyingFather/luogu-problem-list)点赞（Star）。
+换言之，您可以自由的共享并演绎该项目，但是必须给出必要的署名，并以相同方式共享本项目，并为本项目的[Github仓库](https://github.com/SFOI-Team/luogu-problem-list)点赞（Star）。
 
 ## 如何进行贡献？
 
