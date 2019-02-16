@@ -154,6 +154,7 @@
 > 在一个数列中高效插入一个元素，链表毫无疑问是最好的选择。
 
 * [P1996 约瑟夫问题](https://www.luogu.org/problemnew/show/P1996)
+* [P1160 队列安排](https://www.luogu.org/problemnew/show/P1160)
 
 #### Part 2.6.2 栈
 
@@ -167,7 +168,6 @@
 
 > 队列，是一种先进先出（FIFO）的数据结构。
 
-* [P1160 队列安排](https://www.luogu.org/problemnew/show/P1160)
 * [P1540 机器翻译](https://www.luogu.org/problemnew/show/P1540)
 
 #### Part 2.6.4 二叉树
@@ -430,7 +430,6 @@
 * [P3379 【模板】最近公共祖先（LCA）](https://www.luogu.org/problemnew/show/P3379)
 * [P3938 斐波那契](https://www.luogu.org/problemnew/show/P3938)
 * [P4281 [AHOI2008]紧急集合 / 聚会](https://www.luogu.org/problemnew/show/P4281)
-* [P2420 让我们异或吧](https://www.luogu.org/problemnew/show/P2420)
 
 #### Part 3.5.4 最小生成树
 
