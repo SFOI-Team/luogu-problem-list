@@ -204,6 +204,7 @@
 * [P1005 矩阵取数游戏](https://www.luogu.org/problemnew/show/P1005)
 * [P1095 守望者的逃离](https://www.luogu.org/problemnew/show/P1095)
 * [P1541 乌龟棋](https://www.luogu.org/problemnew/show/P1541)
+* [P1868 饥饿的奶牛](https://www.luogu.org/problemnew/show/P1868)
 
 #### Part 2.8.2 背包动态规划
 
@@ -406,6 +407,7 @@
 * [P5001 魔法祝福](https://www.luogu.org/problemnew/show/P5001)
 * [P1462 通往奥格瑞玛的道路](https://www.luogu.org/problemnew/show/P1462)
 * [P1522 牛的旅行 Cow Tours](https://www.luogu.org/problemnew/show/P1522)
+* [P1266 速度限制](https://www.luogu.org/problemnew/show/P1266)
 
 #### Part 3.5.3 树上问题
 
