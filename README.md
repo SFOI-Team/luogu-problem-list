@@ -18,7 +18,7 @@ history.md：记录本题单的更新记录。
 
 list.pdf：定期（有修改的情况下一周一次）导出的PDF版本。
 
-todo.list：为[memset0的todolist工具](https://github.com/memset0/luogu-todolist)而制作的版本。（因为制作比较麻烦，更新频率大约一月一次）
+todo.list：为[memset0的todolist工具](https://github.com/memset0/luogu-todolist)和[Anguei的超级任务计划](https://github.com/Anguei/Luogu-Super-Todolist)而制作的版本。（因为制作比较麻烦，更新频率大约一月一次）
 
 ## Copyleft
 

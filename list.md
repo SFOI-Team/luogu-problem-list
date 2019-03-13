@@ -10,6 +10,12 @@
 
 ## 更新日志
 
+1.1 2019/3/13：
+
+1. 添加了新专题：非传统题，并在其中添加了提交答案题。
+2. 添加了新专题：省选字符串算法，并添加了KMP，Manacher算法的题目，将原来位于省选数据结构的Trie树和AC自动机两个小类移动到了该专题。
+3. 部分题目分类进行了调整。
+
 1.0 2019/1/24：
 
 1. 再一次校对了题单，并修正了部分内容。
@@ -495,18 +501,7 @@
 * [P4119 [Ynoi2018]未来日记](https://www.luogu.org/problemnew/show/P4119)
 * [P4117 [Ynoi2018]五彩斑斓的世界](https://www.luogu.org/problemnew/show/P4117)
 
-#### Part 4.1.2 Trie树
-
-* [P2292 [HNOI2004]L语言](https://www.luogu.org/problemnew/show/P2292)
-* [P2922 [USACO08DEC]秘密消息Secret Message](https://www.luogu.org/problemnew/show/P2922)
-* [P3065 [USACO12DEC]第一!First!](https://www.luogu.org/problemnew/show/P3065)
-* [P3294 [SCOI2016]背单词](https://www.luogu.org/problemnew/show/P3294)
-* [P3783 [SDOI2017]天才黑客](https://www.luogu.org/problemnew/show/P3783)
-* [P3879 [TJOI2010]阅读理解](https://www.luogu.org/problemnew/show/P3879)
-* [P4551 最长异或路径](https://www.luogu.org/problemnew/show/P4551)
-* [P4407 [JSOI2009]电子字典](https://www.luogu.org/problemnew/show/P4407)
-
-#### Part 4.1.3 后缀数组
+#### Part 4.1.2 后缀数组
 
 * [P3809 【模板】后缀排序](https://www.luogu.org/problemnew/show/P3809)
 * [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
@@ -514,7 +509,7 @@
 * [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problemnew/show/P2463)
 * [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
 
-#### Part 4.1.4 点分治
+#### Part 4.1.3 点分治
 
 * [P3806 【模板】点分治1](https://www.luogu.org/problemnew/show/P3806)
 * [P2634 [国家集训队]聪聪可可](https://www.luogu.org/problemnew/show/P2634)
@@ -522,7 +517,7 @@
 * [P4292 [WC2010]重建计划](https://www.luogu.org/problemnew/show/P4292)
 * [P4149 [IOI2011]Race](https://www.luogu.org/problemnew/show/P4149)
 
-#### Part 4.1.5 主席树
+#### Part 4.1.4 主席树
 
 * [P2468 [SDOI2010]粟粟的书架](https://www.luogu.org/problemnew/show/P2468)
 * [P3157 [CQOI2011]动态逆序对](https://www.luogu.org/problemnew/show/P3157)
@@ -531,7 +526,7 @@
 * [P4559 [JSOI2018]列队](https://www.luogu.org/problemnew/show/P4559)
 * [P4618 [SDOI2018]原题识别](https://www.luogu.org/problemnew/show/P4618)
 
-#### Part 4.1.6 平衡树
+#### Part 4.1.5 平衡树
 
 * [P3369 【模板】普通平衡树](https://www.luogu.org/problemnew/show/P3369)
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problemnew/show/P3391)
@@ -543,7 +538,7 @@
 * [P3644 [APIO2015]八邻旁之桥](https://www.luogu.org/problemnew/show/P3644)
 * [P3765 总统选举](https://www.luogu.org/problemnew/show/P3765)
 
-#### Part 4.1.7 树链剖分
+#### Part 4.1.6 树链剖分
 
 * [P3384 【模板】树链剖分](https://www.luogu.org/problemnew/show/P3384)
 * [P3313 [SDOI2014]旅行](https://www.luogu.org/problemnew/show/P3313)
@@ -553,7 +548,7 @@
 * [P3613 睡觉困难综合征](https://www.luogu.org/problemnew/show/P3613)
 * [P3178 [HAOI2015]树上操作](https://www.luogu.org/problemnew/show/P3178)
 
-#### Part 4.1.8 树套树
+#### Part 4.1.7 树套树
 
 * [P3380 【模板】二逼平衡树（树套树）](https://www.luogu.org/problemnew/show/P3380)
 * [P1975 [国家集训队]排队](https://www.luogu.org/problemnew/show/P1975)
@@ -562,7 +557,7 @@
 * [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problemnew/show/P1903)
 * [P3759 [TJOI2017]不勤劳的图书管理员](https://www.luogu.org/problemnew/show/P3759)
 
-#### Part 4.1.9 动态树
+#### Part 4.1.8 动态树
 
 * [P3690 【模板】Link Cut Tree （动态树）](https://www.luogu.org/problemnew/show/P3690)
 * [P3203 [HNOI2010]弹飞绵羊](https://www.luogu.org/problemnew/show/P3203)
@@ -570,16 +565,7 @@
 * [P4338 [ZJOI2018]历史](https://www.luogu.org/problemnew/show/P4338)
 * [P4312 [COCI 2009] OTOCI / 极地旅行社](https://www.luogu.org/problemnew/show/P4312)
 
-#### Part 4.1.10 AC自动机
-
-* [P3808 【模板】AC自动机（简单版）](https://www.luogu.org/problemnew/show/P3808)
-* [P3796 【模板】AC自动机（加强版）](https://www.luogu.org/problemnew/show/P3796)
-* [P3121 [USACO15FEB]审查（黄金）Censoring (Gold)](https://www.luogu.org/problemnew/show/P3121)
-* [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
-* [P2414 [NOI2011]阿狸的打字机](https://www.luogu.org/problemnew/show/P2414)
-* [P3966 [TJOI2013]单词](https://www.luogu.org/problemnew/show/P3966)
-
-#### Part 4.1.11 可持久化数据结构
+#### Part 4.1.9 可持久化数据结构
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
@@ -731,7 +717,7 @@
 
 > 对多项式的运算进行优化，从而能够解决规模更大的问题。
 
-* [P1919 【模板】A*B Problem升级版（FFT快速傅里叶）](https://www.luogu.org/problemnew/show/P1919)
+* [P1919 【模板】A\*B Problem升级版（FFT快速傅里叶）](https://www.luogu.org/problemnew/show/P1919)
 * [P3803 【模板】多项式乘法（FFT）](https://www.luogu.org/problemnew/show/P3803)
 * [P4238 【模板】多项式求逆](https://www.luogu.org/problemnew/show/P4238)
 * [P4239 【模板】多项式求逆（加强版）](https://www.luogu.org/problemnew/show/P4239)
@@ -749,11 +735,51 @@
 * [P3327 [SDOI2015]约数个数和](https://www.luogu.org/problemnew/show/P3327)
 * [P4619 [SDOI2018]旧试题](https://www.luogu.org/problemnew/show/P4619)
 
-### Part 4.4 省选搜索
+### Part 4.4 省选字符串算法
+
+#### Part 4.4.1 KMP
+
+> KMP算法可以用来解决模式串匹配问题。
+
+* [P3375 【模板】KMP字符串匹配](https://www.luogu.org/problemnew/show/P3375)
+* [P4391 [BOI2009]Radio Transmission 无线传输](https://www.luogu.org/problemnew/show/P4391)
+* [P3435 [POI2006]OKR-Periods of Words](https://www.luogu.org/problemnew/show/P3435)
+* [P2375 [NOI2014]动物园](https://www.luogu.org/problemnew/show/P2375)
+* [P3426 [POI2005]SZA-Template](https://www.luogu.org/problemnew/show/P3426)
+
+#### Part 4.4.2 Manacher
+
+> Manacher算法可以在线性时间内求出一个字符串的最长回文子串。
+
+* [P3805 【模板】manacher算法](https://www.luogu.org/problemnew/show/P3805)
+* [P4555 [国家集训队]最长双回文串](https://www.luogu.org/problemnew/show/P4555)
+* [P1659 [国家集训队]拉拉队排练](https://www.luogu.org/problemnew/show/P1659)
+
+#### Part 4.4.3 Trie树
+
+* [P2292 [HNOI2004]L语言](https://www.luogu.org/problemnew/show/P2292)
+* [P2922 [USACO08DEC]秘密消息Secret Message](https://www.luogu.org/problemnew/show/P2922)
+* [P3065 [USACO12DEC]第一!First!](https://www.luogu.org/problemnew/show/P3065)
+* [P3294 [SCOI2016]背单词](https://www.luogu.org/problemnew/show/P3294)
+* [P3783 [SDOI2017]天才黑客](https://www.luogu.org/problemnew/show/P3783)
+* [P3879 [TJOI2010]阅读理解](https://www.luogu.org/problemnew/show/P3879)
+* [P4551 最长异或路径](https://www.luogu.org/problemnew/show/P4551)
+* [P4407 [JSOI2009]电子字典](https://www.luogu.org/problemnew/show/P4407)
+
+#### Part 4.4.4 AC自动机
+
+* [P3808 【模板】AC自动机（简单版）](https://www.luogu.org/problemnew/show/P3808)
+* [P3796 【模板】AC自动机（加强版）](https://www.luogu.org/problemnew/show/P3796)
+* [P3121 [USACO15FEB]审查（黄金）Censoring (Gold)](https://www.luogu.org/problemnew/show/P3121)
+* [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
+* [P2414 [NOI2011]阿狸的打字机](https://www.luogu.org/problemnew/show/P2414)
+* [P3966 [TJOI2013]单词](https://www.luogu.org/problemnew/show/P3966)
+
+### Part 4.5 省选搜索
 
 > 省选的搜索要注意的细节很多，对代码效率的要求也比较高。
 
-#### Part 4.4.1 双向搜索
+#### Part 4.5.1 双向搜索
 
 > 在搜索时，如果能从初态和终态出发，同时进行搜索，就可以减小搜索树的规模，提高时间效率。
 
@@ -761,13 +787,13 @@
 * [P4799 [CEOI2015 Day2]世界冰球锦标赛](https://www.luogu.org/problemnew/show/P4799)
 * [P5195 [USACO05DEC]Knights of Ni 骑士](https://www.luogu.org/problemnew/show/P5195)
 
-#### Part 4.4.2 A\*
+#### Part 4.5.2 A\*
 
 > 在BFS中，如果能设计一个合理的估价函数，就可以更快扩展到最优解。这就是A\*算法。
 
 * [P1379 八数码难题](https://www.luogu.org/problemnew/show/P1379)
 
-#### Part 4.4.3 IDA\*
+#### Part 4.5.3 IDA\*
 
 > 像BFS那样，每次只扩展一层节点，却采用DFS方式来遍历搜索树，这就是迭代加深搜索。
 >
@@ -775,11 +801,11 @@
 
 * [P2324 [SCOI2005]骑士精神](https://www.luogu.org/problemnew/show/P2324)
 
-### Part 4.5 省选图论
+### Part 4.6 省选图论
 
 > 更复杂的图论问题，有些问题还要借助数据结构才能得到解决。
 
-#### Part 4.5.1 二分图
+#### Part 4.6.1 二分图
 
 > 二分图上的不少问题都可以转化成网络流解决，当然也有独特的其他方法。
 
@@ -791,11 +817,11 @@
 * [P3033 [USACO11NOV]牛的障碍Cow Steeplechase](https://www.luogu.org/problemnew/show/P3033)
 * [P3731 [HAOI2017]新型城市化](https://www.luogu.org/problemnew/show/P3731)
 
-#### Part 4.5.2 网络流
+#### Part 4.6.2 网络流
 
 > 网络流是图论中一个重要的分支，很多题目都可以通过建立网络流的模型来解决。
 
-##### Part 4.5.2.1 最大流/最小割
+##### Part 4.6.2.1 最大流/最小割
 
 > 最大流，即求网络中最大的流量。
 >
@@ -816,7 +842,7 @@
 * [P3749 [六省联考2017]寿司餐厅](https://www.luogu.org/problemnew/show/P3749)
 * [P5039 [SHOI2010]最小生成树](https://www.luogu.org/problemnew/show/P5039)
 
-##### Part 4.5.2.2 费用流
+##### Part 4.6.2.2 费用流
 
 > 在网络流中给边加上一个参数——费用，就出现了费用流。
 
@@ -831,7 +857,7 @@
 * [P2050 [NOI2012]美食节](https://www.luogu.org/problemnew/show/P2050)
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
 
-### Part 4.6 非传统题
+### Part 4.7 非传统题
 
 > 在NOI等比赛中，非传统题正越来越频繁出现。
 >
@@ -839,7 +865,7 @@
 >
 > 因为洛谷目前只支持提交答案题，因此这里暂时只列出提交答案题。
 
-#### Part 4.6.1 提交答案题
+#### Part 4.7.1 提交答案题
 
 > 给你一些输入，你只需要提交这些输入对应的答案，即为提交答案题。
 
