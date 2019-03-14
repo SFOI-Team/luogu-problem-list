@@ -501,15 +501,7 @@
 * [P4119 [Ynoi2018]未来日记](https://www.luogu.org/problemnew/show/P4119)
 * [P4117 [Ynoi2018]五彩斑斓的世界](https://www.luogu.org/problemnew/show/P4117)
 
-#### Part 4.1.2 后缀数组
-
-* [P3809 【模板】后缀排序](https://www.luogu.org/problemnew/show/P3809)
-* [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
-* [P2178 [NOI2015]品酒大会](https://www.luogu.org/problemnew/show/P2178)
-* [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problemnew/show/P2463)
-* [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
-
-#### Part 4.1.3 点分治
+#### Part 4.1.2 点分治
 
 * [P3806 【模板】点分治1](https://www.luogu.org/problemnew/show/P3806)
 * [P2634 [国家集训队]聪聪可可](https://www.luogu.org/problemnew/show/P2634)
@@ -517,7 +509,7 @@
 * [P4292 [WC2010]重建计划](https://www.luogu.org/problemnew/show/P4292)
 * [P4149 [IOI2011]Race](https://www.luogu.org/problemnew/show/P4149)
 
-#### Part 4.1.4 主席树
+#### Part 4.1.3 主席树
 
 * [P2468 [SDOI2010]粟粟的书架](https://www.luogu.org/problemnew/show/P2468)
 * [P3157 [CQOI2011]动态逆序对](https://www.luogu.org/problemnew/show/P3157)
@@ -526,7 +518,7 @@
 * [P4559 [JSOI2018]列队](https://www.luogu.org/problemnew/show/P4559)
 * [P4618 [SDOI2018]原题识别](https://www.luogu.org/problemnew/show/P4618)
 
-#### Part 4.1.5 平衡树
+#### Part 4.1.4 平衡树
 
 * [P3369 【模板】普通平衡树](https://www.luogu.org/problemnew/show/P3369)
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problemnew/show/P3391)
@@ -538,7 +530,7 @@
 * [P3644 [APIO2015]八邻旁之桥](https://www.luogu.org/problemnew/show/P3644)
 * [P3765 总统选举](https://www.luogu.org/problemnew/show/P3765)
 
-#### Part 4.1.6 树链剖分
+#### Part 4.1.5 树链剖分
 
 * [P3384 【模板】树链剖分](https://www.luogu.org/problemnew/show/P3384)
 * [P3313 [SDOI2014]旅行](https://www.luogu.org/problemnew/show/P3313)
@@ -548,7 +540,7 @@
 * [P3613 睡觉困难综合征](https://www.luogu.org/problemnew/show/P3613)
 * [P3178 [HAOI2015]树上操作](https://www.luogu.org/problemnew/show/P3178)
 
-#### Part 4.1.7 树套树
+#### Part 4.1.6 树套树
 
 * [P3380 【模板】二逼平衡树（树套树）](https://www.luogu.org/problemnew/show/P3380)
 * [P1975 [国家集训队]排队](https://www.luogu.org/problemnew/show/P1975)
@@ -557,7 +549,7 @@
 * [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problemnew/show/P1903)
 * [P3759 [TJOI2017]不勤劳的图书管理员](https://www.luogu.org/problemnew/show/P3759)
 
-#### Part 4.1.8 动态树
+#### Part 4.1.7 动态树
 
 * [P3690 【模板】Link Cut Tree （动态树）](https://www.luogu.org/problemnew/show/P3690)
 * [P3203 [HNOI2010]弹飞绵羊](https://www.luogu.org/problemnew/show/P3203)
@@ -565,7 +557,7 @@
 * [P4338 [ZJOI2018]历史](https://www.luogu.org/problemnew/show/P4338)
 * [P4312 [COCI 2009] OTOCI / 极地旅行社](https://www.luogu.org/problemnew/show/P4312)
 
-#### Part 4.1.9 可持久化数据结构
+#### Part 4.1.8 可持久化数据结构
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
@@ -774,6 +766,14 @@
 * [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
 * [P2414 [NOI2011]阿狸的打字机](https://www.luogu.org/problemnew/show/P2414)
 * [P3966 [TJOI2013]单词](https://www.luogu.org/problemnew/show/P3966)
+
+#### Part 4.4.5 后缀数组
+
+* [P3809 【模板】后缀排序](https://www.luogu.org/problemnew/show/P3809)
+* [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
+* [P2178 [NOI2015]品酒大会](https://www.luogu.org/problemnew/show/P2178)
+* [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problemnew/show/P2463)
+* [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
 
 ### Part 4.5 省选搜索
 
