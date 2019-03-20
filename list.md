@@ -69,7 +69,7 @@
 * [P1055 ISBN号码](https://www.luogu.org/problemnew/show/P1055)
 * [P1308 统计单词数](https://www.luogu.org/problemnew/show/P1308)
 * [P2010 回文日期](https://www.luogu.org/problemnew/show/P2010)
-* [P1012 拼数](https://www.luogu.org/problemnew/show/P1015)
+* [P1012 拼数](https://www.luogu.org/problemnew/show/P1012)
 
 ### Part 1.4 函数，递归及递推
 
