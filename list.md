@@ -69,6 +69,7 @@
 * [P1055 ISBN号码](https://www.luogu.org/problemnew/show/P1055)
 * [P1308 统计单词数](https://www.luogu.org/problemnew/show/P1308)
 * [P2010 回文日期](https://www.luogu.org/problemnew/show/P2010)
+* [P1012 拼数](https://www.luogu.org/problemnew/show/P1015)
 
 ### Part 1.4 函数，递归及递推
 
@@ -93,6 +94,7 @@
 * [P1328 生活大爆炸版石头剪刀布](https://www.luogu.org/problemnew/show/P1328)
 * [P1563 玩具谜题](https://www.luogu.org/problemnew/show/P1563)
 * [P1042 乒乓球](https://www.luogu.org/problemnew/show/P1042)
+* [P1179 数字统计](https://www.luogu.org/problemnew/show/P1179)
 
 ### Part 2.2 排序算法
 
@@ -173,6 +175,7 @@
 * [P1449 后缀表达式](https://www.luogu.org/problemnew/show/P1449)
 * [P1739 表达式括号匹配](https://www.luogu.org/problemnew/show/P1739)
 * [P1981 表达式求值](https://www.luogu.org/problemnew/show/P1981)
+* [P1175 表达式的转换](https://www.luogu.org/problemnew/show/P1175)
 
 #### Part 2.6.3 队列
 
