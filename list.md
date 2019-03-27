@@ -95,6 +95,7 @@
 * [P1563 玩具谜题](https://www.luogu.org/problemnew/show/P1563)
 * [P1042 乒乓球](https://www.luogu.org/problemnew/show/P1042)
 * [P1179 数字统计](https://www.luogu.org/problemnew/show/P1179)
+* [P2615 神奇的幻方](https://www.luogu.org/problemnew/show/P2615)
 
 ### Part 2.2 排序算法
 
