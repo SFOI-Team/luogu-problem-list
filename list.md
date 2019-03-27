@@ -95,6 +95,7 @@
 * [P1563 玩具谜题](https://www.luogu.org/problemnew/show/P1563)
 * [P1042 乒乓球](https://www.luogu.org/problemnew/show/P1042)
 * [P1179 数字统计](https://www.luogu.org/problemnew/show/P1179)
+* [P2615 神奇的幻方](https://www.luogu.org/problemnew/show/P2615)
 
 ### Part 2.2 排序算法
 
@@ -711,6 +712,8 @@
 * [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problemnew/show/P4931)
 * [P3214 [HNOI2011]卡农](https://www.luogu.org/problemnew/show/P3214)
 * [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
+* [P2524 P2524 Uim的情人节礼物·其之弐](https://www.luogu.org/problemnew/show/P2524)
+* [P2525 Uim的情人节礼物·其之壱](https://www.luogu.org/problemnew/show/P2525)
 
 #### Part 4.3.4 多项式
 
