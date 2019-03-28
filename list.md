@@ -39,12 +39,11 @@
 
 > 本部分内容主要针对入门OIer。算法的成分不算太多，主要是语言方面的知识。
 
-### Part 1.1 程序三大结构——顺序，分支与选择结构
+### Part 1.1 从零开始
 
 > 这些内容是程序设计的基础。
 
 * [P1421 小玉买文具](https://www.luogu.org/problemnew/show/P1421)
-* [P1425 小鱼的游泳时间](https://www.luogu.org/problemnew/show/P1425)
 * [P1909 买铅笔](https://www.luogu.org/problemnew/show/P1909)
 * [P1089 津津的储蓄计划](https://www.luogu.org/problemnew/show/P1089)
 * [P1085 不高兴的津津](https://www.luogu.org/problemnew/show/P1085)
@@ -152,7 +151,6 @@
 
 * [P1226 【模板】快速幂||取余运算](https://www.luogu.org/problemnew/show/P1226)
 * [P1010 幂次方](https://www.luogu.org/problemnew/show/P1010)
-* [P1498 南蛮图腾](https://www.luogu.org/problemnew/show/P1498)
 * [P1257 平面上的最接近点对](https://www.luogu.org/problemnew/show/P1257)
 * [P3612 [USACO17JAN]Secret Cow Code秘密奶牛码](https://www.luogu.org/problemnew/show/P3612)
 
@@ -368,6 +366,9 @@
 * [P1908 逆序对](https://www.luogu.org/problemnew/show/P1908)
 * [P1966 火柴排队](https://www.luogu.org/problemnew/show/P1966)
 * [P1972 [SDOI2009]HH的项链](https://www.luogu.org/problemnew/show/P1972)
+* [P3586 [POI2015]LOG](https://www.luogu.org/problemnew/show/P3586)
+* [P4054 [JSOI2009]计数问题](https://www.luogu.org/problemnew/show/P4054)
+* [P4113 [HEOI2012]采花](https://www.luogu.org/problemnew/show/P4113)
 
 #### Part 3.4.2 线段树
 
@@ -378,6 +379,12 @@
 * [P1502 窗口的星星](https://www.luogu.org/problemnew/show/P1502)
 * [P2471 [SCOI2007]降雨量](https://www.luogu.org/problemnew/show/P2471)
 * [P1382 楼房](https://www.luogu.org/problemnew/show/P1382)
+* [P1471 方差](https://www.luogu.org/problemnew/show/P1471)
+* [P4198 楼房重建](https://www.luogu.org/problemnew/show/P4198)
+* [P3722 [AH2017/HNOI2017]影魔](https://www.luogu.org/problemnew/show/P3722)
+* [P2824 [HEOI2016/TJOI2016]排序](https://www.luogu.org/problemnew/show/P2824)
+* [P4097 [HEOI2013]Segment](https://www.luogu.org/problemnew/show/P4097)
+* [P4513 小白逛公园](https://www.luogu.org/problemnew/solution/P4513)
 
 #### Part 3.4.3 并查集
 
@@ -479,11 +486,10 @@
 
 * [P3387 【模板】缩点](https://www.luogu.org/problemnew/show/P3387)
 * [P3388 【模板】割点（割顶）](https://www.luogu.org/problemnew/show/P3388)
-* [P4782 【模板】2-SAT 问题](https://www.luogu.org/problemnew/show/P4782)
 * [P2863 [USACO06JAN]牛的舞会The Cow Prom](https://www.luogu.org/problemnew/show/P2863)
 * [P2746 [USACO5.3]校园网Network of Schools](https://www.luogu.org/problemnew/show/P2746)
 * [P2341 [HAOI2006]受欢迎的牛](https://www.luogu.org/problemnew/show/P2341)
-* [P3825 [NOI2017]游戏](https://www.luogu.org/problemnew/show/P3825)
+* [P2515 [HAOI2010]软件安装](https://www.luogu.org/problemnew/show/P2515)
 
 ## Part 4 省选/NOI算法
 
@@ -516,6 +522,7 @@
 * [P2664 树上游戏](https://www.luogu.org/problemnew/show/P2664)
 * [P4292 [WC2010]重建计划](https://www.luogu.org/problemnew/show/P4292)
 * [P4149 [IOI2011]Race](https://www.luogu.org/problemnew/show/P4149)
+* [P3241 [HNOI2015]开店](https://www.luogu.org/problemnew/show/P3241)
 
 #### Part 4.1.3 主席树
 
@@ -537,6 +544,9 @@
 * [P1110 [ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)
 * [P3644 [APIO2015]八邻旁之桥](https://www.luogu.org/problemnew/show/P3644)
 * [P3765 总统选举](https://www.luogu.org/problemnew/show/P3765)
+* [P1486 [NOI2004]郁闷的出纳员](https://www.luogu.org/problemnew/show/P1486)
+* [P3224 [HNOI2012]永无乡](https://www.luogu.org/problemnew/show/P3224)
+* [P3960 列队](https://www.luogu.org/problemnew/show/P3960)
 
 #### Part 4.1.5 树链剖分
 
@@ -547,6 +557,9 @@
 * [P2146 [NOI2015]软件包管理器](https://www.luogu.org/problemnew/show/P2146)
 * [P3613 睡觉困难综合征](https://www.luogu.org/problemnew/show/P3613)
 * [P3178 [HAOI2015]树上操作](https://www.luogu.org/problemnew/show/P3178)
+* [P3258 [JLOI2014]松鼠的新家](https://www.luogu.org/problemnew/show/P3258)
+* [P4069 [SDOI2016]游戏](https://www.luogu.org/problemnew/show/P4069)
+* [P4211 [LNOI2014]LCA](https://www.luogu.org/problemnew/show/P4211)
 
 #### Part 4.1.6 树套树
 
@@ -565,7 +578,13 @@
 * [P4338 [ZJOI2018]历史](https://www.luogu.org/problemnew/show/P4338)
 * [P4312 [COCI 2009] OTOCI / 极地旅行社](https://www.luogu.org/problemnew/show/P4312)
 
-#### Part 4.1.8 可持久化数据结构
+#### Part 4.1.8 CDQ分治&整体二分
+
+* [P3810 【模板】三维偏序（陌上花开）](https://www.luogu.org/problemnew/show/P3810)
+* [P1393 动态逆序对](https://www.luogu.org/problemnew/show/P1393)
+* [P2617 Dynamic Rankings](https://www.luogu.org/problemnew/show/P2617)
+
+#### Part 4.1.9 可持久化数据结构
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
@@ -592,6 +611,7 @@
 * [P2167 [SDOI2009]Bill的挑战](https://www.luogu.org/problemnew/show/P2167)
 * [P4925 [1007]Scarlet的字符串不可能这么可爱](https://www.luogu.org/problemnew/show/P4925)
 * [P5005 中国象棋 - 摆上马](https://www.luogu.org/problemnew/show/P5005)
+* [P2396 yyy loves Maths VII](https://www.luogu.org/problemnew/show/P2396)
 
 #### Part 4.2.2 倍增优化动态规划
 
@@ -884,6 +904,11 @@
 * [P2604 [ZJOI2010]网络扩容](https://www.luogu.org/problemnew/show/P2604)
 * [P2050 [NOI2012]美食节](https://www.luogu.org/problemnew/show/P2050)
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
+
+#### Part 4.6.3 2-SAT
+
+* [P4782 【模板】2-SAT 问题](https://www.luogu.org/problemnew/show/P4782)
+* [P3825 [NOI2017]游戏](https://www.luogu.org/problemnew/show/P3825)
 
 ### Part 4.7 其他算法
 
