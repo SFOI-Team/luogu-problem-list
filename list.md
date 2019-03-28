@@ -307,8 +307,8 @@
 > 素数，指的是除1和它本身之外没有其他约数的数。
 
 * [P3383 【模板】线性筛素数](https://www.luogu.org/problemnew/show/P3383)
-* [P1865 A % B Problem](https://www.luogu.org/problemnew/show/P1865)
 * [P4718 【模板】Pollard-Rho算法](https://www.luogu.org/problemnew/show/P4718)
+* [P1865 A % B Problem](https://www.luogu.org/problemnew/show/P1865)
 
 ##### Part 3.3.1.2 最大公约数
 
@@ -345,10 +345,10 @@
 
 > 博弈论考虑游戏中的个体的预测行为和实际行为，并研究它们的优化策略。
 
+* [P2197 【模板】nim游戏](https://www.luogu.org/problemnew/show/P2197)
 * [P1288 取数游戏II](https://www.luogu.org/problemnew/show/P1288)
 * [P1290 欧几里德的游戏](https://www.luogu.org/problemnew/show/P1290)
 * [P1247 取火柴游戏](https://www.luogu.org/problemnew/show/P1247)
-* [P2197 【模板】nim游戏](https://www.luogu.org/problemnew/show/P2197)
 * [P2252 取石子游戏](https://www.luogu.org/problemnew/show/P2252)
 
 ### Part 3.4 高级数据结构
@@ -733,7 +733,12 @@
 
 ### Part 4.4 省选字符串算法
 
-#### Part 4.4.1 KMP
+#### Part 4.4.1 字符串哈希
+
+* [P3370 【模板】字符串哈希](https://www.luogu.org/problemnew/show/P3370)
+* [P5270 无论怎样神树大人都会删库跑路](https://www.luogu.org/problemnew/show/P5270)
+
+#### Part 4.4.2 KMP
 
 > KMP算法可以用来解决模式串匹配问题。
 
@@ -742,8 +747,10 @@
 * [P3435 [POI2006]OKR-Periods of Words](https://www.luogu.org/problemnew/show/P3435)
 * [P2375 [NOI2014]动物园](https://www.luogu.org/problemnew/show/P2375)
 * [P3426 [POI2005]SZA-Template](https://www.luogu.org/problemnew/show/P3426)
+* [P3193 [HNOI2008]GT考试](https://www.luogu.org/problemnew/show/P3193)
+* [P3435 [POI2006]OKR-Periods of Words](https://www.luogu.org/problemnew/show/P3435)
 
-#### Part 4.4.2 Manacher
+#### Part 4.4.3 Manacher
 
 > Manacher算法可以在线性时间内求出一个字符串的最长回文子串。
 
@@ -751,7 +758,7 @@
 * [P4555 [国家集训队]最长双回文串](https://www.luogu.org/problemnew/show/P4555)
 * [P1659 [国家集训队]拉拉队排练](https://www.luogu.org/problemnew/show/P1659)
 
-#### Part 4.4.3 Trie树
+#### Part 4.4.4 Trie树
 
 * [P2292 [HNOI2004]L语言](https://www.luogu.org/problemnew/show/P2292)
 * [P2922 [USACO08DEC]秘密消息Secret Message](https://www.luogu.org/problemnew/show/P2922)
@@ -761,23 +768,36 @@
 * [P3879 [TJOI2010]阅读理解](https://www.luogu.org/problemnew/show/P3879)
 * [P4551 最长异或路径](https://www.luogu.org/problemnew/show/P4551)
 * [P4407 [JSOI2009]电子字典](https://www.luogu.org/problemnew/show/P4407)
+* [P4683 [IOI2008] Type Printer 打印机](https://www.luogu.org/problemnew/show/P4683)
 
-#### Part 4.4.4 AC自动机
+#### Part 4.4.5 AC自动机
 
 * [P3808 【模板】AC自动机（简单版）](https://www.luogu.org/problemnew/show/P3808)
 * [P3796 【模板】AC自动机（加强版）](https://www.luogu.org/problemnew/show/P3796)
 * [P3121 [USACO15FEB]审查（黄金）Censoring (Gold)](https://www.luogu.org/problemnew/show/P3121)
-* [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
 * [P2414 [NOI2011]阿狸的打字机](https://www.luogu.org/problemnew/show/P2414)
 * [P3966 [TJOI2013]单词](https://www.luogu.org/problemnew/show/P3966)
+* [P2444 [POI2000]病毒](https://www.luogu.org/problemnew/show/P2444)
+* [P3311 [SDOI2014]数数](https://www.luogu.org/problemnew/show/P3311)
+* [P4052 [JSOI2007]文本生成器](https://www.luogu.org/problemnew/show/P4052)
 
-#### Part 4.4.5 后缀数组
+#### Part 4.4.6 后缀数组
 
 * [P3809 【模板】后缀排序](https://www.luogu.org/problemnew/show/P3809)
 * [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
 * [P2178 [NOI2015]品酒大会](https://www.luogu.org/problemnew/show/P2178)
 * [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problemnew/show/P2463)
 * [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
+* [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
+* [P2852 [USACO06DEC]牛奶模式Milk Patterns](https://www.luogu.org/problemnew/show/P2852)
+
+#### Part 4.4.7 后缀自动机
+
+* [P3804 【模板】后缀自动机](https://www.luogu.org/problemnew/show/P3804)
+* [P4770 [NOI2018]你的名字](https://www.luogu.org/problemnew/show/P4770)
+* [P3649 [APIO2014]回文串](https://www.luogu.org/problemnew/show/P3649)
+* [P3975 [TJOI2015]弦论](https://www.luogu.org/problemnew/show/P3975)
+* [P4248 [AHOI2013]差异](https://www.luogu.org/problemnew/show/P4248)
 
 ### Part 4.5 省选搜索
 
@@ -861,7 +881,18 @@
 * [P2050 [NOI2012]美食节](https://www.luogu.org/problemnew/show/P2050)
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
 
-### Part 4.7 非传统题
+### Part 4.7 其他算法
+
+#### Part 4.7.1 模拟退火
+
+> 模拟退火是一种随机化算法。当一个问题的方案数量极大（甚至是无穷的）而且不是一个单峰函数时，我们常使用模拟退火求解。
+
+* [P1337 [JSOI2004]平衡点 / 吊打XXX](https://www.luogu.org/problemnew/show/P1337)
+* [P2503 [HAOI2006]均分数据](https://www.luogu.org/problemnew/show/P2503)
+* [P3878 [TJOI2010]分金币](https://www.luogu.org/problemnew/show/P3878)
+* [P4360 [CEOI2004]锯木厂选址](https://www.luogu.org/problemnew/show/P4360)
+
+### Part 4.8 非传统题
 
 > 在NOI等比赛中，非传统题正越来越频繁出现。
 >
@@ -869,7 +900,7 @@
 >
 > 因为洛谷目前只支持提交答案题，因此这里暂时只列出提交答案题。
 
-#### Part 4.7.1 提交答案题
+#### Part 4.8.1 提交答案题
 
 > 给你一些输入，你只需要提交这些输入对应的答案，即为提交答案题。
 
