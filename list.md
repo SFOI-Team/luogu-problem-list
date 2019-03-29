@@ -527,11 +527,12 @@
 #### Part 4.1.3 主席树
 
 * [P2468 [SDOI2010]粟粟的书架](https://www.luogu.org/problemnew/show/P2468)
-* [P3157 [CQOI2011]动态逆序对](https://www.luogu.org/problemnew/show/P3157)
 * [P3302 [SDOI2013]森林](https://www.luogu.org/problemnew/show/P3302)
 * [P3168 [CQOI2015]任务查询系统](https://www.luogu.org/problemnew/show/P3168)
 * [P4559 [JSOI2018]列队](https://www.luogu.org/problemnew/show/P4559)
 * [P4618 [SDOI2018]原题识别](https://www.luogu.org/problemnew/show/P4618)
+* [P2633 Count on a tree](https://www.luogu.org/problemnew/show/P2633)
+* [P3293 [SCOI2016]美味](https://www.luogu.org/problemnew/show/P3293)
 
 #### Part 4.1.4 平衡树
 
@@ -569,6 +570,8 @@
 * [P4278 带插入区间K小值](https://www.luogu.org/problemnew/show/P4278)
 * [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problemnew/show/P1903)
 * [P3759 [TJOI2017]不勤劳的图书管理员](https://www.luogu.org/problemnew/show/P3759)
+* [P3242 [HNOI2015]接水果](https://www.luogu.org/problemnew/show/P3242)
+* [P3248 [HNOI2016]树](https://www.luogu.org/problemnew/show/P3248)
 
 #### Part 4.1.7 动态树
 
@@ -577,12 +580,19 @@
 * [P1501 [国家集训队]Tree II](https://www.luogu.org/problemnew/show/P1501)
 * [P4338 [ZJOI2018]历史](https://www.luogu.org/problemnew/show/P4338)
 * [P4312 [COCI 2009] OTOCI / 极地旅行社](https://www.luogu.org/problemnew/show/P4312)
+* [P2387 [NOI2014]魔法森林](https://www.luogu.org/problemnew/show/P2387)
+* [P3348 [ZJOI2016]大森林](https://www.luogu.org/problemnew/show/P3348)
+* [P3703 [SDOI2017]树点涂色](https://www.luogu.org/problemnew/show/P3703)
+* [P4172 [WC2006]水管局长](https://www.luogu.org/problemnew/show/P4172)
+* [P4219 [BJOI2014]大融合](https://www.luogu.org/problemnew/show/P4219)
 
 #### Part 4.1.8 CDQ分治&整体二分
 
 * [P3810 【模板】三维偏序（陌上花开）](https://www.luogu.org/problemnew/show/P3810)
 * [P1393 动态逆序对](https://www.luogu.org/problemnew/show/P1393)
 * [P2617 Dynamic Rankings](https://www.luogu.org/problemnew/show/P2617)
+* [P3332 [ZJOI2013]K大数查询](https://www.luogu.org/problemnew/show/P3332)
+* [P4169 [Violet]天使玩偶/SJY摆棋子](https://www.luogu.org/problemnew/show/P4169)
 
 #### Part 4.1.9 可持久化数据结构
 
@@ -909,6 +919,11 @@
 
 * [P4782 【模板】2-SAT 问题](https://www.luogu.org/problemnew/show/P4782)
 * [P3825 [NOI2017]游戏](https://www.luogu.org/problemnew/show/P3825)
+
+#### Part 4.6.4 虚树
+
+* [P2495 [SDOI2011]消耗战](https://www.luogu.org/problemnew/show/P2495)
+* [P3233 [HNOI2014]世界树](https://www.luogu.org/problemnew/show/P3233)
 
 ### Part 4.7 其他算法
 
