@@ -620,6 +620,8 @@
 * [P2157 [SDOI2009]学校食堂](https://www.luogu.org/problemnew/show/P2157)
 * [P2167 [SDOI2009]Bill的挑战](https://www.luogu.org/problemnew/show/P2167)
 * [P4925 [1007]Scarlet的字符串不可能这么可爱](https://www.luogu.org/problemnew/show/P4925)
+* [P3648 [APIO2014]序列分割](https://www.luogu.org/problemnew/show/P3648)
+* [P4363 [九省联考2018]一双木棋chess](https://www.luogu.org/problemnew/show/P4363)
 * [P5005 中国象棋 - 摆上马](https://www.luogu.org/problemnew/show/P5005)
 * [P2396 yyy loves Maths VII](https://www.luogu.org/problemnew/show/P2396)
 
@@ -671,6 +673,7 @@
 * [P2518 [HAOI2010]计数](https://www.luogu.org/problemnew/show/P2518)
 * [P2657 [SCOI2009]windy数](https://www.luogu.org/problemnew/show/P2657)
 * [P3286 [SCOI2014]方伯伯的商场之旅](https://www.luogu.org/problemnew/show/P3286)
+* [P2606 [ZJOI2010]排列计数](https://www.luogu.org/problemnew/show/P2606)
 
 #### Part 4.2.8 轮廓线动态规划
 
@@ -693,12 +696,13 @@
 * [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
 * [P3830 [SHOI2012]随机树](https://www.luogu.org/problemnew/show/P3830)
 * [P4564 [CTSC2018]假面](https://www.luogu.org/problemnew/show/P4564)
-* [P5104 红包发红包](https://www.luogu.org/problemnew/show/P5104)
 * [P2473 [SCOI2008]奖励关](https://www.luogu.org/problemnew/show/P2473)
 * [P2221 [HAOI2012]高速公路](https://www.luogu.org/problemnew/show/P2221)
 * [P3317 [SDOI2014]重建](https://www.luogu.org/problemnew/show/P3317)
 * [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
 * [P4284 [SHOI2014]概率充电器](https://www.luogu.org/problemnew/show/P4284)
+* [P5104 红包发红包](https://www.luogu.org/problemnew/show/P5104)
+* [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
 
 #### Part 4.3.2 线性代数
 
