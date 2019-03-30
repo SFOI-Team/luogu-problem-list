@@ -735,6 +735,7 @@
 * [P3857 [TJOI2008]彩灯](https://www.luogu.org/problemnew/show/P3857)
 * [P4151 [WC2011]最大XOR和路径](https://www.luogu.org/problemnew/show/P4151)
 * [P4301 [CQOI2013]新Nim游戏](https://www.luogu.org/problemnew/show/P4301)
+* [P3292 [SCOI2016]幸运数字](https://www.luogu.org/problemnew/show/P3292)
 
 #### Part 4.3.3 组合数学
 
@@ -760,6 +761,8 @@
 * [P4721 【模板】分治 FFT](https://www.luogu.org/problemnew/show/P4721)
 * [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
 * [P4461 [CQOI2018]九连环](https://www.luogu.org/problemnew/show/P4461)
+* [P3338 [ZJOI2014]力](https://www.luogu.org/problemnew/show/P3338)
+* [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
 
 #### Part 4.3.5 莫比乌斯反演
 
@@ -939,6 +942,14 @@
 * [P2503 [HAOI2006]均分数据](https://www.luogu.org/problemnew/show/P2503)
 * [P3878 [TJOI2010]分金币](https://www.luogu.org/problemnew/show/P3878)
 * [P4360 [CEOI2004]锯木厂选址](https://www.luogu.org/problemnew/show/P4360)
+
+#### Part 4.7.2 0/1 分数规划
+
+* [P3199 [HNOI2009]最小圈](https://www.luogu.org/problemnew/show/P3199)
+* [P3288 [SCOI2014]方伯伯运椰子](https://www.luogu.org/problemnew/show/P3288)
+* [P3705 [SDOI2017]新生舞会](https://www.luogu.org/problemnew/show/P3705)
+* [P4322 [JSOI2016]最佳团体](https://www.luogu.org/problemnew/show/P4322)
+* [P4377 [USACO18OPEN]Talent Show](https://www.luogu.org/problemnew/show/P4377)
 
 ### Part 4.8 非传统题
 
