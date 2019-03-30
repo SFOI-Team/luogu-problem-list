@@ -51,6 +51,13 @@
 * [P1980 计数问题](https://www.luogu.org/problemnew/show/P1980)
 * [P1014 Cantor表](https://www.luogu.org/problemnew/show/P1014)
 * [P1307 数字反转](https://www.luogu.org/problemnew/show/P1307)
+===============以下由Garbage贡献===============
+* [P1428 小鱼比可爱](https://www.luogu.org/problemnew/show/P1428)
+* [P1425 小鱼的游泳时间](https://www.luogu.org/problemnew/show/P1425)
+* [P1427 小鱼的数字游戏](https://www.luogu.org/problemnew/show/P1427)
+* [P1426 小鱼会有危险吗](https://www.luogu.org/problemnew/show/P1426)
+* [P1424 小鱼的航程(改进版)](https://www.luogu.org/problemnew/show/P1424)
+===============以上由Garbage贡献===============
 
 ### Part 1.2 数组基础
 
