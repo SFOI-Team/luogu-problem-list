@@ -766,8 +766,19 @@
 * [P4245 【模板】任意模数NTT](https://www.luogu.org/problemnew/show/P4245)
 * [P4717 【模板】快速沃尔什变换](https://www.luogu.org/problemnew/show/P4717)
 * [P4721 【模板】分治 FFT](https://www.luogu.org/problemnew/show/P4721)
+* [P4725 【模板】多项式对数函数](https://www.luogu.org/problemnew/show/P4725)
+* [P4726 【模板】多项式指数函数](https://www.luogu.org/problemnew/show/P4726)
+* [P4781 【模板】拉格朗日插值](https://www.luogu.org/problemnew/show/P4781)
+* [P5050 【模板】多项式多点求值](https://www.luogu.org/problemnew/show/P5050)
+* [P5158 【模板】多项式快速插值](https://www.luogu.org/problemnew/show/P5158)
+* [P5205 【模板】多项式开根](https://www.luogu.org/problemnew/show/P5205)
+* [P5245 【模板】多项式快速幂](https://www.luogu.org/problemnew/show/P5245)
+* [P5264 【模板】多项式三角函数](https://www.luogu.org/problemnew/show/P5264)
+* [P5265 【模板】多项式反三角函数](https://www.luogu.org/problemnew/show/P5265)
+* [P5273 【模板】多项式幂函数 (加强版)](https://www.luogu.org/problemnew/show/P5273)
+* [P5277 【模板】多项式开根（加强版）](https://www.luogu.org/problemnew/show/P5277)
+* [P5282 【模板】快速阶乘算法](https://www.luogu.org/problemnew/show/P5282)
 * [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
-* [P4461 [CQOI2018]九连环](https://www.luogu.org/problemnew/show/P4461)
 * [P3338 [ZJOI2014]力](https://www.luogu.org/problemnew/show/P3338)
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
 
@@ -838,6 +849,7 @@
 * [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
 * [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
 * [P2852 [USACO06DEC]牛奶模式Milk Patterns](https://www.luogu.org/problemnew/show/P2852)
+* [P5284 [十二省联考2019]字符串问题](https://www.luogu.org/problemnew/show/P5284)
 
 #### Part 4.4.7 后缀自动机
 
@@ -902,6 +914,7 @@
 > 可以证明，**最大流=最小割**，因此我们将最大流和最小割专题放在一起。
 
 * [P3376 【模板】网络最大流](https://www.luogu.org/problemnew/show/P3376)
+* [P4722 【模板】最大流 加强版 / 预流推进](https://www.luogu.org/problemnew/show/P4722)
 * [P1345 [USACO5.4]奶牛的电信Telecowmunication](https://www.luogu.org/problemnew/show/P1345)
 * [P2774 方格取数问题](https://www.luogu.org/problemnew/show/P2774)
 * [P2763 试题库问题](https://www.luogu.org/problemnew/show/P2763)
@@ -957,6 +970,15 @@
 * [P3705 [SDOI2017]新生舞会](https://www.luogu.org/problemnew/show/P3705)
 * [P4322 [JSOI2016]最佳团体](https://www.luogu.org/problemnew/show/P4322)
 * [P4377 [USACO18OPEN]Talent Show](https://www.luogu.org/problemnew/show/P4377)
+
+#### Part 4.7.3 奇怪的题目
+
+> OI界中有一些非常规套路的题目，这里放出来分享。
+
+* [P4920 [WC2015]未来程序](https://www.luogu.org/problemnew/show/P4920)
+* [P5042 [国家集训队] 丢失的题面（ydc的题面）](https://www.luogu.org/problemnew/show/P5042)
+* [P5285 [十二省联考2019]骗分过样例](https://www.luogu.org/problemnew/show/P5285)
+* [P5246 [集训队互测2016] 消失的源代码](https://www.luogu.org/problemnew/show/P5246)
 
 ### Part 4.8 非传统题
 
