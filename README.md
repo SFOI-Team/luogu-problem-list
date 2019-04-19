@@ -33,3 +33,5 @@ todo.list：为[memset0的todolist工具](https://github.com/memset0/luogu-todol
 想要提建议的话，请开issue。
 
 当然如果你想直接修改题单的话，你可以fork一份副本，修改完成后向我发起Pull Request。
+
+本项目的贡献者名单可以在[这里](https://github.com/SFOI-Team/luogu-problem-list/blob/master/contributors.md)查看。
