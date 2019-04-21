@@ -1,18 +1,18 @@
-试炼场的题目确实很具有代表性，但是近几年以来，又有许多经典题目出现在OI界中，这个大题单就是作为试炼场的扩展和补充。
+洛谷试炼场的题目确实很具有代表性，但是近几年以来，又有许多经典题目出现在 OI 界中，这个大题单就是作为洛谷试炼场的扩展和补充。
 
 ## Copyleft
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-本项目采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/)以及附加的[The Star And Thank Author License](https://github.com/zTrix/sata-license)进行许可。
+本项目采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/)以及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
 
-换言之，您可以自由的共享并演绎该项目，但是必须给出必要的署名，并以相同方式共享本项目，并为本项目的[Github仓库](https://github.com/SFOI-Team/luogu-problem-list)点赞（Star）。
+换言之，您可以自由的共享并演绎该项目，但是必须给出必要的署名，并以相同方式共享本项目，并为本项目的 [Github 仓库](https://github.com/SFOI-Team/luogu-problem-list)点赞（Star）。
 
 ## 更新日志
 
 1.2 2019/3/30：
 
-1. 新增专题：CDQ分治，字符串哈希，后缀自动机，2-SAT，虚树，模拟退火，0/1 分数规划。
+1. 新增专题：CDQ 分治，字符串哈希，后缀自动机，2-SAT，虚树，模拟退火，0/1 分数规划。
 2. 添加题目：数据结构各专题添加了大量题目。其他各专题也添加了一定题目。
 
 （感谢 [xht37](https://xht37.cnblogs.com) 的贡献！）
@@ -24,13 +24,13 @@
 1.1 2019/3/13：
 
 1. 添加了新专题：非传统题，并在其中添加了提交答案题。
-2. 添加了新专题：省选字符串算法，并添加了KMP，Manacher算法的题目，将原来位于省选数据结构的Trie树和AC自动机两个小类移动到了该专题。
+2. 添加了新专题：省选字符串算法，并添加了 KMP，Manacher 算法的题目，将原来位于省选数据结构的 Trie 树和 AC 自动机两个小类移动到了该专题。
 3. 部分题目分类进行了调整。
 
 1.0 2019/1/24：
 
 1. 再一次校对了题单，并修正了部分内容。
-2. 将题单发布至Github。
+2. 将题单发布至 Github。
 
 [更早版本的更新日志请点击这里查看](https://github.com/SFOI-Team/luogu-problem-list/blob/master/history.md)
 
@@ -44,7 +44,7 @@
 
 ## Part 1 入门阶段
 
-> 本部分内容主要针对入门OIer。算法的成分不算太多，主要是语言方面的知识。
+> 本部分内容主要针对入门 OIer。算法的成分不算太多，主要是语言方面的知识。
 
 ### Part 1.1 从零开始
 
@@ -89,7 +89,7 @@
 
 ## Part 2 普及组算法
 
-> 这一部分的内容包含了OI中绝大多数的基本算法，供各位巩固基础。
+> 这一部分的内容包含了 OI 中绝大多数的基本算法，供各位巩固基础。
 
 ### Part 2.1 模拟
 
@@ -240,7 +240,7 @@
 
 ### Part 2.9 高精度
 
-> 在C++中，long long都无法表示我们需要的整数时怎么办？那就用高精度吧！
+> 在 C++ 中，long long 都无法表示我们需要的整数时怎么办？那就用高精度吧！
 
 * [P1601 A+B Problem（高精）](https://www.luogu.org/problemnew/show/P1601)
 * [P2142 高精度减法](https://www.luogu.org/problemnew/show/P2142)
@@ -280,7 +280,7 @@
 
 > 如何优化搜索的效率，让搜索算法拿到更多的分数？
 >
-> 我们在这里主要讨论记忆化搜索和剪枝这两种NOIP常用的搜索优化方法。
+> 我们在这里主要讨论记忆化搜索和剪枝这两种 NOIP 中常用的搜索优化方法。
 
 #### Part 3.2.1 记忆化搜索
 
@@ -303,9 +303,9 @@
 
 ### Part 3.3 数学
 
-> OI中的数学知识很多，也有些杂乱。当然，NOIP考到的数学知识范围并不算太大。
+> OI 中的数学知识很多，也有些杂乱。当然，NOIP 考到的数学知识范围并不算太大。
 >
-> 这里给出的是NOIP中较常考的数学内容，更多的数学知识可以在省选部分找到。
+> 这里给出的是 NOIP 中较常考的数学内容，更多的数学知识可以在省选部分找到。
 
 #### Part 3.3.1 整除相关
 
@@ -313,7 +313,7 @@
 
 ##### Part 3.3.1.1 素数
 
-> 素数，指的是除1和它本身之外没有其他约数的数。
+> 素数，指的是除 1 和它本身之外没有其他约数的数。
 
 * [P3383 【模板】线性筛素数](https://www.luogu.org/problemnew/show/P3383)
 * [P4718 【模板】Pollard-Rho算法](https://www.luogu.org/problemnew/show/P4718)
@@ -362,7 +362,7 @@
 
 ### Part 3.4 高级数据结构
 
-> 虽然这些数据结构NOIP中并不一定会考察到，但这些数据结构都非常有用，并且也是学习更高级数据结构的基础。
+> 虽然这些数据结构在 NOIP 中并不一定会考察到，但这些数据结构都非常有用，并且也是学习更高级数据结构的基础。
 
 #### Part 3.4.1 树状数组
 
@@ -445,7 +445,7 @@
 
 > 树的直径被定义为树上最远的两点间的距离。
 >
-> 计算树的直径，可以通过两遍DFS解决。
+> 计算树的直径，可以通过两遍 DFS 解决。
 
 * [P2195 HXY造公园](https://www.luogu.org/problemnew/show/P2195)
 * [P3629 [APIO2010]巡逻](https://www.luogu.org/problemnew/show/P3629)
@@ -489,7 +489,7 @@
 
 #### Part 3.5.7 图的连通性相关
 
-> 利用Tarjan算法，我们可以解决很多与图的连通性相关的问题。
+> 利用 Tarjan 算法，我们可以解决很多与图的连通性相关的问题。
 
 * [P3387 【模板】缩点](https://www.luogu.org/problemnew/show/P3387)
 * [P3388 【模板】割点（割顶）](https://www.luogu.org/problemnew/show/P3388)
@@ -498,7 +498,7 @@
 * [P2341 [HAOI2006]受欢迎的牛](https://www.luogu.org/problemnew/show/P2341)
 * [P2515 [HAOI2010]软件安装](https://www.luogu.org/problemnew/show/P2515)
 
-## Part 4 省选/NOI算法
+## Part 4 省选/NOI 算法
 
 > 省选考到的东西很多，这里列出代表性的题目，供大家参考。
 
@@ -684,7 +684,7 @@
 
 #### Part 4.2.8 轮廓线动态规划
 
-> 轮廓线动态规划（即常说的插头DP）是一种特殊的状压动态规划，通过以轮廓线为状态来实现状态转移。
+> 轮廓线动态规划（即常说的插头 DP）是一种特殊的状压动态规划，通过以轮廓线为状态来实现状态转移。
 
 * [P5056 【模板】插头dp](https://www.luogu.org/problemnew/show/P5056)
 * [P2289 [HNOI2004]邮递员](https://www.luogu.org/problemnew/show/P2289)
@@ -696,7 +696,7 @@
 
 #### Part 4.3.1 概率与期望
 
-> 概率和期望是紧密相连的，OI中往往会出现和概率期望相关的动态规划问题。
+> 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
 
 * [P1850 换教室](https://www.luogu.org/problemnew/show/P1850)
 * [P2081 [NOI2012]迷失游乐园](https://www.luogu.org/problemnew/show/P2081)
@@ -799,7 +799,7 @@
 
 #### Part 4.4.2 KMP
 
-> KMP算法可以用来解决模式串匹配问题。
+> KMP 算法可以用来解决模式串匹配问题。
 
 * [P3375 【模板】KMP字符串匹配](https://www.luogu.org/problemnew/show/P3375)
 * [P4391 [BOI2009]Radio Transmission 无线传输](https://www.luogu.org/problemnew/show/P4391)
@@ -811,7 +811,7 @@
 
 #### Part 4.4.3 Manacher
 
-> Manacher算法可以在线性时间内求出一个字符串的最长回文子串。
+> Manacher 法可以在线性时间内求出一个字符串的最长回文子串。
 
 * [P3805 【模板】manacher算法](https://www.luogu.org/problemnew/show/P3805)
 * [P4555 [国家集训队]最长双回文串](https://www.luogu.org/problemnew/show/P4555)
@@ -873,15 +873,15 @@
 
 #### Part 4.5.2 A\*
 
-> 在BFS中，如果能设计一个合理的估价函数，就可以更快扩展到最优解。这就是A\*算法。
+> 在 BFS 中，如果能设计一个合理的估价函数，就可以更快扩展到最优解。这就是 A\*算法。
 
 * [P1379 八数码难题](https://www.luogu.org/problemnew/show/P1379)
 
 #### Part 4.5.3 IDA\*
 
-> 像BFS那样，每次只扩展一层节点，却采用DFS方式来遍历搜索树，这就是迭代加深搜索。
+> 像 BFS 那样，每次只扩展一层节点，却采用 DFS 方式来遍历搜索树，这就是迭代加深搜索。
 >
-> 再加上一个估价函数来减小搜索量，就是IDA\*了。
+> 再加上一个估价函数来减小搜索量，就是 IDA\*了。
 
 * [P2324 [SCOI2005]骑士精神](https://www.luogu.org/problemnew/show/P2324)
 
@@ -973,7 +973,7 @@
 
 #### Part 4.7.3 奇怪的题目
 
-> OI界中有一些非常规套路的题目，这里放出来分享。
+> OI 界中有一些非常规套路的题目，这里放出来分享。
 
 * [P4920 [WC2015]未来程序](https://www.luogu.org/problemnew/show/P4920)
 * [P5042 [国家集训队] 丢失的题面（ydc的题面）](https://www.luogu.org/problemnew/show/P5042)
@@ -982,7 +982,7 @@
 
 ### Part 4.8 非传统题
 
-> 在NOI等比赛中，非传统题正越来越频繁出现。
+> 在 NOI 等比赛中，非传统题正越来越频繁出现。
 >
 > 非传统题主要包括以下几类：提交答案题，交互题，通信题。
 >
