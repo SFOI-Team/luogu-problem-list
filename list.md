@@ -224,7 +224,6 @@
 * [P1216 数字三角形](https://www.luogu.org/problemnew/show/P1216)
 * [P1020 导弹拦截](https://www.luogu.org/problemnew/show/P1020)
 * [P1091 合唱队形](https://www.luogu.org/problemnew/show/P1091)
-* [P1005 矩阵取数游戏](https://www.luogu.org/problemnew/show/P1005)
 * [P1095 守望者的逃离](https://www.luogu.org/problemnew/show/P1095)
 * [P1541 乌龟棋](https://www.luogu.org/problemnew/show/P1541)
 * [P1868 饥饿的奶牛](https://www.luogu.org/problemnew/show/P1868)
@@ -263,11 +262,12 @@
 
 > 区间动态规划一般以区间作为动态规划的阶段。
 
+* [P1880 [NOI1995]石子合并](https://www.luogu.org/problemnew/show/P1880)
 * [P3146 [USACO16OPEN]248](https://www.luogu.org/problemnew/show/P3146)
 * [P2466 [SDOI2008]Sue的小球](https://www.luogu.org/problemnew/show/P2466)
 * [P4302 [SCOI2003]字符串折叠](https://www.luogu.org/problemnew/show/P4302)
-* [P1880 [NOI1995]石子合并](https://www.luogu.org/problemnew/show/P1880)
 * [P1063 能量项链](https://www.luogu.org/problemnew/show/P1063)
+* [P1005 矩阵取数游戏](https://www.luogu.org/problemnew/show/P1005)
 
 #### Part 3.1.2 树形动态规划
 
