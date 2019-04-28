@@ -276,9 +276,9 @@
 > 因为树的递归性质，树形动态规划一般都是递归求解的。
 
 * [P1352 没有上司的舞会](https://www.luogu.org/problemnew/show/P1352)
-* [P2014 选课](https://www.luogu.org/problemnew/show/P2014)
 * [P1040 加分二叉树](https://www.luogu.org/problemnew/show/P1040)
 * [P1122 最大子树和](https://www.luogu.org/problemnew/show/P1122)
+* [P2014 选课](https://www.luogu.org/problemnew/show/P2014)
 
 ### Part 3.2 高级搜索
 
@@ -350,9 +350,9 @@
 * [P4549 【模板】裴蜀定理](https://www.luogu.org/problemnew/show/P4549)
 * [P2613 【模板】有理数取余](https://www.luogu.org/problemnew/show/P2613)
 * [P1082 同余方程](https://www.luogu.org/problemnew/show/P1082)
+* [P1414 又是毕业季II](https://www.luogu.org/problemnew/show/P1414)
 * [P3951 小凯的疑惑](https://www.luogu.org/problemnew/show/P3951)
 * [P1516 青蛙的约会](https://www.luogu.org/problemnew/show/P1516)
-* [P1414 又是毕业季II](https://www.luogu.org/problemnew/show/P1414)
 
 #### Part 3.3.3 博弈论
 
@@ -387,15 +387,15 @@
 
 * [P3372 【模板】线段树 1](https://www.luogu.org/problemnew/show/P3372)
 * [P3373 【模板】线段树 2](https://www.luogu.org/problemnew/show/P3373)
-* [P1502 窗口的星星](https://www.luogu.org/problemnew/show/P1502)
-* [P2471 [SCOI2007]降雨量](https://www.luogu.org/problemnew/show/P2471)
 * [P1382 楼房](https://www.luogu.org/problemnew/show/P1382)
 * [P1471 方差](https://www.luogu.org/problemnew/show/P1471)
-* [P4198 楼房重建](https://www.luogu.org/problemnew/show/P4198)
-* [P3722 [AH2017/HNOI2017]影魔](https://www.luogu.org/problemnew/show/P3722)
+* [P1502 窗口的星星](https://www.luogu.org/problemnew/show/P1502)
+* [P2471 [SCOI2007]降雨量](https://www.luogu.org/problemnew/show/P2471)
 * [P2824 [HEOI2016/TJOI2016]排序](https://www.luogu.org/problemnew/show/P2824)
+* [P3722 [AH2017/HNOI2017]影魔](https://www.luogu.org/problemnew/show/P3722)
 * [P4097 [HEOI2013]Segment](https://www.luogu.org/problemnew/show/P4097)
-* [P4513 小白逛公园](https://www.luogu.org/problemnew/solution/P4513)
+* [P4198 楼房重建](https://www.luogu.org/problemnew/show/P4198)
+* [P4513 小白逛公园](https://www.luogu.org/problemnew/show/P4513)
 
 #### Part 3.4.3 并查集
 
@@ -403,11 +403,11 @@
 
 * [P1111 修复公路](https://www.luogu.org/problemnew/show/P1111)
 * [P3958 奶酪](https://www.luogu.org/problemnew/show/P3958)
+* [P1525 关押罪犯](https://www.luogu.org/problemnew/show/P1525)
 * [P2024 [NOI2001]食物链](https://www.luogu.org/problemnew/show/P2024)
 * [P1197 [JSOI2008]星球大战](https://www.luogu.org/problemnew/show/P1197)
 * [P1196 [NOI2002]银河英雄传说](https://www.luogu.org/problemnew/show/P1196)
 * [P1955 [NOI2015]程序自动分析](https://www.luogu.org/problemnew/show/P1955)
-* [P1525 关押罪犯](https://www.luogu.org/problemnew/show/P1525)
 
 #### Part 3.4.4 堆
 
@@ -541,9 +541,9 @@
 * [P3302 [SDOI2013]森林](https://www.luogu.org/problemnew/show/P3302)
 * [P3168 [CQOI2015]任务查询系统](https://www.luogu.org/problemnew/show/P3168)
 * [P4559 [JSOI2018]列队](https://www.luogu.org/problemnew/show/P4559)
-* [P4618 [SDOI2018]原题识别](https://www.luogu.org/problemnew/show/P4618)
 * [P2633 Count on a tree](https://www.luogu.org/problemnew/show/P2633)
 * [P3293 [SCOI2016]美味](https://www.luogu.org/problemnew/show/P3293)
+* [P4618 [SDOI2018]原题识别](https://www.luogu.org/problemnew/show/P4618)
 
 #### Part 4.1.4 平衡树
 
@@ -640,8 +640,8 @@
 
 > 利用倍增的方式，我们可以将状态转移的效率大大提高。
 
-* [P1081 开车旅行](https://www.luogu.org/problemnew/show/P1081)
 * [P1613 跑路](https://www.luogu.org/problemnew/show/P1613)
+* [P1081 开车旅行](https://www.luogu.org/problemnew/show/P1081)
 * [P5024 保卫王国](https://www.luogu.org/problemnew/show/P5024)
 
 #### Part 4.2.3 数据结构优化动态规划
@@ -655,9 +655,13 @@
 
 > 如果决策具有单调性，就可以考虑运用单调队列来优化动态规划的效率。
 
+* [P1776 宝物筛选_NOI导刊2010提高（02）](https://www.luogu.org/problemnew/show/P1776)
+* [P3089 [USACO13NOV]POGO的牛Pogo-Cow](https://www.luogu.org/problemnew/show/P3089)
 * [P3572 [POI2014]PTA-Little Bird](https://www.luogu.org/problemnew/show/P3572)
 * [P3522 [POI2011]TEM-Temperature](https://www.luogu.org/problemnew/show/P3522)
 * [P4544 [USACO10NOV]购买饲料Buying Feed](https://www.luogu.org/problemnew/show/P4544)
+* [P2569 [SCOI2010]股票交易](https://www.luogu.org/problemnew/show/P2569)
+* [P4852 yyf hates choukapai](https://www.luogu.org/problemnew/show/P4852)
 
 #### Part 4.2.5 斜率优化动态规划
 
@@ -668,6 +672,7 @@
 * [P3195 [HNOI2008]玩具装箱TOY](https://www.luogu.org/problemnew/show/P3195)
 * [P3628 [APIO2010]特别行动队](https://www.luogu.org/problemnew/show/P3628)
 * [P4027 [NOI2007]货币兑换](https://www.luogu.org/problemnew/show/P4027)
+* [P4360 [CEOI2004]锯木厂选址](https://www.luogu.org/problemnew/show/P4360)
 
 #### Part 4.2.6 四边形不等式优化动态规划
 
@@ -702,6 +707,7 @@
 
 > 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
 
+* [P5104 红包发红包](https://www.luogu.org/problemnew/show/P5104)
 * [P1850 换教室](https://www.luogu.org/problemnew/show/P1850)
 * [P2081 [NOI2012]迷失游乐园](https://www.luogu.org/problemnew/show/P2081)
 * [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
@@ -712,7 +718,6 @@
 * [P3317 [SDOI2014]重建](https://www.luogu.org/problemnew/show/P3317)
 * [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
 * [P4284 [SHOI2014]概率充电器](https://www.luogu.org/problemnew/show/P4284)
-* [P5104 红包发红包](https://www.luogu.org/problemnew/show/P5104)
 * [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
 
 #### Part 4.3.2 线性代数
@@ -965,7 +970,6 @@
 * [P1337 [JSOI2004]平衡点 / 吊打XXX](https://www.luogu.org/problemnew/show/P1337)
 * [P2503 [HAOI2006]均分数据](https://www.luogu.org/problemnew/show/P2503)
 * [P3878 [TJOI2010]分金币](https://www.luogu.org/problemnew/show/P3878)
-* [P4360 [CEOI2004]锯木厂选址](https://www.luogu.org/problemnew/show/P4360)
 
 #### Part 4.7.2 0/1 分数规划
 
