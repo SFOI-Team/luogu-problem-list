@@ -264,10 +264,10 @@
 
 * [P1880 [NOI1995]石子合并](https://www.luogu.org/problemnew/show/P1880)
 * [P3146 [USACO16OPEN]248](https://www.luogu.org/problemnew/show/P3146)
-* [P2466 [SDOI2008]Sue的小球](https://www.luogu.org/problemnew/show/P2466)
-* [P4302 [SCOI2003]字符串折叠](https://www.luogu.org/problemnew/show/P4302)
 * [P1063 能量项链](https://www.luogu.org/problemnew/show/P1063)
 * [P1005 矩阵取数游戏](https://www.luogu.org/problemnew/show/P1005)
+* [P4302 [SCOI2003]字符串折叠](https://www.luogu.org/problemnew/show/P4302)
+* [P2466 [SDOI2008]Sue的小球](https://www.luogu.org/problemnew/show/P2466)
 
 #### Part 3.1.2 树形动态规划
 
@@ -380,6 +380,7 @@
 * [P3586 [POI2015]LOG](https://www.luogu.org/problemnew/show/P3586)
 * [P4054 [JSOI2009]计数问题](https://www.luogu.org/problemnew/show/P4054)
 * [P4113 [HEOI2012]采花](https://www.luogu.org/problemnew/show/P4113)
+* [P3960 列队](https://www.luogu.org/problemnew/show/P3960)
 
 #### Part 3.4.2 线段树
 
@@ -415,8 +416,8 @@
 
 * [P3378 【模板】堆](https://www.luogu.org/problemnew/show/P3378)
 * [P1168 中位数](https://www.luogu.org/problemnew/show/P1168)
-* [P2827 蚯蚓](https://www.luogu.org/problemnew/show/P2827)
 * [P2085 最小函数值](https://www.luogu.org/problemnew/show/P2085)
+* [P2827 蚯蚓](https://www.luogu.org/problemnew/show/P2827)
 
 ### Part 3.5 图论
 
@@ -440,6 +441,7 @@
 * [P1462 通往奥格瑞玛的道路](https://www.luogu.org/problemnew/show/P1462)
 * [P1522 牛的旅行 Cow Tours](https://www.luogu.org/problemnew/show/P1522)
 * [P1266 速度限制](https://www.luogu.org/problemnew/show/P1266)
+* [P3238 [HNOI2014]道路堵塞](https://www.luogu.org/problemnew/show/P3238)
 
 #### Part 3.5.3 树上问题
 
@@ -465,9 +467,9 @@
 * [P3938 斐波那契](https://www.luogu.org/problemnew/show/P3938)
 * [P4281 [AHOI2008]紧急集合 / 聚会](https://www.luogu.org/problemnew/show/P4281)
 
-#### Part 3.5.4 最小生成树
+#### Part 3.5.4 生成树
 
-> 用 $ n-1 $ 条边将图上的 $ n $ 个点连接起来，就是最小生成树问题。
+> 用 $ n-1 $ 条边将图上的 $ n $ 个点连接起来，形成的树就被称为生成树。
 
 * [P3366 【模板】最小生成树](https://www.luogu.org/problemnew/show/P3366)
 * [P1546 最短网络 Agri-Net](https://www.luogu.org/problemnew/show/P1546)
@@ -499,7 +501,10 @@
 * [P3388 【模板】割点（割顶）](https://www.luogu.org/problemnew/show/P3388)
 * [P2863 [USACO06JAN]牛的舞会The Cow Prom](https://www.luogu.org/problemnew/show/P2863)
 * [P2746 [USACO5.3]校园网Network of Schools](https://www.luogu.org/problemnew/show/P2746)
+* [P1407 [国家集训队]稳定婚姻](https://www.luogu.org/problemnew/show/P1407)
 * [P2341 [HAOI2006]受欢迎的牛](https://www.luogu.org/problemnew/show/P2341)
+* [P3225 [HNOI2012]矿场搭建](https://www.luogu.org/problemnew/show/P3225)
+* [P5058 [ZJOI2004]嗅探器](https://www.luogu.org/problemnew/show/P5058)
 * [P2515 [HAOI2010]软件安装](https://www.luogu.org/problemnew/show/P2515)
 
 ## Part 4 省选/NOI 算法
@@ -516,8 +521,8 @@
 
 * [P3870 [TJOI2009]开关](https://www.luogu.org/problemnew/show/P3870)
 * [P1972 [SDOI2009]HH的项链](https://www.luogu.org/problemnew/show/P1972)
-* [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problemnew/show/P1494)
 * [P3396 哈希冲突](https://www.luogu.org/problemnew/show/P3396)
+* [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problemnew/show/P1494)
 * [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problemnew/show/P1903)
 * [P1975 [国家集训队]排队](https://www.luogu.org/problemnew/show/P1975)
 * [P3710 方方方的数据结构](https://www.luogu.org/problemnew/show/P3710)
@@ -527,6 +532,8 @@
 * [P4117 [Ynoi2018]五彩斑斓的世界](https://www.luogu.org/problemnew/show/P4117)
 
 #### Part 4.1.2 点分治
+
+> 点分治是一种可以高效统计树上路径信息的算法。
 
 * [P3806 【模板】点分治1](https://www.luogu.org/problemnew/show/P3806)
 * [P2634 [国家集训队]聪聪可可](https://www.luogu.org/problemnew/show/P2634)
@@ -549,7 +556,6 @@
 
 * [P3369 【模板】普通平衡树](https://www.luogu.org/problemnew/show/P3369)
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problemnew/show/P3391)
-* [P3285 [SCOI2014]方伯伯的OJ](https://www.luogu.org/problemnew/show/P3285)
 * [P3850 [TJOI2007]书架](https://www.luogu.org/problemnew/show/P3850)
 * [P4008 [NOI2003]文本编辑器](https://www.luogu.org/problemnew/show/P4008)
 * [P2042 [NOI2005]维护数列](https://www.luogu.org/problemnew/show/P2042)
@@ -557,23 +563,28 @@
 * [P3644 [APIO2015]八邻旁之桥](https://www.luogu.org/problemnew/show/P3644)
 * [P3765 总统选举](https://www.luogu.org/problemnew/show/P3765)
 * [P1486 [NOI2004]郁闷的出纳员](https://www.luogu.org/problemnew/show/P1486)
+* [P2710 数列](https://www.luogu.org/problemnew/show/P2710)
 * [P3224 [HNOI2012]永无乡](https://www.luogu.org/problemnew/show/P3224)
-* [P3960 列队](https://www.luogu.org/problemnew/show/P3960)
+* [P3285 [SCOI2014]方伯伯的OJ](https://www.luogu.org/problemnew/show/P3285)
 
 #### Part 4.1.5 树链剖分
+
+> 树链剖分可以将任意一条树上路径划分成若干条连续的链，并用线段树等数据结构高效维护链上信息。
 
 * [P3384 【模板】树链剖分](https://www.luogu.org/problemnew/show/P3384)
 * [P3313 [SDOI2014]旅行](https://www.luogu.org/problemnew/show/P3313)
 * [P2590 [ZJOI2008]树的统计](https://www.luogu.org/problemnew/show/P2590)
 * [P2486 [SDOI2011]染色](https://www.luogu.org/problemnew/show/P2486)
 * [P2146 [NOI2015]软件包管理器](https://www.luogu.org/problemnew/show/P2146)
-* [P3613 睡觉困难综合征](https://www.luogu.org/problemnew/show/P3613)
 * [P3178 [HAOI2015]树上操作](https://www.luogu.org/problemnew/show/P3178)
 * [P3258 [JLOI2014]松鼠的新家](https://www.luogu.org/problemnew/show/P3258)
+* [P3613 睡觉困难综合征](https://www.luogu.org/problemnew/show/P3613)
 * [P4069 [SDOI2016]游戏](https://www.luogu.org/problemnew/show/P4069)
 * [P4211 [LNOI2014]LCA](https://www.luogu.org/problemnew/show/P4211)
 
 #### Part 4.1.6 树套树
+
+> 树套树可以用来维护多维度信息。
 
 * [P3380 【模板】二逼平衡树（树套树）](https://www.luogu.org/problemnew/show/P3380)
 * [P1975 [国家集训队]排队](https://www.luogu.org/problemnew/show/P1975)
@@ -585,6 +596,8 @@
 * [P3248 [HNOI2016]树](https://www.luogu.org/problemnew/show/P3248)
 
 #### Part 4.1.7 动态树
+
+> Link-Cut Tree 可以用来解决动态树一类问题。
 
 * [P3690 【模板】Link Cut Tree （动态树）](https://www.luogu.org/problemnew/show/P3690)
 * [P3203 [HNOI2010]弹飞绵羊](https://www.luogu.org/problemnew/show/P3203)
@@ -598,6 +611,8 @@
 * [P4219 [BJOI2014]大融合](https://www.luogu.org/problemnew/show/P4219)
 
 #### Part 4.1.8 CDQ分治&整体二分
+
+> 通过离线分治算法，我们可以避免使用一些高级数据结构。
 
 * [P3810 【模板】三维偏序（陌上花开）](https://www.luogu.org/problemnew/show/P3810)
 * [P1393 动态逆序对](https://www.luogu.org/problemnew/show/P1393)
@@ -627,14 +642,14 @@
 * [P1879 [USACO06NOV]玉米田Corn Fields](https://www.luogu.org/problemnew/show/P1879)
 * [P1896 [SCOI2005]互不侵犯](https://www.luogu.org/problemnew/show/P1896)
 * [P2051 [AHOI2009]中国象棋](https://www.luogu.org/problemnew/show/P2051)
-* [P2150 [NOI2015]寿司晚宴](https://www.luogu.org/problemnew/show/P2150)
-* [P2157 [SDOI2009]学校食堂](https://www.luogu.org/problemnew/show/P2157)
-* [P2167 [SDOI2009]Bill的挑战](https://www.luogu.org/problemnew/show/P2167)
 * [P4925 [1007]Scarlet的字符串不可能这么可爱](https://www.luogu.org/problemnew/show/P4925)
 * [P3648 [APIO2014]序列分割](https://www.luogu.org/problemnew/show/P3648)
+* [P2157 [SDOI2009]学校食堂](https://www.luogu.org/problemnew/show/P2157)
+* [P2167 [SDOI2009]Bill的挑战](https://www.luogu.org/problemnew/show/P2167)
+* [P2396 yyy loves Maths VII](https://www.luogu.org/problemnew/show/P2396)
 * [P4363 [九省联考2018]一双木棋chess](https://www.luogu.org/problemnew/show/P4363)
 * [P5005 中国象棋 - 摆上马](https://www.luogu.org/problemnew/show/P5005)
-* [P2396 yyy loves Maths VII](https://www.luogu.org/problemnew/show/P2396)
+* [P2150 [NOI2015]寿司晚宴](https://www.luogu.org/problemnew/show/P2150)
 
 #### Part 4.2.2 倍增优化动态规划
 
@@ -709,16 +724,16 @@
 
 * [P5104 红包发红包](https://www.luogu.org/problemnew/show/P5104)
 * [P1850 换教室](https://www.luogu.org/problemnew/show/P1850)
-* [P2081 [NOI2012]迷失游乐园](https://www.luogu.org/problemnew/show/P2081)
 * [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
 * [P3830 [SHOI2012]随机树](https://www.luogu.org/problemnew/show/P3830)
 * [P4564 [CTSC2018]假面](https://www.luogu.org/problemnew/show/P4564)
 * [P2473 [SCOI2008]奖励关](https://www.luogu.org/problemnew/show/P2473)
 * [P2221 [HAOI2012]高速公路](https://www.luogu.org/problemnew/show/P2221)
 * [P3317 [SDOI2014]重建](https://www.luogu.org/problemnew/show/P3317)
-* [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
 * [P4284 [SHOI2014]概率充电器](https://www.luogu.org/problemnew/show/P4284)
 * [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
+* [P2081 [NOI2012]迷失游乐园](https://www.luogu.org/problemnew/show/P2081)
+* [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
 
 #### Part 4.3.2 线性代数
 
@@ -737,10 +752,10 @@
 > 高斯消元可以用来求解方程组。
 
 * [P4783 【模板】矩阵求逆](https://www.luogu.org/problemnew/show/P4783)
+* [P4387 付公主的函数](https://www.luogu.org/problemnew/show/P4387)
 * [P4035 [JSOI2008]球形空间产生器](https://www.luogu.org/problemnew/show/P4035)
 * [P4111 [HEOI2015]小Z的房间](https://www.luogu.org/problemnew/show/P4111)
 * [P4208 [JSOI2008]最小生成树计数](https://www.luogu.org/problemnew/show/P4208)
-* [P4387 付公主的函数](https://www.luogu.org/problemnew/show/P4387)
 * [P4457 [BJOI2018]治疗之雨](https://www.luogu.org/problemnew/show/P4457)
 
 ##### Part 4.3.2.3 线性基
@@ -749,9 +764,9 @@
 
 * [P3812 【模板】线性基](https://www.luogu.org/problemnew/show/P3812)
 * [P3857 [TJOI2008]彩灯](https://www.luogu.org/problemnew/show/P3857)
-* [P4151 [WC2011]最大XOR和路径](https://www.luogu.org/problemnew/show/P4151)
 * [P4301 [CQOI2013]新Nim游戏](https://www.luogu.org/problemnew/show/P4301)
 * [P3292 [SCOI2016]幸运数字](https://www.luogu.org/problemnew/show/P3292)
+* [P4151 [WC2011]最大XOR和路径](https://www.luogu.org/problemnew/show/P4151)
 
 #### Part 4.3.3 组合数学
 
@@ -760,9 +775,9 @@
 * [P1655 小朋友的球](https://www.luogu.org/problemnew/show/P1655)
 * [P3197 [HNOI2008]越狱](https://www.luogu.org/problemnew/show/P3197)
 * [P2290 [HNOI2004]树的计数](https://www.luogu.org/problemnew/show/P2290)
-* [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problemnew/show/P4931)
 * [P3214 [HNOI2011]卡农](https://www.luogu.org/problemnew/show/P3214)
 * [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
+* [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problemnew/show/P4931)
 
 #### Part 4.3.4 多项式
 
@@ -787,9 +802,9 @@
 * [P5273 【模板】多项式幂函数 (加强版)](https://www.luogu.org/problemnew/show/P5273)
 * [P5277 【模板】多项式开根（加强版）](https://www.luogu.org/problemnew/show/P5277)
 * [P5282 【模板】快速阶乘算法](https://www.luogu.org/problemnew/show/P5282)
-* [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
 * [P3338 [ZJOI2014]力](https://www.luogu.org/problemnew/show/P3338)
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
+* [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
 
 #### Part 4.3.5 莫比乌斯反演
 
@@ -820,7 +835,7 @@
 
 #### Part 4.4.3 Manacher
 
-> Manacher 法可以在线性时间内求出一个字符串的最长回文子串。
+> Manacher 可以在线性时间内求出一个字符串的最长回文子串。
 
 * [P3805 【模板】manacher算法](https://www.luogu.org/problemnew/show/P3805)
 * [P4555 [国家集训队]最长双回文串](https://www.luogu.org/problemnew/show/P4555)
@@ -839,6 +854,8 @@
 * [P4683 [IOI2008] Type Printer 打印机](https://www.luogu.org/problemnew/show/P4683)
 
 #### Part 4.4.5 AC自动机
+
+> AC自动机可以看成是 KMP 和 Trie 的结合体，用于解决多字符串匹配问题。
 
 * [P3808 【模板】AC自动机（简单版）](https://www.luogu.org/problemnew/show/P3808)
 * [P3796 【模板】AC自动机（加强版）](https://www.luogu.org/problemnew/show/P3796)
@@ -925,10 +942,10 @@
 * [P3376 【模板】网络最大流](https://www.luogu.org/problemnew/show/P3376)
 * [P4722 【模板】最大流 加强版 / 预流推进](https://www.luogu.org/problemnew/show/P4722)
 * [P1345 [USACO5.4]奶牛的电信Telecowmunication](https://www.luogu.org/problemnew/show/P1345)
+* [P2065 [TJOI2011]卡片](https://www.luogu.org/problemnew/show/P2065)
 * [P2774 方格取数问题](https://www.luogu.org/problemnew/show/P2774)
 * [P2763 试题库问题](https://www.luogu.org/problemnew/show/P2763)
 * [P2472 [SCOI2007]蜥蜴](https://www.luogu.org/problemnew/show/P2472)
-* [P2065 [TJOI2011]卡片](https://www.luogu.org/problemnew/show/P2065)
 * [P2765 魔术球问题](https://www.luogu.org/problemnew/show/P2765)
 * [P2764 最小路径覆盖问题](https://www.luogu.org/problemnew/show/P2764)
 * [P2766 最长不下降子序列问题](https://www.luogu.org/problemnew/show/P2766)
@@ -941,15 +958,15 @@
 > 在网络流中给边加上一个参数——费用，就出现了费用流。
 
 * [P3381 【模板】最小费用最大流](https://www.luogu.org/problemnew/show/P3381)
+* [P4016 负载平衡问题](https://www.luogu.org/problemnew/show/P4016)
+* [P4452 [国家集训队]航班安排](https://www.luogu.org/problemnew/show/P4452)
 * [P2153 [SDOI2009]晨跑](https://www.luogu.org/problemnew/show/P2153)
 * [P2053 [SCOI2007]修车](https://www.luogu.org/problemnew/show/P2053)
 * [P3159 [CQOI2012]交换棋子](https://www.luogu.org/problemnew/show/P3159)
-* [P4016 负载平衡问题](https://www.luogu.org/problemnew/show/P4016)
-* [P4249 [WC2007]剪刀石头布](https://www.luogu.org/problemnew/show/P4249)
-* [P4452 [国家集训队]航班安排](https://www.luogu.org/problemnew/show/P4452)
 * [P2604 [ZJOI2010]网络扩容](https://www.luogu.org/problemnew/show/P2604)
 * [P2050 [NOI2012]美食节](https://www.luogu.org/problemnew/show/P2050)
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
+* [P4249 [WC2007]剪刀石头布](https://www.luogu.org/problemnew/show/P4249)
 
 #### Part 4.6.3 2-SAT
 
@@ -973,11 +990,11 @@
 
 #### Part 4.7.2 0/1 分数规划
 
+* [P4377 [USACO18OPEN]Talent Show](https://www.luogu.org/problemnew/show/P4377)
 * [P3199 [HNOI2009]最小圈](https://www.luogu.org/problemnew/show/P3199)
 * [P3288 [SCOI2014]方伯伯运椰子](https://www.luogu.org/problemnew/show/P3288)
 * [P3705 [SDOI2017]新生舞会](https://www.luogu.org/problemnew/show/P3705)
 * [P4322 [JSOI2016]最佳团体](https://www.luogu.org/problemnew/show/P4322)
-* [P4377 [USACO18OPEN]Talent Show](https://www.luogu.org/problemnew/show/P4377)
 
 #### Part 4.7.3 奇怪的题目
 
