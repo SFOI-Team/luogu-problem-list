@@ -128,10 +128,10 @@
 >
 > 深度优先搜索一般使用栈来实现。
 
-* [P1378 油滴扩展](https://www.luogu.org/problemnew/show/P1378)
 * [P1219 八皇后](https://www.luogu.org/problemnew/show/P1219)
 * [P1019 单词接龙](https://www.luogu.org/problemnew/show/P1019)
 * [P5194 [USACO05DEC]Scales 天平](https://www.luogu.org/problemnew/show/P5194)
+* [P1378 油滴扩展](https://www.luogu.org/problemnew/show/P1378)
 
 #### Part 2.3.2 广度优先搜索
 
@@ -140,10 +140,10 @@
 > 广度优先搜索一般使用队列来实现。
 
 * [P1162 填涂颜色](https://www.luogu.org/problemnew/show/P1162)
-* [P1032 字串变换](https://www.luogu.org/problemnew/show/P1032)
-* [P1126 机器人搬重物](https://www.luogu.org/problemnew/show/P1126)
 * [P1443 马的遍历](https://www.luogu.org/problemnew/show/P1443)
 * [P3956 棋盘](https://www.luogu.org/problemnew/show/P3956)
+* [P1032 字串变换](https://www.luogu.org/problemnew/show/P1032)
+* [P1126 机器人搬重物](https://www.luogu.org/problemnew/show/P1126)
 
 ### Part 2.4 二分答案
 
@@ -151,10 +151,10 @@
 
 * [P1024 一元三次方程求解](https://www.luogu.org/problemnew/show/P1024)
 * [P2678 跳石头](https://www.luogu.org/problemnew/show/P2678)
-* [P1314 聪明的质监员](https://www.luogu.org/problemnew/show/P1314)
 * [P1316 丢瓶盖](https://www.luogu.org/problemnew/show/P1316)
-* [P1083 借教室](https://www.luogu.org/problemnew/show/P1083)
 * [P1902 刺杀大使](https://www.luogu.org/problemnew/show/P1902)
+* [P1314 聪明的质监员](https://www.luogu.org/problemnew/show/P1314)
+* [P1083 借教室](https://www.luogu.org/problemnew/show/P1083)
 
 ### Part 2.5 分治
 
@@ -209,9 +209,9 @@
 * [P1090 合并果子](https://www.luogu.org/problemnew/show/P1090)
 * [P1208 [USACO1.3]混合牛奶 Mixing Milk](https://www.luogu.org/problemnew/show/P1208)
 * [P1094 纪念品分组](https://www.luogu.org/problemnew/show/P1094)
-* [P1080 国王游戏](https://www.luogu.org/problemnew/show/P1080)
 * [P1199 三国游戏](https://www.luogu.org/problemnew/show/P1199)
 * [P2672 推销员](https://www.luogu.org/problemnew/show/P2672)
+* [P1080 国王游戏](https://www.luogu.org/problemnew/show/P1080)
 
 ### Part 2.8 动态规划基础
 
@@ -235,10 +235,10 @@
 * [P1048 采药](https://www.luogu.org/problemnew/show/P1048)
 * [P1049 装箱问题](https://www.luogu.org/problemnew/show/P1049)
 * [P1060 开心的金明](https://www.luogu.org/problemnew/show/P1060)
+* [P1855 榨取kkksc03](https://www.luogu.org/problemnew/show/P1855)
 * [P5020 货币系统](https://www.luogu.org/problemnew/show/P5020)
 * [P1064 金明的预算方案](https://www.luogu.org/problemnew/show/P1064)
 * [P2946 [USACO09MAR]牛飞盘队Cow Frisbee Team](https://www.luogu.org/problemnew/show/P2946)
-* [P1855 榨取kkksc03](https://www.luogu.org/problemnew/show/P1855)
 * [P1156 垃圾陷阱](https://www.luogu.org/problemnew/show/P1156)
 
 ### Part 2.9 高精度
