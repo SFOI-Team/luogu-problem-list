@@ -85,7 +85,7 @@
 
 ## Part 2 基础算法
 
-> 这一部分的内容包含了 OI 中绝大多数的基本算法，供各位巩固基础。
+> 这一部分的内容包含了 OI 中的基础算法，供各位巩固基础。
 >
 > 当然，这里面也有一些难度比较高的题目。
 
@@ -615,7 +615,29 @@
 
 * [P1540 机器翻译](https://www.luogu.org/problemnew/show/P1540)
 
-### Part 7.4 树状数组
+### Part 7.4 并查集
+
+> 并查集常用于处理一些不相交集合的合并和查询问题。
+
+* [P1111 修复公路](https://www.luogu.org/problemnew/show/P1111)
+* [P3958 奶酪](https://www.luogu.org/problemnew/show/P3958)
+* [P1525 关押罪犯](https://www.luogu.org/problemnew/show/P1525)
+* [P2024 [NOI2001]食物链](https://www.luogu.org/problemnew/show/P2024)
+* [P1197 [JSOI2008]星球大战](https://www.luogu.org/problemnew/show/P1197)
+* [P1196 [NOI2002]银河英雄传说](https://www.luogu.org/problemnew/show/P1196)
+* [P1955 [NOI2015]程序自动分析](https://www.luogu.org/problemnew/show/P1955)
+
+### Part 7.5 堆
+
+> 堆总是一棵完全树，堆中某个节点的值总是不大于或不小于其父节点的值。
+
+* [P3378 【模板】堆](https://www.luogu.org/problemnew/show/P3378)
+* [P1168 中位数](https://www.luogu.org/problemnew/show/P1168)
+* [P2085 最小函数值](https://www.luogu.org/problemnew/show/P2085)
+* [P2827 蚯蚓](https://www.luogu.org/problemnew/show/P2827)
+
+
+### Part 7.6 树状数组
 
 > 树状数组是一种简洁高效的树形数据结构。
 
@@ -629,7 +651,7 @@
 * [P4113 [HEOI2012]采花](https://www.luogu.org/problemnew/show/P4113)
 * [P3960 列队](https://www.luogu.org/problemnew/show/P3960)
 
-### Part 7.5 线段树
+### Part 7.7 线段树
 
 > 线段树的通用性比树状数组更强，可以处理更多涉及区间操作的题目。
 
@@ -646,27 +668,6 @@
 * [P4513 小白逛公园](https://www.luogu.org/problemnew/show/P4513)
 * [P5324 [BJOI2019]删数](https://www.luogu.org/problemnew/show/P5324)
 * [P5327 [ZJOI2019]语言](https://www.luogu.org/problemnew/show/P5327)
-
-### Part 7.6 并查集
-
-> 并查集常用于处理一些不相交集合的合并和查询问题。
-
-* [P1111 修复公路](https://www.luogu.org/problemnew/show/P1111)
-* [P3958 奶酪](https://www.luogu.org/problemnew/show/P3958)
-* [P1525 关押罪犯](https://www.luogu.org/problemnew/show/P1525)
-* [P2024 [NOI2001]食物链](https://www.luogu.org/problemnew/show/P2024)
-* [P1197 [JSOI2008]星球大战](https://www.luogu.org/problemnew/show/P1197)
-* [P1196 [NOI2002]银河英雄传说](https://www.luogu.org/problemnew/show/P1196)
-* [P1955 [NOI2015]程序自动分析](https://www.luogu.org/problemnew/show/P1955)
-
-### Part 7.7 堆
-
-> 堆总是一棵完全树，堆中某个节点的值总是不大于或不小于其父节点的值。
-
-* [P3378 【模板】堆](https://www.luogu.org/problemnew/show/P3378)
-* [P1168 中位数](https://www.luogu.org/problemnew/show/P1168)
-* [P2085 最小函数值](https://www.luogu.org/problemnew/show/P2085)
-* [P2827 蚯蚓](https://www.luogu.org/problemnew/show/P2827)
 
 ### Part 7.8 分块
 
@@ -950,6 +951,13 @@
 * [P2495 [SDOI2011]消耗战](https://www.luogu.org/problemnew/show/P2495)
 * [P3233 [HNOI2014]世界树](https://www.luogu.org/problemnew/show/P3233)
 * [P5360 [SDOI2019]世界地图](https://www.luogu.org/problemnew/show/P5360)
+
+### Part 8.12 矩阵树定理
+
+> 矩阵树定理可以解决图的生成树计数问题。
+
+* [P4111 [HEOI2015]小Z的房间](https://www.luogu.org/problemnew/show/P4111)
+* [P2144 [FJOI2007]轮状病毒](https://www.luogu.org/problemnew/show/P2144)
 
 ## Part 9 计算几何
 
