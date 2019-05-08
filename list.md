@@ -4,11 +4,29 @@
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-本项目采用[知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/)以及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
+本项目采用 [知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/) 以及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
 
-换言之，您可以自由的共享并演绎该项目，但是必须给出必要的署名，并以相同方式共享本项目，并为本项目的 [Github 仓库](https://github.com/SFOI-Team/luogu-problem-list)点赞（Star）。
+换言之，您可以自由的共享并演绎该项目，但是必须给出必要的署名，并以相同方式共享本项目，并为本项目的 [Github 仓库](https://github.com/SFOI-Team/luogu-problem-list) 点赞（Star）。
+
+## 新版本食用指南
+
+**本次版本更新变更较大，建议您仔细阅读下面的内容！**
+
+在刚刚更新的 2.0 版本中，我们改变了原来按知识难度排列知识点的目录结构，改为按照专题大类组织目录结构。
+
+为了方便按知识难度刷题的用户，这里给出一些建议：
+
+* 对于初学者，建议先完成 Part 1,2 两部分内容，为接下来的学习打好基础。
+* 对于要参加 NOIP 提高组的选手，建议在前面的基础上优先完成 Part 3.1-3.4, 4.1-4.4, 6.1-6.5, 7.1-7.7, 8.1-8.7 的内容（具体内容见下），在此基础上继续完成其他内容。
+* 每个专题下的题目先给出模板，剩下的题目均按照难度递增顺序排序，部分难度较高的综合性题目建议达到一定能力后再尝试解决。
 
 ## 更新日志
+
+2.0 2019/5/8：
+
+1. 重构了目录，从按知识难度排列知识点的目录结构，改为按照专题大类组织目录结构。
+2. 新增专题：计算几何，矩阵树定理。
+3. 添加题目：整理添加了 2019 年的省选题目。
 
 1.4 2019/4/28：
 
@@ -506,9 +524,21 @@
 * [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
 * [P5326 [ZJOI2019]开关](https://www.luogu.org/problemnew/show/P5326)
 
-### Part 6.5 线性代数
+### Part 6.5 组合数学
 
-#### Part 6.5.1 矩阵
+* [P3807 【模板】卢卡斯定理](https://www.luogu.org/problemnew/show/P3807)
+* [P2822 组合数问题](https://www.luogu.org/problemnew/show/P2822)
+* [P1655 小朋友的球](https://www.luogu.org/problemnew/show/P1655)
+* [P3197 [HNOI2008]越狱](https://www.luogu.org/problemnew/show/P3197)
+* [P2290 [HNOI2004]树的计数](https://www.luogu.org/problemnew/show/P2290)
+* [P3214 [HNOI2011]卡农](https://www.luogu.org/problemnew/show/P3214)
+* [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
+* [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problemnew/show/P4931)
+* [P5339 [TJOI2019]唱、跳、rap和篮球](https://www.luogu.org/problemnew/show/P5339)
+
+### Part 6.6 线性代数
+
+#### Part 6.6.1 矩阵
 
 > 利用矩阵优化数列递推，可以实现复杂度从线性到对数级的转变。
 
@@ -520,7 +550,7 @@
 * [P5337 [TJOI2019]甲苯先生的字符串](https://www.luogu.org/problemnew/show/P5337)
 * [P5303 [GXOI/GZOI2019]逼死强迫症](https://www.luogu.org/problemnew/show/P5303)
 
-#### Part 6.5.2 高斯消元
+#### Part 6.6.2 高斯消元
 
 > 高斯消元可以用来求解方程组。
 
@@ -531,7 +561,7 @@
 * [P4208 [JSOI2008]最小生成树计数](https://www.luogu.org/problemnew/show/P4208)
 * [P4457 [BJOI2018]治疗之雨](https://www.luogu.org/problemnew/show/P4457)
 
-#### Part 6.5.3 线性基
+#### Part 6.6.3 线性基
 
 > 线性基可以求解最大异或和的一类问题。
 
@@ -540,18 +570,6 @@
 * [P4301 [CQOI2013]新Nim游戏](https://www.luogu.org/problemnew/show/P4301)
 * [P3292 [SCOI2016]幸运数字](https://www.luogu.org/problemnew/show/P3292)
 * [P4151 [WC2011]最大XOR和路径](https://www.luogu.org/problemnew/show/P4151)
-
-### Part 6.6 组合数学
-
-* [P3807 【模板】卢卡斯定理](https://www.luogu.org/problemnew/show/P3807)
-* [P2822 组合数问题](https://www.luogu.org/problemnew/show/P2822)
-* [P1655 小朋友的球](https://www.luogu.org/problemnew/show/P1655)
-* [P3197 [HNOI2008]越狱](https://www.luogu.org/problemnew/show/P3197)
-* [P2290 [HNOI2004]树的计数](https://www.luogu.org/problemnew/show/P2290)
-* [P3214 [HNOI2011]卡农](https://www.luogu.org/problemnew/show/P3214)
-* [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
-* [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problemnew/show/P4931)
-* [P5339 [TJOI2019]唱、跳、rap和篮球](https://www.luogu.org/problemnew/show/P5339)
 
 ### Part 6.7 多项式
 
