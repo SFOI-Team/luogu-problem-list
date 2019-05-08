@@ -40,7 +40,7 @@
 
 ## Part 1 入门阶段
 
-> 本部分内容主要针对入门 OIer ，主要是语言方面的知识。
+> 本部分内容针对入门 OIer ，主要是语言基础内容。
 
 ### Part 1.1 从零开始
 
@@ -238,19 +238,21 @@
 * [P1095 守望者的逃离](https://www.luogu.org/problemnew/show/P1095)
 * [P1541 乌龟棋](https://www.luogu.org/problemnew/show/P1541)
 * [P1868 饥饿的奶牛](https://www.luogu.org/problemnew/show/P1868)
+* [P5301 [GXOI/GZOI2019]宝牌一大堆](https://www.luogu.org/problemnew/show/P5301)
 
 ### Part 4.2 背包动态规划
 
 > 背包动态规划是线性动态规划中特殊的一类，NOIP中考到的次数也不少。
 
 * [P1048 采药](https://www.luogu.org/problemnew/show/P1048)
-* [P1049 装箱问题](https://www.luogu.org/problemnew/show/P1049)
 * [P1060 开心的金明](https://www.luogu.org/problemnew/show/P1060)
 * [P1855 榨取kkksc03](https://www.luogu.org/problemnew/show/P1855)
 * [P5020 货币系统](https://www.luogu.org/problemnew/show/P5020)
 * [P1064 金明的预算方案](https://www.luogu.org/problemnew/show/P1064)
 * [P2946 [USACO09MAR]牛飞盘队Cow Frisbee Team](https://www.luogu.org/problemnew/show/P2946)
 * [P1156 垃圾陷阱](https://www.luogu.org/problemnew/show/P1156)
+* [P5322 [BJOI2019]排兵布阵](https://www.luogu.org/problemnew/show/P5322)
+* [P5289 [十二省联考2019]皮配](https://www.luogu.org/problemnew/show/P5289)
 
 ### Part 4.3 区间动态规划
 
@@ -416,14 +418,17 @@
 * [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
 * [P2852 [USACO06DEC]牛奶模式Milk Patterns](https://www.luogu.org/problemnew/show/P2852)
 * [P5284 [十二省联考2019]字符串问题](https://www.luogu.org/problemnew/show/P5284)
+* [P5319 [BJOI2019]奥术神杖](https://www.luogu.org/problemnew/show/P5319)
 
 ### Part 5.7 后缀自动机
 
 * [P3804 【模板】后缀自动机](https://www.luogu.org/problemnew/show/P3804)
 * [P4770 [NOI2018]你的名字](https://www.luogu.org/problemnew/show/P4770)
+* [P5341 [TJOI2019]甲苯先生和大中锋的字符串](https://www.luogu.org/problemnew/show/P5341)
 * [P3649 [APIO2014]回文串](https://www.luogu.org/problemnew/show/P3649)
 * [P3975 [TJOI2015]弦论](https://www.luogu.org/problemnew/show/P3975)
 * [P4248 [AHOI2013]差异](https://www.luogu.org/problemnew/show/P4248)
+* [P5284 [十二省联考2019]字符串问题](https://www.luogu.org/problemnew/show/P5284)
 
 ## Part 6 数学
 
@@ -499,6 +504,7 @@
 * [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
 * [P2081 [NOI2012]迷失游乐园](https://www.luogu.org/problemnew/show/P2081)
 * [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
+* [P5326 [ZJOI2019]开关](https://www.luogu.org/problemnew/show/P5326)
 
 ### Part 6.5 线性代数
 
@@ -511,6 +517,8 @@
 * [P1962 斐波那契数列](https://www.luogu.org/problemnew/show/P1962)
 * [P1349 广义斐波那契数列](https://www.luogu.org/problemnew/show/P1349)
 * [P4000 斐波那契数列](https://www.luogu.org/problemnew/show/P4000)
+* [P5337 [TJOI2019]甲苯先生的字符串](https://www.luogu.org/problemnew/show/P5337)
+* [P5303 [GXOI/GZOI2019]逼死强迫症](https://www.luogu.org/problemnew/show/P5303)
 
 #### Part 6.5.2 高斯消元
 
@@ -543,6 +551,7 @@
 * [P3214 [HNOI2011]卡农](https://www.luogu.org/problemnew/show/P3214)
 * [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
 * [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problemnew/show/P4931)
+* [P5339 [TJOI2019]唱、跳、rap和篮球](https://www.luogu.org/problemnew/show/P5339)
 
 ### Part 6.7 多项式
 
@@ -570,6 +579,7 @@
 * [P3338 [ZJOI2014]力](https://www.luogu.org/problemnew/show/P3338)
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
 * [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
+* [P5293 [HNOI2019]白兔之舞](https://www.luogu.org/problemnew/show/P5293)
 
 ### Part 6.8 莫比乌斯反演
 
@@ -634,6 +644,8 @@
 * [P4097 [HEOI2013]Segment](https://www.luogu.org/problemnew/show/P4097)
 * [P4198 楼房重建](https://www.luogu.org/problemnew/show/P4198)
 * [P4513 小白逛公园](https://www.luogu.org/problemnew/show/P4513)
+* [P5324 [BJOI2019]删数](https://www.luogu.org/problemnew/show/P5324)
+* [P5327 [ZJOI2019]语言](https://www.luogu.org/problemnew/show/P5327)
 
 ### Part 7.6 并查集
 
@@ -699,6 +711,7 @@
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problemnew/show/P3391)
 * [P3850 [TJOI2007]书架](https://www.luogu.org/problemnew/show/P3850)
 * [P4008 [NOI2003]文本编辑器](https://www.luogu.org/problemnew/show/P4008)
+* [P5338 [TJOI2019]甲苯先生的滚榜](https://www.luogu.org/problemnew/show/P5338)
 * [P2042 [NOI2005]维护数列](https://www.luogu.org/problemnew/show/P2042)
 * [P1110 [ZJOI2007]报表统计](https://www.luogu.org/problemnew/show/P1110)
 * [P3644 [APIO2015]八邻旁之桥](https://www.luogu.org/problemnew/show/P3644)
@@ -707,6 +720,7 @@
 * [P2710 数列](https://www.luogu.org/problemnew/show/P2710)
 * [P3224 [HNOI2012]永无乡](https://www.luogu.org/problemnew/show/P3224)
 * [P3285 [SCOI2014]方伯伯的OJ](https://www.luogu.org/problemnew/show/P3285)
+* [P5321 [BJOI2019]送别](https://www.luogu.org/problemnew/show/P5321)
 
 ### Part 7.12 树链剖分
 
@@ -722,6 +736,7 @@
 * [P3613 睡觉困难综合征](https://www.luogu.org/problemnew/show/P3613)
 * [P4069 [SDOI2016]游戏](https://www.luogu.org/problemnew/show/P4069)
 * [P4211 [LNOI2014]LCA](https://www.luogu.org/problemnew/show/P4211)
+* [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problemnew/show/P5305)
 
 ### Part 7.13 树套树
 
@@ -770,6 +785,7 @@
 * [P5055 【模板】可持久化文艺平衡树](https://www.luogu.org/problemnew/show/P5055)
 * [P3834 【模板】可持久化线段树 1（主席树）](https://www.luogu.org/problemnew/show/P3834)
 * [P3402 【模板】可持久化并查集](https://www.luogu.org/problemnew/show/P3402)
+* [P5283 [十二省联考2019]异或粽子](https://www.luogu.org/problemnew/show/P5283)
 
 ## Part 8 图论
 
@@ -794,6 +810,7 @@
 * [P1522 牛的旅行 Cow Tours](https://www.luogu.org/problemnew/show/P1522)
 * [P1266 速度限制](https://www.luogu.org/problemnew/show/P1266)
 * [P3238 [HNOI2014]道路堵塞](https://www.luogu.org/problemnew/show/P3238)
+* [P5304 [GXOI/GZOI2019]旅行者](https://www.luogu.org/problemnew/show/P5304)
 
 ### Part 8.3 树上问题
 
@@ -920,16 +937,19 @@
 * [P2050 [NOI2012]美食节](https://www.luogu.org/problemnew/show/P2050)
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
 * [P4249 [WC2007]剪刀石头布](https://www.luogu.org/problemnew/show/P4249)
+* [P5331 [SNOI2019]通信](https://www.luogu.org/problemnew/show/P5331)
 
 ### Part 8.10 2-SAT
 
 * [P4782 【模板】2-SAT 问题](https://www.luogu.org/problemnew/show/P4782)
 * [P3825 [NOI2017]游戏](https://www.luogu.org/problemnew/show/P3825)
+* [P5332 [JSOI2019]精准预测](https://www.luogu.org/problemnew/show/P5332)
 
 ### Part 8.11 虚树
 
 * [P2495 [SDOI2011]消耗战](https://www.luogu.org/problemnew/show/P2495)
 * [P3233 [HNOI2014]世界树](https://www.luogu.org/problemnew/show/P3233)
+* [P5360 [SDOI2019]世界地图](https://www.luogu.org/problemnew/show/P5360)
 
 ## Part 9 计算几何
 
