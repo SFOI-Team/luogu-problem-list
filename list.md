@@ -256,6 +256,9 @@
 * [P1095 守望者的逃离](https://www.luogu.org/problemnew/show/P1095)
 * [P1541 乌龟棋](https://www.luogu.org/problemnew/show/P1541)
 * [P1868 饥饿的奶牛](https://www.luogu.org/problemnew/show/P1868)
+* [P2679 子串](https://www.luogu.org/problemnew/show/P2679)
+* [P2501 [HAOI2006]数字序列](https://www.luogu.org/problemnew/show/P2501)
+* [P3558 [POI2013]BAJ-Bytecomputer](https://www.luogu.org/problemnew/show/P3558)
 * [P5301 [GXOI/GZOI2019]宝牌一大堆](https://www.luogu.org/problemnew/show/P5301)
 
 ### Part 4.2 背包动态规划
@@ -280,6 +283,7 @@
 * [P3146 [USACO16OPEN]248](https://www.luogu.org/problemnew/show/P3146)
 * [P1063 能量项链](https://www.luogu.org/problemnew/show/P1063)
 * [P1005 矩阵取数游戏](https://www.luogu.org/problemnew/show/P1005)
+* [P4170 [CQOI2007]涂色](https://www.luogu.org/problemnew/show/P4170)
 * [P4302 [SCOI2003]字符串折叠](https://www.luogu.org/problemnew/show/P4302)
 * [P2466 [SDOI2008]Sue的小球](https://www.luogu.org/problemnew/show/P2466)
 
@@ -292,6 +296,7 @@
 * [P1352 没有上司的舞会](https://www.luogu.org/problemnew/show/P1352)
 * [P1040 加分二叉树](https://www.luogu.org/problemnew/show/P1040)
 * [P1122 最大子树和](https://www.luogu.org/problemnew/show/P1122)
+* [P1270 “访问”美术馆](https://www.luogu.org/problemnew/show/P1270)
 * [P2014 选课](https://www.luogu.org/problemnew/show/P2014)
 
 ### Part 4.5 状态压缩动态规划
@@ -301,7 +306,6 @@
 * [P2704 [NOI2001]炮兵阵地](https://www.luogu.org/problemnew/show/P2704)
 * [P1879 [USACO06NOV]玉米田Corn Fields](https://www.luogu.org/problemnew/show/P1879)
 * [P1896 [SCOI2005]互不侵犯](https://www.luogu.org/problemnew/show/P1896)
-* [P2051 [AHOI2009]中国象棋](https://www.luogu.org/problemnew/show/P2051)
 * [P4925 [1007]Scarlet的字符串不可能这么可爱](https://www.luogu.org/problemnew/show/P4925)
 * [P3648 [APIO2014]序列分割](https://www.luogu.org/problemnew/show/P3648)
 * [P2157 [SDOI2009]学校食堂](https://www.luogu.org/problemnew/show/P2157)
@@ -335,6 +339,7 @@
 * [P3572 [POI2014]PTA-Little Bird](https://www.luogu.org/problemnew/show/P3572)
 * [P3522 [POI2011]TEM-Temperature](https://www.luogu.org/problemnew/show/P3522)
 * [P4544 [USACO10NOV]购买饲料Buying Feed](https://www.luogu.org/problemnew/show/P4544)
+* [P1973 [NOI2011]Noi嘉年华](https://www.luogu.org/problemnew/show/P1973)
 * [P2569 [SCOI2010]股票交易](https://www.luogu.org/problemnew/show/P2569)
 * [P4852 yyf hates choukapai](https://www.luogu.org/problemnew/show/P4852)
 
@@ -483,11 +488,11 @@
 * [P2568 GCD](https://www.luogu.org/problemnew/show/P2568)
 * [P2398 GCD SUM](https://www.luogu.org/problemnew/show/P2398)
 
-### Part 6.2 不定方程相关
+### Part 6.2 同余方程
 
-> 求解不定方程 $ ax+by=c $ 往往可以引出不少话题。
->
-> 特别地，满足 $ ax \equiv 1 ( \mod b )  $的 $ x $ 被称为 $ a $ 在 $ \mod b $ 意义下的乘法逆元，记作 $ a^{-1} $ 。
+> 求解不定方程往往可以引出不少话题。
+
+#### Part 6.2.1 线性同余方程&乘法逆元
 
 * [P4549 【模板】裴蜀定理](https://www.luogu.org/problemnew/show/P4549)
 * [P2613 【模板】有理数取余](https://www.luogu.org/problemnew/show/P2613)
@@ -495,6 +500,14 @@
 * [P1414 又是毕业季II](https://www.luogu.org/problemnew/show/P1414)
 * [P3951 小凯的疑惑](https://www.luogu.org/problemnew/show/P3951)
 * [P1516 青蛙的约会](https://www.luogu.org/problemnew/show/P1516)
+
+#### Part 6.2.2 中国剩余定理
+
+* [P4777 【模板】扩展中国剩余定理（EXCRT）](https://www.luogu.org/problemnew/show/P4777)
+* [P3868 [TJOI2009]猜数字](https://www.luogu.org/problemnew/show/P3868)
+* [P2480 [SDOI2010]古代猪文](https://www.luogu.org/problemnew/show/P2480)
+* [P4774 [NOI2018]屠龙勇士](https://www.luogu.org/problemnew/show/P4774)
+* [P5345 【XR-1】快乐肥宅](https://www.luogu.org/problemnew/show/P5345)
 
 ### Part 6.3 博弈论
 
@@ -511,8 +524,8 @@
 > 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
 
 * [P5104 红包发红包](https://www.luogu.org/problemnew/show/P5104)
+* [P1837 单人纸牌_NOI导刊2011提高（04）](https://www.luogu.org/problemnew/show/P1837)
 * [P1850 换教室](https://www.luogu.org/problemnew/show/P1850)
-* [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
 * [P3830 [SHOI2012]随机树](https://www.luogu.org/problemnew/show/P3830)
 * [P4564 [CTSC2018]假面](https://www.luogu.org/problemnew/show/P4564)
 * [P2473 [SCOI2008]奖励关](https://www.luogu.org/problemnew/show/P2473)
@@ -520,6 +533,7 @@
 * [P3317 [SDOI2014]重建](https://www.luogu.org/problemnew/show/P3317)
 * [P4284 [SHOI2014]概率充电器](https://www.luogu.org/problemnew/show/P4284)
 * [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
+* [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
 * [P2081 [NOI2012]迷失游乐园](https://www.luogu.org/problemnew/show/P2081)
 * [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
 * [P5326 [ZJOI2019]开关](https://www.luogu.org/problemnew/show/P5326)
@@ -544,9 +558,11 @@
 
 * [P3390 【模板】矩阵快速幂](https://www.luogu.org/problemnew/show/P3390)
 * [P1939 【模板】矩阵加速（数列）](https://www.luogu.org/problemnew/show/P1939)
+* [P4783 【模板】矩阵求逆](https://www.luogu.org/problemnew/show/P4783)
 * [P1962 斐波那契数列](https://www.luogu.org/problemnew/show/P1962)
 * [P1349 广义斐波那契数列](https://www.luogu.org/problemnew/show/P1349)
 * [P4000 斐波那契数列](https://www.luogu.org/problemnew/show/P4000)
+* [P5343 【XR-1】分块](https://www.luogu.org/problemnew/show/P5343)
 * [P5337 [TJOI2019]甲苯先生的字符串](https://www.luogu.org/problemnew/show/P5337)
 * [P5303 [GXOI/GZOI2019]逼死强迫症](https://www.luogu.org/problemnew/show/P5303)
 
@@ -554,11 +570,10 @@
 
 > 高斯消元可以用来求解方程组。
 
-* [P4783 【模板】矩阵求逆](https://www.luogu.org/problemnew/show/P4783)
+* [P3389 【模板】高斯消元法](https://www.luogu.org/problemnew/show/P3389)
 * [P4387 付公主的函数](https://www.luogu.org/problemnew/show/P4387)
 * [P4035 [JSOI2008]球形空间产生器](https://www.luogu.org/problemnew/show/P4035)
 * [P4111 [HEOI2015]小Z的房间](https://www.luogu.org/problemnew/show/P4111)
-* [P4208 [JSOI2008]最小生成树计数](https://www.luogu.org/problemnew/show/P4208)
 * [P4457 [BJOI2018]治疗之雨](https://www.luogu.org/problemnew/show/P4457)
 
 #### Part 6.6.3 线性基
@@ -976,6 +991,7 @@
 
 * [P4111 [HEOI2015]小Z的房间](https://www.luogu.org/problemnew/show/P4111)
 * [P2144 [FJOI2007]轮状病毒](https://www.luogu.org/problemnew/show/P2144)
+* [P4208 [JSOI2008]最小生成树计数](https://www.luogu.org/problemnew/show/P4208)
 
 ## Part 9 计算几何
 
