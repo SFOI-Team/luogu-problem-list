@@ -509,6 +509,11 @@
 * [P4774 [NOI2018]屠龙勇士](https://www.luogu.org/problemnew/show/P4774)
 * [P5345 【XR-1】快乐肥宅](https://www.luogu.org/problemnew/show/P5345)
 
+#### Part 6.2.3 BSGS
+
+* [P4195 【模板】exBSGS/Spoj3105 Mod](https://www.luogu.org/problemnew/show/P4195)
+* [P3306 [SDOI2013]随机数生成器](https://www.luogu.org/problemnew/show/P3306)
+
 ### Part 6.3 博弈论
 
 > 博弈论考虑游戏中的个体的预测行为和实际行为，并研究它们的优化策略。
@@ -530,7 +535,6 @@
 * [P4564 [CTSC2018]假面](https://www.luogu.org/problemnew/show/P4564)
 * [P2473 [SCOI2008]奖励关](https://www.luogu.org/problemnew/show/P2473)
 * [P2221 [HAOI2012]高速公路](https://www.luogu.org/problemnew/show/P2221)
-* [P3317 [SDOI2014]重建](https://www.luogu.org/problemnew/show/P3317)
 * [P4284 [SHOI2014]概率充电器](https://www.luogu.org/problemnew/show/P4284)
 * [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
 * [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
@@ -991,6 +995,7 @@
 
 * [P4111 [HEOI2015]小Z的房间](https://www.luogu.org/problemnew/show/P4111)
 * [P2144 [FJOI2007]轮状病毒](https://www.luogu.org/problemnew/show/P2144)
+* [P3317 [SDOI2014]重建](https://www.luogu.org/problemnew/show/P3317)
 * [P4208 [JSOI2008]最小生成树计数](https://www.luogu.org/problemnew/show/P4208)
 
 ## Part 9 计算几何
