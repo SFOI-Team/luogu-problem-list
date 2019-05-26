@@ -122,6 +122,7 @@
 * [P2615 神奇的幻方](https://www.luogu.org/problemnew/show/P2615)
 * [P2482 [SDOI2010]猪国杀](https://www.luogu.org/problemnew/show/P2482)
 * [P3693 琪露诺的冰雪小屋](https://www.luogu.org/problemnew/show/P3693)
+* [P5380 [THUPC2019]鸭棋](https://www.luogu.org/problemnew/show/P5380)
 
 ### Part 2.2 排序算法
 
@@ -424,6 +425,7 @@
 
 * [P3808 【模板】AC自动机（简单版）](https://www.luogu.org/problemnew/show/P3808)
 * [P3796 【模板】AC自动机（加强版）](https://www.luogu.org/problemnew/show/P3796)
+* [P5357 【模板】AC自动机（二次加强版）](https://www.luogu.org/problemnew/show/P5357)
 * [P3121 [USACO15FEB]审查（黄金）Censoring (Gold)](https://www.luogu.org/problemnew/show/P3121)
 * [P2414 [NOI2011]阿狸的打字机](https://www.luogu.org/problemnew/show/P2414)
 * [P3966 [TJOI2013]单词](https://www.luogu.org/problemnew/show/P3966)
@@ -613,6 +615,14 @@
 * [P5273 【模板】多项式幂函数 (加强版)](https://www.luogu.org/problemnew/show/P5273)
 * [P5277 【模板】多项式开根（加强版）](https://www.luogu.org/problemnew/show/P5277)
 * [P5282 【模板】快速阶乘算法](https://www.luogu.org/problemnew/show/P5282)
+* [P5373 【模板】多项式复合函数](https://www.luogu.org/problemnew/show/P5373)
+* [P5383 【模板】普通多项式转下降幂多项式](https://www.luogu.org/problemnew/show/P5383)
+* [P5393 【模板】下降幂多项式转普通多项式](https://www.luogu.org/problemnew/show/P5393)
+* [P5394 【模板】下降幂多项式乘法](https://www.luogu.org/problemnew/show/P5394)
+* [P5395 【模板】第二类斯特林数·行](https://www.luogu.org/problemnew/show/P5395)
+* [P5396 【模板】第二类斯特林数·列](https://www.luogu.org/problemnew/show/P5396)
+* [P5408 【模板】第一类斯特林数·行](https://www.luogu.org/problemnew/show/P5408)
+* [P5409 【模板】第一类斯特林数·列](https://www.luogu.org/problemnew/show/P5409)
 * [P3338 [ZJOI2014]力](https://www.luogu.org/problemnew/show/P3338)
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
 * [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
@@ -1009,6 +1019,7 @@
 * [P3829 [SHOI2012]信用卡凸包](https://www.luogu.org/problemnew/show/P3829)
 * [P4680 [Ynoi2018]末日时在做什么?有没有空?可以来拯救吗?](https://www.luogu.org/problemnew/show/P4680)
 * [P4557 [JSOI2018]战争](https://www.luogu.org/problemnew/show/P4557)
+* [P5403 [CTS2019]田野](https://www.luogu.org/problemnew/show/P5403)
 
 ### Part 9.2 旋转卡壳
 
@@ -1069,3 +1080,4 @@
 * [P3782 [WC2017]排序](https://www.luogu.org/problemnew/show/P3782)
 * [P3836 Nowruz 诺鲁孜节](https://www.luogu.org/problemnew/show/P3836)
 * [P4920 [WC2015]未来程序](https://www.luogu.org/problemnew/show/P4920)
+* [P5402 [CTS2019]无处安放](https://www.luogu.org/problemnew/show/P5402)
