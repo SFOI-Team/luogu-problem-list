@@ -414,15 +414,15 @@
 
 ### Part 5.4 Trie树
 
+* [P3879 [TJOI2010]阅读理解](https://www.luogu.org/problemnew/show/P3879)
 * [P2292 [HNOI2004]L语言](https://www.luogu.org/problemnew/show/P2292)
 * [P2922 [USACO08DEC]秘密消息Secret Message](https://www.luogu.org/problemnew/show/P2922)
 * [P3065 [USACO12DEC]第一!First!](https://www.luogu.org/problemnew/show/P3065)
 * [P3294 [SCOI2016]背单词](https://www.luogu.org/problemnew/show/P3294)
-* [P3783 [SDOI2017]天才黑客](https://www.luogu.org/problemnew/show/P3783)
-* [P3879 [TJOI2010]阅读理解](https://www.luogu.org/problemnew/show/P3879)
-* [P4551 最长异或路径](https://www.luogu.org/problemnew/show/P4551)
 * [P4407 [JSOI2009]电子字典](https://www.luogu.org/problemnew/show/P4407)
+* [P4551 最长异或路径](https://www.luogu.org/problemnew/show/P4551)
 * [P4683 [IOI2008] Type Printer 打印机](https://www.luogu.org/problemnew/show/P4683)
+* [P3783 [SDOI2017]天才黑客](https://www.luogu.org/problemnew/show/P3783)
 
 ### Part 5.5 AC自动机
 
