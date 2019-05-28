@@ -364,6 +364,8 @@
 
 > 利用四边形不等式，我们就可以提高一些区间动态规划的效率。
 
+* [P3515 [POI2011]Lightning Conductor](https://www.luogu.org/problemnew/show/P3515)
+
 * [P4767 [IOI2000]邮局](https://www.luogu.org/problemnew/show/P4767)
 
 ### Part 4.11 数位统计类动态规划
@@ -551,15 +553,41 @@
 
 ### Part 6.5 组合数学
 
+#### Part 6.5.1 排列组合
+
 * [P3807 【模板】卢卡斯定理](https://www.luogu.org/problemnew/show/P3807)
 * [P2822 组合数问题](https://www.luogu.org/problemnew/show/P2822)
 * [P1655 小朋友的球](https://www.luogu.org/problemnew/show/P1655)
 * [P3197 [HNOI2008]越狱](https://www.luogu.org/problemnew/show/P3197)
 * [P2290 [HNOI2004]树的计数](https://www.luogu.org/problemnew/show/P2290)
-* [P3214 [HNOI2011]卡农](https://www.luogu.org/problemnew/show/P3214)
-* [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
+* [P4981 父子](https://www.luogu.org/problemnew/show/P4981)
+* [P4769 [NOI2018]冒泡排序](https://www.luogu.org/problemnew/show/P4769)
 * [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problemnew/show/P4931)
+
+#### Part 6.5.2 卡特兰数&斯特林数
+
+* [P5395 【模板】第二类斯特林数·行](https://www.luogu.org/problemnew/show/P5395)
+* [P5396 【模板】第二类斯特林数·列](https://www.luogu.org/problemnew/show/P5396)
+* [P5408 【模板】第一类斯特林数·行](https://www.luogu.org/problemnew/show/P5408)
+* [P5409 【模板】第一类斯特林数·列](https://www.luogu.org/problemnew/show/P5409)
+
+* [P2532 [AHOI2012]树屋阶梯](https://www.luogu.org/problemnew/show/P2532)
+* [P3200 [HNOI2009]有趣的数列](https://www.luogu.org/problemnew/show/P3200)
+
+* [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
+* [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
+* [P4827 [国家集训队] Crash 的文明世界](https://www.luogu.org/problemnew/show/P4827)
+
+#### Part 6.5.3 容斥原理
+
+* [P1450 [HAOI2008]硬币购物](https://www.luogu.org/problemnew/show/P1450)
+* [P3214 [HNOI2011]卡农](https://www.luogu.org/problemnew/show/P3214)
+* [P3270 [JLOI2016]成绩比较](https://www.luogu.org/problemnew/show/P3270)
+* [P4336 [SHOI2016]黑暗前的幻想乡](https://www.luogu.org/problemnew/show/P4336)
+* [P4448 [AHOI2018初中组]球球的排列](https://www.luogu.org/problemnew/show/P4448)
+* [P4491 [HAOI2018]染色](https://www.luogu.org/problemnew/show/P4491)
 * [P5339 [TJOI2019]唱、跳、rap和篮球](https://www.luogu.org/problemnew/show/P5339)
+* [P5400 [CTS2019]随机立方体](https://www.luogu.org/problemnew/show/P5400)
 
 ### Part 6.6 线性代数
 
@@ -624,13 +652,8 @@
 * [P5383 【模板】普通多项式转下降幂多项式](https://www.luogu.org/problemnew/show/P5383)
 * [P5393 【模板】下降幂多项式转普通多项式](https://www.luogu.org/problemnew/show/P5393)
 * [P5394 【模板】下降幂多项式乘法](https://www.luogu.org/problemnew/show/P5394)
-* [P5395 【模板】第二类斯特林数·行](https://www.luogu.org/problemnew/show/P5395)
-* [P5396 【模板】第二类斯特林数·列](https://www.luogu.org/problemnew/show/P5396)
-* [P5408 【模板】第一类斯特林数·行](https://www.luogu.org/problemnew/show/P5408)
-* [P5409 【模板】第一类斯特林数·列](https://www.luogu.org/problemnew/show/P5409)
 * [P3338 [ZJOI2014]力](https://www.luogu.org/problemnew/show/P3338)
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
-* [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
 * [P5293 [HNOI2019]白兔之舞](https://www.luogu.org/problemnew/show/P5293)
 
 ### Part 6.8 莫比乌斯反演
