@@ -389,6 +389,8 @@
 
 ## Part 5 字符串
 
+> 字符串问题有很多自己的特点。
+
 ### Part 5.1 字符串哈希
 
 * [P3370 【模板】字符串哈希](https://www.luogu.org/problemnew/show/P3370)
@@ -441,6 +443,8 @@
 * [P4052 [JSOI2007]文本生成器](https://www.luogu.org/problemnew/show/P4052)
 
 ### Part 5.6 后缀数组
+
+> 后缀数组是处理字符串的有力工具。
 
 * [P3809 【模板】后缀排序](https://www.luogu.org/problemnew/show/P3809)
 * [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
@@ -512,6 +516,8 @@
 
 #### Part 6.2.2 中国剩余定理
 
+> 中国剩余定理可以快速解一元线性同余方程组。
+
 * [P4777 【模板】扩展中国剩余定理（EXCRT）](https://www.luogu.org/problemnew/show/P4777)
 * [P3868 [TJOI2009]猜数字](https://www.luogu.org/problemnew/show/P3868)
 * [P2480 [SDOI2010]古代猪文](https://www.luogu.org/problemnew/show/P2480)
@@ -519,6 +525,8 @@
 * [P5345 【XR-1】快乐肥宅](https://www.luogu.org/problemnew/show/P5345)
 
 #### Part 6.2.3 BSGS
+
+> BSGS 算法可以高效计算高次同余方程的解。
 
 * [P4195 【模板】exBSGS/Spoj3105 Mod](https://www.luogu.org/problemnew/show/P4195)
 * [P3306 [SDOI2013]随机数生成器](https://www.luogu.org/problemnew/show/P3306)
