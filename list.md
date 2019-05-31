@@ -156,6 +156,7 @@
 * [P1902 刺杀大使](https://www.luogu.org/problemnew/show/P1902)
 * [P1314 聪明的质监员](https://www.luogu.org/problemnew/show/P1314)
 * [P1083 借教室](https://www.luogu.org/problemnew/show/P1083)
+* [P4343 [SHOI2015]自动刷题机](https://www.luogu.org/problemnew/show/P4343)
 
 ### Part 2.4 分治
 
