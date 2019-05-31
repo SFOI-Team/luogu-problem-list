@@ -583,10 +583,8 @@
 * [P5396 【模板】第二类斯特林数·列](https://www.luogu.org/problemnew/show/P5396)
 * [P5408 【模板】第一类斯特林数·行](https://www.luogu.org/problemnew/show/P5408)
 * [P5409 【模板】第一类斯特林数·列](https://www.luogu.org/problemnew/show/P5409)
-
 * [P2532 [AHOI2012]树屋阶梯](https://www.luogu.org/problemnew/show/P2532)
 * [P3200 [HNOI2009]有趣的数列](https://www.luogu.org/problemnew/show/P3200)
-
 * [P3978 [TJOI2015]概率论](https://www.luogu.org/problemnew/show/P3978)
 * [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problemnew/show/P4091)
 * [P4827 [国家集训队] Crash 的文明世界](https://www.luogu.org/problemnew/show/P4827)
