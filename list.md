@@ -464,17 +464,16 @@
 ### Part 5.7 后缀自动机
 
 * [P3804 【模板】后缀自动机](https://www.luogu.org/problemnew/show/P3804)
-* [P4770 [NOI2018]你的名字](https://www.luogu.org/problemnew/show/P4770)
-* [P5341 [TJOI2019]甲苯先生和大中锋的字符串](https://www.luogu.org/problemnew/show/P5341)
 * [P3649 [APIO2014]回文串](https://www.luogu.org/problemnew/show/P3649)
 * [P3975 [TJOI2015]弦论](https://www.luogu.org/problemnew/show/P3975)
 * [P4248 [AHOI2013]差异](https://www.luogu.org/problemnew/show/P4248)
+* [P5341 [TJOI2019]甲苯先生和大中锋的字符串](https://www.luogu.org/problemnew/show/P5341)
+* [P4770 [NOI2018]你的名字](https://www.luogu.org/problemnew/show/P4770)
 * [P5284 [十二省联考2019]字符串问题](https://www.luogu.org/problemnew/show/P5284)
 
 ## Part 6 数学
 
 > OI 中的数学知识很多，也有些杂乱。
->
 
 ### Part 6.1 整除相关
 
