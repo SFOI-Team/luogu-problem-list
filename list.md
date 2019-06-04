@@ -186,6 +186,7 @@
 * [P2142 高精度减法](https://www.luogu.org/problemnew/show/P2142)
 * [P1303 A\*B Problem](https://www.luogu.org/problemnew/show/P1303)
 * [P1480 A/B Problem](https://www.luogu.org/problemnew/show/P1480)
+* [P1009 阶乘之和](https://www.luogu.org/problemnew/show/P1009)
 
 ## Part 3 搜索
 
