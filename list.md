@@ -821,7 +821,6 @@
 * [P2146 [NOI2015]软件包管理器](https://www.luogu.org/problemnew/show/P2146)
 * [P3178 [HAOI2015]树上操作](https://www.luogu.org/problemnew/show/P3178)
 * [P3258 [JLOI2014]松鼠的新家](https://www.luogu.org/problemnew/show/P3258)
-* [P3613 睡觉困难综合征](https://www.luogu.org/problemnew/show/P3613)
 * [P4069 [SDOI2016]游戏](https://www.luogu.org/problemnew/show/P4069)
 * [P4211 [LNOI2014]LCA](https://www.luogu.org/problemnew/show/P4211)
 * [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problemnew/show/P5305)
