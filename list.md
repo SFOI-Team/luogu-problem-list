@@ -2,9 +2,9 @@
 
 ## Copyleft
 
-![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
+[![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
-本项目采用 [知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/) 以及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
+本项目采用 [知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 以及附加的 [The Star And Thank Author License](https://github.com/zTrix/sata-license) 进行许可。
 
 换言之，您可以自由的共享并演绎该项目，但是必须给出必要的署名，并以相同方式共享本项目，并为本项目的 [Github 仓库](https://github.com/SFOI-Team/luogu-problem-list) 点赞（Star）。
 
