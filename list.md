@@ -272,7 +272,9 @@
 * [P1868 饥饿的奶牛](https://www.luogu.org/problemnew/show/P1868)
 * [P2679 子串](https://www.luogu.org/problemnew/show/P2679)
 * [P2501 [HAOI2006]数字序列](https://www.luogu.org/problemnew/show/P2501)
+* [P3336 [ZJOI2013]话旧](https://www.luogu.org/problemnew/show/P3336)
 * [P3558 [POI2013]BAJ-Bytecomputer](https://www.luogu.org/problemnew/show/P3558)
+* [P4158 [SCOI2009]粉刷匠](https://www.luogu.org/problemnew/show/P4158)
 * [P5301 [GXOI/GZOI2019]宝牌一大堆](https://www.luogu.org/problemnew/show/P5301)
 
 ### Part 4.2 背包动态规划
@@ -311,7 +313,10 @@
 * [P1040 加分二叉树](https://www.luogu.org/problemnew/show/P1040)
 * [P1122 最大子树和](https://www.luogu.org/problemnew/show/P1122)
 * [P1270 “访问”美术馆](https://www.luogu.org/problemnew/show/P1270)
+* [P1273 有线电视网](https://www.luogu.org/problemnew/show/P1273)
 * [P2014 选课](https://www.luogu.org/problemnew/show/P2014)
+* [P3177 [HAOI2015]树上染色](https://www.luogu.org/problemnew/show/P3177)
+* [P4516 [JSOI2018]潜入行动](https://www.luogu.org/problemnew/show/P4516)
 
 ### Part 4.5 状态压缩动态规划
 
@@ -320,6 +325,8 @@
 * [P2704 [NOI2001]炮兵阵地](https://www.luogu.org/problemnew/show/P2704)
 * [P1879 [USACO06NOV]玉米田Corn Fields](https://www.luogu.org/problemnew/show/P1879)
 * [P1896 [SCOI2005]互不侵犯](https://www.luogu.org/problemnew/show/P1896)
+* [P3092 [USACO13NOV]没有找零No Change](https://www.luogu.org/problemnew/show/P3092)
+* [P3694 邦邦的大合唱站队](https://www.luogu.org/problemnew/show/P3694)
 * [P4925 [1007]Scarlet的字符串不可能这么可爱](https://www.luogu.org/problemnew/show/P4925)
 * [P3648 [APIO2014]序列分割](https://www.luogu.org/problemnew/show/P3648)
 * [P2157 [SDOI2009]学校食堂](https://www.luogu.org/problemnew/show/P2157)
@@ -343,6 +350,8 @@
 
 * [P4719 【模板】动态dp](https://www.luogu.org/problemnew/show/P4719)
 * [P4751 动态dp【加强版】](https://www.luogu.org/problemnew/show/P4751)
+* [P3287 [SCOI2014]方伯伯的玉米田](https://www.luogu.org/problemnew/show/P3287)
+* [P2605 [ZJOI2010]基站选址](https://www.luogu.org/problemnew/show/P2605)
 
 ### Part 4.8 单调队列优化动态规划
 
@@ -385,6 +394,7 @@
 * [P2518 [HAOI2010]计数](https://www.luogu.org/problemnew/show/P2518)
 * [P2657 [SCOI2009]windy数](https://www.luogu.org/problemnew/show/P2657)
 * [P3286 [SCOI2014]方伯伯的商场之旅](https://www.luogu.org/problemnew/show/P3286)
+* [P4124 [CQOI2016]手机号码](https://www.luogu.org/problemnew/show/P4124)
 * [P2606 [ZJOI2010]排列计数](https://www.luogu.org/problemnew/show/P2606)
 
 ### Part 4.12 轮廓线动态规划
@@ -558,11 +568,12 @@
 * [P4564 [CTSC2018]假面](https://www.luogu.org/problemnew/show/P4564)
 * [P2473 [SCOI2008]奖励关](https://www.luogu.org/problemnew/show/P2473)
 * [P2221 [HAOI2012]高速公路](https://www.luogu.org/problemnew/show/P2221)
+* [P3750 [六省联考2017]分手是祝愿](https://www.luogu.org/problemnew/show/P3750)
 * [P4284 [SHOI2014]概率充电器](https://www.luogu.org/problemnew/show/P4284)
 * [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
-* [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
 * [P2081 [NOI2012]迷失游乐园](https://www.luogu.org/problemnew/show/P2081)
 * [P3343 [ZJOI2015]地震后的幻想乡](https://www.luogu.org/problemnew/show/P3343)
+* [P3600 随机数生成器](https://www.luogu.org/problemnew/show/P3600)
 * [P5326 [ZJOI2019]开关](https://www.luogu.org/problemnew/show/P5326)
 
 ### Part 6.5 组合数学
@@ -1072,6 +1083,7 @@
 * [P4196 [CQOI2006]凸多边形](https://www.luogu.org/problemnew/show/P4196)
 * [P3297 [SDOI2013]逃考](https://www.luogu.org/problemnew/show/P3297)
 * [P4250 [SCOI2015]小凸想跑步](https://www.luogu.org/problemnew/show/P4250)
+* [P5328 [ZJOI2019]浙江省选](https://www.luogu.org/problemnew/show/P5328)
 
 ## Part 10 杂项
 
