@@ -455,12 +455,12 @@
 > 后缀数组是处理字符串的有力工具。
 
 * [P3809 【模板】后缀排序](https://www.luogu.org/problemnew/show/P3809)
+* [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
+* [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problemnew/show/P2463)
+* [P2852 [USACO06DEC]牛奶模式Milk Patterns](https://www.luogu.org/problemnew/show/P2852)
+* [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
 * [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
 * [P2178 [NOI2015]品酒大会](https://www.luogu.org/problemnew/show/P2178)
-* [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problemnew/show/P2463)
-* [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
-* [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problemnew/show/P2336)
-* [P2852 [USACO06DEC]牛奶模式Milk Patterns](https://www.luogu.org/problemnew/show/P2852)
 * [P5319 [BJOI2019]奥术神杖](https://www.luogu.org/problemnew/show/P5319)
 
 ### Part 5.7 后缀自动机
