@@ -372,7 +372,6 @@
 > 利用四边形不等式，我们就可以提高一些区间动态规划的效率。
 
 * [P3515 [POI2011]Lightning Conductor](https://www.luogu.org/problemnew/show/P3515)
-
 * [P4767 [IOI2000]邮局](https://www.luogu.org/problemnew/show/P4767)
 
 ### Part 4.11 数位统计类动态规划
@@ -762,7 +761,6 @@
 > 分块是一种非常通用的暴力方法，虽然效率不如线段树和树状数组，但可以解决很多线段树和树状数组处理不了的问题。
 
 * [P3870 [TJOI2009]开关](https://www.luogu.org/problemnew/show/P3870)
-* [P1972 [SDOI2009]HH的项链](https://www.luogu.org/problemnew/show/P1972)
 * [P3396 哈希冲突](https://www.luogu.org/problemnew/show/P3396)
 * [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problemnew/show/P1494)
 * [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problemnew/show/P1903)
