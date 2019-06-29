@@ -905,11 +905,14 @@
 #### Part 8.3.1 二叉树
 
 > 二叉树是一种特殊的树，它有很多特殊的性质。
+>
+> 当然，它也是重点的考点。
 
 * [P1087 FBI树](https://www.luogu.org/problemnew/show/P1087)
 * [P1030 求先序排列](https://www.luogu.org/problemnew/show/P1030)
 * [P1305 新二叉树](https://www.luogu.org/problemnew/show/P1305)
 * [P1229 遍历问题](https://www.luogu.org/problemnew/show/P1229)
+* [P5018 对称二叉树](https://www.luogu.org/problemnew/show/P5018)
 
 #### Part 8.3.2 树的直径
 
