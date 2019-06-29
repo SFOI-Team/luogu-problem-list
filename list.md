@@ -881,7 +881,6 @@
 
 > 这里的图论内容都比较简单，涉及图的存储以及遍历图的方式。
 
-
 * [P2661 信息传递](https://www.luogu.org/problemnew/show/P2661)
 * [P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm](https://www.luogu.org/problemnew/show/P2921)
 
