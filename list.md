@@ -881,6 +881,7 @@
 
 > 这里的图论内容都比较简单，涉及图的存储以及遍历图的方式。
 
+
 * [P2661 信息传递](https://www.luogu.org/problemnew/show/P2661)
 * [P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm](https://www.luogu.org/problemnew/show/P2921)
 
@@ -905,11 +906,14 @@
 #### Part 8.3.1 二叉树
 
 > 二叉树是一种特殊的树，它有很多特殊的性质。
+>
+> 当然，它也是重点的考点。
 
 * [P1087 FBI树](https://www.luogu.org/problemnew/show/P1087)
 * [P1030 求先序排列](https://www.luogu.org/problemnew/show/P1030)
 * [P1305 新二叉树](https://www.luogu.org/problemnew/show/P1305)
 * [P1229 遍历问题](https://www.luogu.org/problemnew/show/P1229)
+* [P5018 对称二叉树](https://www.luogu.org/problemnew/show/P5018)
 
 #### Part 8.3.2 树的直径
 
