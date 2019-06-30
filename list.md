@@ -121,6 +121,7 @@
 * [P1042 乒乓球](https://www.luogu.org/problemnew/show/P1042)
 * [P1179 数字统计](https://www.luogu.org/problemnew/show/P1179)
 * [P2615 神奇的幻方](https://www.luogu.org/problemnew/show/P2615)
+* [P3952 时间复杂度](https://www.luogu.org/problemnew/show/P3952)
 * [P2482 [SDOI2010]猪国杀](https://www.luogu.org/problemnew/show/P2482)
 * [P3693 琪露诺的冰雪小屋](https://www.luogu.org/problemnew/show/P3693)
 * [P5380 [THUPC2019]鸭棋](https://www.luogu.org/problemnew/show/P5380)
