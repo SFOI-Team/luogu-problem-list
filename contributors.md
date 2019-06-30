@@ -6,3 +6,4 @@
 * [xht37](https://xht37.cnblogs.com)
 * [ChungZH](https://github.com/ChungZH)
 * [abc1763613206](https://github.com/abc1763613206)
+* [bear-good](https://github.com/bear-good)

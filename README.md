@@ -26,8 +26,6 @@
 
 `list.pdf`：定期（有修改的情况下一周一次）导出的 PDF 版本。
 
-`todo.list`：为 [memset0 的 todolist 工具](https://github.com/memset0/luogu-todolist) 和 [Anguei 的超级任务计划](https://github.com/Anguei/Luogu-Super-Todolist) 而制作的版本。（因为制作比较麻烦，更新频率大约一月一次）
-
 ## Copyleft
 
 [![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
