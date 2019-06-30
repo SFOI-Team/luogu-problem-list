@@ -494,6 +494,7 @@
 >
 > 求解两个数的最大公约数，可以采用欧几里得算法解决。
 
+* [P5436 【XR-2】缘分](https://www.luogu.org/problemnew/show/P5436)
 * [P1029 最大公约数和最小公倍数问题](https://www.luogu.org/problemnew/show/P1029)
 * [P2152 [SDOI2009]SuperGCD](https://www.luogu.org/problemnew/show/P2152)
 * [P1072 Hankson 的趣味题](https://www.luogu.org/problemnew/show/P1072)
@@ -666,6 +667,7 @@
 * [P5394 【模板】下降幂多项式乘法](https://www.luogu.org/problemnew/show/P5394)
 * [P3338 [ZJOI2014]力](https://www.luogu.org/problemnew/show/P3338)
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
+* [P5437 【XR-2】约定](https://www.luogu.org/problemnew/show/P5437)
 * [P5293 [HNOI2019]白兔之舞](https://www.luogu.org/problemnew/show/P5293)
 
 ### Part 6.8 莫比乌斯反演
