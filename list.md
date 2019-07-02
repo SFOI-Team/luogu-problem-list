@@ -465,7 +465,6 @@
 * [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
 * [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
 * [P2178 [NOI2015]品酒大会](https://www.luogu.org/problemnew/show/P2178)
-* [P5319 [BJOI2019]奥术神杖](https://www.luogu.org/problemnew/show/P5319)
 
 ### Part 5.7 后缀自动机
 
@@ -476,6 +475,7 @@
 * [P5341 [TJOI2019]甲苯先生和大中锋的字符串](https://www.luogu.org/problemnew/show/P5341)
 * [P4770 [NOI2018]你的名字](https://www.luogu.org/problemnew/show/P4770)
 * [P5284 [十二省联考2019]字符串问题](https://www.luogu.org/problemnew/show/P5284)
+* [P5319 [BJOI2019]奥术神杖](https://www.luogu.org/problemnew/show/P5319)
 
 ## Part 6 数学
 
