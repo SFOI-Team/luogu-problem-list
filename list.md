@@ -105,6 +105,7 @@
 * [P1464 Function](https://www.luogu.org/problemnew/show/P1464)
 * [P1192 台阶问题](https://www.luogu.org/problemnew/show/P1192)
 * [P1025 数的划分](https://www.luogu.org/problemnew/show/P1025)
+* [P4994 终于结束的起点](https://www.luogu.org/problemnew/show/P4994)
 
 ## Part 2 基础算法
 
@@ -168,6 +169,7 @@
 
 * [P1090 合并果子](https://www.luogu.org/problemnew/show/P1090)
 * [P1208 [USACO1.3]混合牛奶 Mixing Milk](https://www.luogu.org/problemnew/show/P1208)
+* [P4995 跳跳！](https://www.luogu.org/problemnew/show/P4995)
 * [P1094 纪念品分组](https://www.luogu.org/problemnew/show/P1094)
 * [P1199 三国游戏](https://www.luogu.org/problemnew/show/P1199)
 * [P2672 推销员](https://www.luogu.org/problemnew/show/P2672)
@@ -889,7 +891,7 @@
 > 这里的图论内容都比较简单，涉及图的存储以及遍历图的方式。
 
 * [P2661 信息传递](https://www.luogu.org/problemnew/show/P2661)
-* [P2921 [USACO08DEC]在农场万圣节Trick or Treat on the Farm](https://www.luogu.org/problemnew/show/P2921)
+* [P2921 [USACO08DEC]Trick or Treat on the Farm](https://www.luogu.org/problemnew/show/P2921)
 
 ### Part 8.2 最短路问题
 
@@ -947,6 +949,7 @@
 
 * [P3366 【模板】最小生成树](https://www.luogu.org/problemnew/show/P3366)
 * [P1546 最短网络 Agri-Net](https://www.luogu.org/problemnew/show/P1546)
+* [P2872 [USACO07DEC]道路建设Building Roads](https://www.luogu.org/problemnew/show/P2872)
 * [P2330 [SCOI2005]繁忙的都市](https://www.luogu.org/problemnew/show/P2330)
 * [P1991 无线通讯网](https://www.luogu.org/problemnew/show/P1991)
 * [P1967 货车运输](https://www.luogu.org/problemnew/show/P1967)
