@@ -732,8 +732,18 @@
 * [P2085 最小函数值](https://www.luogu.org/problemnew/show/P2085)
 * [P2827 蚯蚓](https://www.luogu.org/problemnew/show/P2827)
 
+### Part 7.6 ST表
 
-### Part 7.6 树状数组
+> ST表可以离线查询区间最值。
+
+* [P3865 【模板】ST表](https://www.luogu.org/problemnew/show/P3865)
+* [P2251 质量检测](https://www.luogu.org/problemnew/show/P2251)
+* [P1816 忠诚](https://www.luogu.org/problemnew/show/P1816)
+* [P1198 [JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)
+* [P2880 [USACO07JAN]Balanced Lineup](https://www.luogu.org/problemnew/show/P2880)
+* [P5012 水の数列](https://www.luogu.org/problemnew/show/P5012)
+
+### Part 7.7 树状数组
 
 > 树状数组是一种简洁高效的树形数据结构。
 
@@ -747,7 +757,7 @@
 * [P4113 [HEOI2012]采花](https://www.luogu.org/problemnew/show/P4113)
 * [P3960 列队](https://www.luogu.org/problemnew/show/P3960)
 
-### Part 7.7 线段树
+### Part 7.8 线段树
 
 > 线段树的通用性比树状数组更强，可以处理更多涉及区间操作的题目。
 
@@ -765,7 +775,7 @@
 * [P5324 [BJOI2019]删数](https://www.luogu.org/problemnew/show/P5324)
 * [P5327 [ZJOI2019]语言](https://www.luogu.org/problemnew/show/P5327)
 
-### Part 7.8 分块
+### Part 7.9 分块
 
 > 分块是一种非常通用的暴力方法，虽然效率不如线段树和树状数组，但可以解决很多线段树和树状数组处理不了的问题。
 
@@ -780,7 +790,7 @@
 * [P4119 [Ynoi2018]未来日记](https://www.luogu.org/problemnew/show/P4119)
 * [P4117 [Ynoi2018]五彩斑斓的世界](https://www.luogu.org/problemnew/show/P4117)
 
-### Part 7.9 点分治
+### Part 7.10 点分治
 
 > 点分治是一种可以高效统计树上路径信息的算法。
 
@@ -791,7 +801,7 @@
 * [P4149 [IOI2011]Race](https://www.luogu.org/problemnew/show/P4149)
 * [P3241 [HNOI2015]开店](https://www.luogu.org/problemnew/show/P3241)
 
-### Part 7.10 主席树
+### Part 7.11 主席树
 
 * [P2468 [SDOI2010]粟粟的书架](https://www.luogu.org/problemnew/show/P2468)
 * [P3302 [SDOI2013]森林](https://www.luogu.org/problemnew/show/P3302)
@@ -801,7 +811,7 @@
 * [P3293 [SCOI2016]美味](https://www.luogu.org/problemnew/show/P3293)
 * [P4618 [SDOI2018]原题识别](https://www.luogu.org/problemnew/show/P4618)
 
-### Part 7.11 平衡树
+### Part 7.12 平衡树
 
 * [P3369 【模板】普通平衡树](https://www.luogu.org/problemnew/show/P3369)
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problemnew/show/P3391)
@@ -818,7 +828,7 @@
 * [P3285 [SCOI2014]方伯伯的OJ](https://www.luogu.org/problemnew/show/P3285)
 * [P5321 [BJOI2019]送别](https://www.luogu.org/problemnew/show/P5321)
 
-### Part 7.12 树链剖分
+### Part 7.13 树链剖分
 
 > 树链剖分可以将任意一条树上路径划分成若干条连续的链，并用线段树等数据结构高效维护链上信息。
 
@@ -833,7 +843,7 @@
 * [P4211 [LNOI2014]LCA](https://www.luogu.org/problemnew/show/P4211)
 * [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problemnew/show/P5305)
 
-### Part 7.13 树套树
+### Part 7.14 树套树
 
 > 树套树可以用来维护多维度信息。
 
@@ -846,7 +856,7 @@
 * [P3242 [HNOI2015]接水果](https://www.luogu.org/problemnew/show/P3242)
 * [P3248 [HNOI2016]树](https://www.luogu.org/problemnew/show/P3248)
 
-### Part 7.14 动态树
+### Part 7.15 动态树
 
 > Link-Cut Tree 可以用来解决动态树一类问题。
 
@@ -861,7 +871,7 @@
 * [P4172 [WC2006]水管局长](https://www.luogu.org/problemnew/show/P4172)
 * [P4219 [BJOI2014]大融合](https://www.luogu.org/problemnew/show/P4219)
 
-### Part 7.15 CDQ分治&整体二分
+### Part 7.16 CDQ分治&整体二分
 
 > 通过离线分治算法，我们可以避免使用一些高级数据结构。
 
@@ -871,7 +881,7 @@
 * [P3332 [ZJOI2013]K大数查询](https://www.luogu.org/problemnew/show/P3332)
 * [P4169 [Violet]天使玩偶/SJY摆棋子](https://www.luogu.org/problemnew/show/P4169)
 
-### Part 7.16 可持久化数据结构
+### Part 7.17 可持久化数据结构
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
