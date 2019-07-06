@@ -573,6 +573,7 @@
 * [P4564 [CTSC2018]假面](https://www.luogu.org/problemnew/show/P4564)
 * [P2473 [SCOI2008]奖励关](https://www.luogu.org/problemnew/show/P2473)
 * [P2221 [HAOI2012]高速公路](https://www.luogu.org/problemnew/show/P2221)
+* [P3239 [HNOI2015]亚瑟王](https://www.luogu.org/problemnew/show/P3239)
 * [P3750 [六省联考2017]分手是祝愿](https://www.luogu.org/problemnew/show/P3750)
 * [P4284 [SHOI2014]概率充电器](https://www.luogu.org/problemnew/show/P4284)
 * [P5249 [LnOI2019]加特林轮盘赌](https://www.luogu.org/problemnew/show/P5249)
