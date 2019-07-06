@@ -764,6 +764,7 @@
 * [P1198 [JSOI2008]最大数](https://www.luogu.org/problemnew/show/P1198)
 * [P2880 [USACO07JAN]Balanced Lineup](https://www.luogu.org/problemnew/show/P2880)
 * [P5012 水の数列](https://www.luogu.org/problemnew/show/P5012)
+* [P5344 【XR-1】逛森林](https://www.luogu.org/problemnew/show/P5344)
 
 ### Part 7.7 树状数组
 
@@ -1091,6 +1092,7 @@
 * [P2495 [SDOI2011]消耗战](https://www.luogu.org/problemnew/show/P2495)
 * [P3233 [HNOI2014]世界树](https://www.luogu.org/problemnew/show/P3233)
 * [P5360 [SDOI2019]世界地图](https://www.luogu.org/problemnew/show/P5360)
+* [P5439 【XR-2】永恒](https://www.luogu.org/problemnew/show/P5439)
 
 ### Part 8.12 矩阵树定理
 
