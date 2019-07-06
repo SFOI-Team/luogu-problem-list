@@ -808,6 +808,7 @@
 * [P3396 哈希冲突](https://www.luogu.org/problemnew/show/P3396)
 * [P3863 序列](https://www.luogu.org/problemnew/show/P3863)
 * [P1975 [国家集训队]排队](https://www.luogu.org/problemnew/show/P1975)
+* [P3203 [HNOI2010]弹飞绵羊](https://www.luogu.org/problemnew/show/P3203)
 * [P3710 方方方的数据结构](https://www.luogu.org/problemnew/show/P3710)
 * [P3992 [BJOI2017]开车](https://www.luogu.org/problemnew/show/P3992)
 * [P4168 [Violet]蒲公英](https://www.luogu.org/problemnew/show/P4168)
@@ -897,7 +898,6 @@
 > Link-Cut Tree 可以用来解决动态树一类问题。
 
 * [P3690 【模板】Link Cut Tree （动态树）](https://www.luogu.org/problemnew/show/P3690)
-* [P3203 [HNOI2010]弹飞绵羊](https://www.luogu.org/problemnew/show/P3203)
 * [P1501 [国家集训队]Tree II](https://www.luogu.org/problemnew/show/P1501)
 * [P4338 [ZJOI2018]历史](https://www.luogu.org/problemnew/show/P4338)
 * [P4312 [COCI 2009] OTOCI / 极地旅行社](https://www.luogu.org/problemnew/show/P4312)
