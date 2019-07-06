@@ -520,6 +520,7 @@
 * [P2158 [SDOI2008]仪仗队](https://www.luogu.org/problemnew/show/P2158)
 * [P2568 GCD](https://www.luogu.org/problemnew/show/P2568)
 * [P2398 GCD SUM](https://www.luogu.org/problemnew/show/P2398)
+* [P4139 上帝与集合的正确用法](https://www.luogu.org/problemnew/show/P4139)
 
 ### Part 6.2 同余方程
 
