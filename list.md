@@ -400,6 +400,7 @@
 * [P5056 【模板】插头dp](https://www.luogu.org/problemnew/show/P5056)
 * [P2289 [HNOI2004]邮递员](https://www.luogu.org/problemnew/show/P2289)
 * [P2337 [SCOI2012]喵星人的入侵](https://www.luogu.org/problemnew/show/P2337)
+* [P5347 【XR-1】俄罗斯方块](https://www.luogu.org/problemnew/show/P5347)
 
 ## Part 5 字符串
 
@@ -467,6 +468,7 @@
 * [P4051 [JSOI2007]字符加密](https://www.luogu.org/problemnew/show/P4051)
 * [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problemnew/show/P1117)
 * [P2178 [NOI2015]品酒大会](https://www.luogu.org/problemnew/show/P2178)
+* [P5346 【XR-1】柯南家族](https://www.luogu.org/problemnew/show/P5346)
 
 ### Part 5.7 后缀自动机
 
@@ -491,9 +493,9 @@
 
 > 素数，指的是除 1 和它本身之外没有其他约数的数。
 
-* [P3383 【模板】线性筛素数](https://www.luogu.org/problemnew/show/P3383)
 * [P4718 【模板】Pollard-Rho算法](https://www.luogu.org/problemnew/show/P4718)
-* [P1865 A % B Problem](https://www.luogu.org/problemnew/show/P1865)
+* [P1075 质因数分解](https://www.luogu.org/problemnew/show/P1075)
+* [P2441 角色属性树](https://www.luogu.org/problemnew/show/P2441)
 
 #### Part 6.1.2 最大公约数
 
@@ -680,13 +682,22 @@
 
 ### Part 6.8 莫比乌斯反演
 
-* [P3768 简单的数学题](https://www.luogu.org/problemnew/show/P3768)
 * [P3172 [CQOI2015]选数](https://www.luogu.org/problemnew/show/P3172)
 * [P3455 [POI2007]ZAP-Queries](https://www.luogu.org/problemnew/show/P3455)
 * [P3327 [SDOI2015]约数个数和](https://www.luogu.org/problemnew/show/P3327)
 * [P4619 [SDOI2018]旧试题](https://www.luogu.org/problemnew/show/P4619)
 
-### Part 6.9 线性规划
+### Part 6.9 筛法
+
+* [P3383 【模板】线性筛素数](https://www.luogu.org/problemnew/show/P3383)
+* [P4213 【模板】杜教筛（Sum）](https://www.luogu.org/problemnew/show/P4213)
+* [P5325 【模板】Min_25筛](https://www.luogu.org/problemnew/show/P5325)
+* [P1865 A % B Problem](https://www.luogu.org/problemnew/show/P1865)
+* [P1621 集合](https://www.luogu.org/problemnew/show/P1621)
+* [P3768 简单的数学题](https://www.luogu.org/problemnew/show/P3768)
+* [P5438 【XR-2】记忆](https://www.luogu.org/problemnew/show/P5438)
+
+### Part 6.10 线性规划
 
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
 * [P4232 无意识之外的捉迷藏](https://www.luogu.org/problemnew/show/P4232)
@@ -787,16 +798,23 @@
 
 * [P3870 [TJOI2009]开关](https://www.luogu.org/problemnew/show/P3870)
 * [P3396 哈希冲突](https://www.luogu.org/problemnew/show/P3396)
-* [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problemnew/show/P1494)
-* [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problemnew/show/P1903)
+* [P3863 序列](https://www.luogu.org/problemnew/show/P3863)
 * [P1975 [国家集训队]排队](https://www.luogu.org/problemnew/show/P1975)
 * [P3710 方方方的数据结构](https://www.luogu.org/problemnew/show/P3710)
-* [P4074 [WC2013]糖果公园](https://www.luogu.org/problemnew/show/P4074)
+* [P3992 [BJOI2017]开车](https://www.luogu.org/problemnew/show/P3992)
 * [P4168 [Violet]蒲公英](https://www.luogu.org/problemnew/show/P4168)
 * [P4119 [Ynoi2018]未来日记](https://www.luogu.org/problemnew/show/P4119)
-* [P4117 [Ynoi2018]五彩斑斓的世界](https://www.luogu.org/problemnew/show/P4117)
 
-### Part 7.10 点分治
+### Part 7.10 莫队
+
+* [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problemnew/show/P1494)
+* [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problemnew/show/P1903)
+* [P2709 小B的询问](https://www.luogu.org/problemnew/show/P2709)
+* [P3674 小清新人渣的本愿](https://www.luogu.org/problemnew/show/P3674)
+* [P3709 大爷的字符串题](https://www.luogu.org/problemnew/show/P3709)
+* [P4074 [WC2013]糖果公园](https://www.luogu.org/problemnew/show/P4074)
+
+### Part 7.11 点分治
 
 > 点分治是一种可以高效统计树上路径信息的算法。
 
@@ -811,7 +829,7 @@
 * [P4292 [WC2010]重建计划](https://www.luogu.org/problemnew/show/P4292)
 * [P5306 [COCI2019]Transport](https://www.luogu.org/problemnew/show/P5306)
 
-### Part 7.11 主席树
+### Part 7.12 主席树
 
 * [P2468 [SDOI2010]粟粟的书架](https://www.luogu.org/problemnew/show/P2468)
 * [P3302 [SDOI2013]森林](https://www.luogu.org/problemnew/show/P3302)
@@ -821,7 +839,7 @@
 * [P3293 [SCOI2016]美味](https://www.luogu.org/problemnew/show/P3293)
 * [P4618 [SDOI2018]原题识别](https://www.luogu.org/problemnew/show/P4618)
 
-### Part 7.12 平衡树
+### Part 7.13 平衡树
 
 * [P3369 【模板】普通平衡树](https://www.luogu.org/problemnew/show/P3369)
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problemnew/show/P3391)
@@ -838,7 +856,7 @@
 * [P3285 [SCOI2014]方伯伯的OJ](https://www.luogu.org/problemnew/show/P3285)
 * [P5321 [BJOI2019]送别](https://www.luogu.org/problemnew/show/P5321)
 
-### Part 7.13 树链剖分
+### Part 7.14 树链剖分
 
 > 树链剖分可以将任意一条树上路径划分成若干条连续的链，并用线段树等数据结构高效维护链上信息。
 
@@ -853,7 +871,7 @@
 * [P4211 [LNOI2014]LCA](https://www.luogu.org/problemnew/show/P4211)
 * [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problemnew/show/P5305)
 
-### Part 7.14 树套树
+### Part 7.15 树套树
 
 > 树套树可以用来维护多维度信息。
 
@@ -866,7 +884,7 @@
 * [P3242 [HNOI2015]接水果](https://www.luogu.org/problemnew/show/P3242)
 * [P3248 [HNOI2016]树](https://www.luogu.org/problemnew/show/P3248)
 
-### Part 7.15 动态树
+### Part 7.16 动态树
 
 > Link-Cut Tree 可以用来解决动态树一类问题。
 
@@ -881,7 +899,7 @@
 * [P4172 [WC2006]水管局长](https://www.luogu.org/problemnew/show/P4172)
 * [P4219 [BJOI2014]大融合](https://www.luogu.org/problemnew/show/P4219)
 
-### Part 7.16 CDQ分治&整体二分
+### Part 7.17 CDQ分治&整体二分
 
 > 通过离线分治算法，我们可以避免使用一些高级数据结构。
 
@@ -891,7 +909,7 @@
 * [P3332 [ZJOI2013]K大数查询](https://www.luogu.org/problemnew/show/P3332)
 * [P4169 [Violet]天使玩偶/SJY摆棋子](https://www.luogu.org/problemnew/show/P4169)
 
-### Part 7.17 可持久化数据结构
+### Part 7.18 可持久化数据结构
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
