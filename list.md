@@ -676,6 +676,7 @@
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problemnew/show/P3723)
 * [P5437 【XR-2】约定](https://www.luogu.org/problemnew/show/P5437)
 * [P5293 [HNOI2019]白兔之舞](https://www.luogu.org/problemnew/show/P5293)
+* [P5432 A/B Problem (加强版)](https://www.luogu.org/problemnew/show/P5432)
 
 ### Part 6.8 莫比乌斯反演
 
@@ -684,6 +685,11 @@
 * [P3455 [POI2007]ZAP-Queries](https://www.luogu.org/problemnew/show/P3455)
 * [P3327 [SDOI2015]约数个数和](https://www.luogu.org/problemnew/show/P3327)
 * [P4619 [SDOI2018]旧试题](https://www.luogu.org/problemnew/show/P4619)
+
+### Part 6.9 线性规划
+
+* [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
+* [P4232 无意识之外的捉迷藏](https://www.luogu.org/problemnew/show/P4232)
 
 ## Part 7 数据结构
 
@@ -797,9 +803,13 @@
 * [P3806 【模板】点分治1](https://www.luogu.org/problemnew/show/P3806)
 * [P2634 [国家集训队]聪聪可可](https://www.luogu.org/problemnew/show/P2634)
 * [P2664 树上游戏](https://www.luogu.org/problemnew/show/P2664)
-* [P4292 [WC2010]重建计划](https://www.luogu.org/problemnew/show/P4292)
+* [P3714 [BJOI2017]树的难题](https://www.luogu.org/problemnew/show/P3714)
 * [P4149 [IOI2011]Race](https://www.luogu.org/problemnew/show/P4149)
 * [P3241 [HNOI2015]开店](https://www.luogu.org/problemnew/show/P3241)
+* [P4075 [SDOI2016]模式字符串](https://www.luogu.org/problemnew/show/P4075)
+* [P4183 [USACO18JAN]Cow at Large P](https://www.luogu.org/problemnew/show/P4183)
+* [P4292 [WC2010]重建计划](https://www.luogu.org/problemnew/show/P4292)
+* [P5306 [COCI2019]Transport](https://www.luogu.org/problemnew/show/P5306)
 
 ### Part 7.11 主席树
 
@@ -1044,7 +1054,6 @@
 * [P3159 [CQOI2012]交换棋子](https://www.luogu.org/problemnew/show/P3159)
 * [P2604 [ZJOI2010]网络扩容](https://www.luogu.org/problemnew/show/P2604)
 * [P2050 [NOI2012]美食节](https://www.luogu.org/problemnew/show/P2050)
-* [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problemnew/show/P3980)
 * [P4249 [WC2007]剪刀石头布](https://www.luogu.org/problemnew/show/P4249)
 * [P5331 [SNOI2019]通信](https://www.luogu.org/problemnew/show/P5331)
 
@@ -1143,3 +1152,4 @@
 * [P3836 Nowruz 诺鲁孜节](https://www.luogu.org/problemnew/show/P3836)
 * [P4920 [WC2015]未来程序](https://www.luogu.org/problemnew/show/P4920)
 * [P5402 [CTS2019]无处安放](https://www.luogu.org/problemnew/show/P5402)
+* [P5418 [CTSC2016]NOIP十合一](https://www.luogu.org/problemnew/show/P5418)
