@@ -433,6 +433,7 @@
 > Manacher 可以在线性时间内求出一个字符串的最长回文子串。
 
 * [P3805 【模板】manacher算法](https://www.luogu.org/problemnew/show/P3805)
+* [P4287 [SHOI2011]双倍回文](https://www.luogu.org/problemnew/solution/P4287)
 * [P4555 [国家集训队]最长双回文串](https://www.luogu.org/problemnew/show/P4555)
 * [P1659 [国家集训队]拉拉队排练](https://www.luogu.org/problemnew/show/P1659)
 
@@ -790,6 +791,7 @@
 * [P3373 【模板】线段树 2](https://www.luogu.org/problemnew/show/P3373)
 * [P1382 楼房](https://www.luogu.org/problemnew/show/P1382)
 * [P1471 方差](https://www.luogu.org/problemnew/show/P1471)
+* [P3924 康娜的线段树](https://www.luogu.org/problemnew/show/P3924)
 * [P1502 窗口的星星](https://www.luogu.org/problemnew/show/P1502)
 * [P2471 [SCOI2007]降雨量](https://www.luogu.org/problemnew/show/P2471)
 * [P2824 [HEOI2016/TJOI2016]排序](https://www.luogu.org/problemnew/show/P2824)
