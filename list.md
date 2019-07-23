@@ -434,7 +434,6 @@
 * [P2375 [NOI2014]动物园](https://www.luogu.org/problemnew/show/P2375)
 * [P3426 [POI2005]SZA-Template](https://www.luogu.org/problemnew/show/P3426)
 * [P3193 [HNOI2008]GT考试](https://www.luogu.org/problemnew/show/P3193)
-* [P3435 [POI2006]OKR-Periods of Words](https://www.luogu.org/problemnew/show/P3435)
 
 ### Part 5.3 Manacher
 
