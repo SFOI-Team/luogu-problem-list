@@ -190,6 +190,14 @@
 * [P1480 A/B Problem](https://www.luogu.org/problemnew/show/P1480)
 * [P1009 阶乘之和](https://www.luogu.org/problemnew/show/P1009)
 
+### Part 2.7 前缀和 & 差分
+
+> 前缀和是一种重要的预处理，能大大降低查询的时间复杂度，而差分则是一种和前缀和相对的策略。
+
+* [P3131 \[USACO16JAN\] 子共七 Subsequences Summing to Sevens](https://www.luogu.org/problemnew/show/P3131)
+* [P1387 最大正方形](https://www.luogu.org/problemnew/show/P1387)
+* [P3397 地毯](https://www.luogu.org/problemnew/show/P3397)
+
 ## Part 3 搜索
 
 > 搜索其实就是高级的枚举，很多题目都可以用搜索完成。就算不能，搜索也是骗分神器。
