@@ -518,6 +518,7 @@
 
 * [P5436 【XR-2】缘分](https://www.luogu.org/problemnew/show/P5436)
 * [P1029 最大公约数和最小公倍数问题](https://www.luogu.org/problemnew/show/P1029)
+* [P1414 又是毕业季II](https://www.luogu.org/problemnew/show/P1414)
 * [P2152 [SDOI2009]SuperGCD](https://www.luogu.org/problemnew/show/P2152)
 * [P1072 Hankson 的趣味题](https://www.luogu.org/problemnew/show/P1072)
 
@@ -539,7 +540,6 @@
 * [P4549 【模板】裴蜀定理](https://www.luogu.org/problemnew/show/P4549)
 * [P2613 【模板】有理数取余](https://www.luogu.org/problemnew/show/P2613)
 * [P1082 同余方程](https://www.luogu.org/problemnew/show/P1082)
-* [P1414 又是毕业季II](https://www.luogu.org/problemnew/show/P1414)
 * [P3951 小凯的疑惑](https://www.luogu.org/problemnew/show/P3951)
 * [P1516 青蛙的约会](https://www.luogu.org/problemnew/show/P1516)
 
