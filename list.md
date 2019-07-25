@@ -22,6 +22,11 @@
 
 ## 更新日志
 
+2.4.1 2019/7/25：
+
+1. 新增专题：前缀和&差分。
+2. 添加少量题目，调整部分题目位置。
+
 2.4 2019/7/6：
 
 1. 新增专题：ST表，线性规划，筛法，莫队。
@@ -194,7 +199,7 @@
 
 > 前缀和是一种重要的预处理，能大大降低查询的时间复杂度，而差分则是一种和前缀和相对的策略。
 
-* [P3131 \[USACO16JAN\] 子共七 Subsequences Summing to Sevens](https://www.luogu.org/problemnew/show/P3131)
+* [P3131 [USACO16JAN]Subsequences Summing to Sevens](https://www.luogu.org/problemnew/show/P3131)
 * [P1387 最大正方形](https://www.luogu.org/problemnew/show/P1387)
 * [P3397 地毯](https://www.luogu.org/problemnew/show/P3397)
 

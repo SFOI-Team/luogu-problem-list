@@ -24,7 +24,7 @@
 
 在 Releases 中，您还可以获得如下衍生版本，供您直接使用：
 
-`list.pdf`：定期（有修改的情况下一周一次）导出的 PDF 版本。
+`list.pdf`：本题单的 PDF 版本。
 
 ## Copyleft
 
