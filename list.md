@@ -449,7 +449,6 @@
 > Manacher 可以在线性时间内求出一个字符串的最长回文子串。
 
 * [P3805 【模板】manacher算法](https://www.luogu.org/problem/P3805)
-* [P4287 [SHOI2011]双倍回文](https://www.luogu.org/problem/solution/P4287)
 * [P4555 [国家集训队]最长双回文串](https://www.luogu.org/problem/P4555)
 * [P1659 [国家集训队]拉拉队排练](https://www.luogu.org/problem/P1659)
 
@@ -479,7 +478,13 @@
 * [P3311 [SDOI2014]数数](https://www.luogu.org/problem/P3311)
 * [P4052 [JSOI2007]文本生成器](https://www.luogu.org/problem/P4052)
 
-### Part 5.6 后缀数组
+### Part 5.6 回文自动机
+
+* [P3649 [APIO2014]回文串](https://www.luogu.org/problem/P3649)
+* [P4287 [SHOI2011]双倍回文](https://www.luogu.org/problem/solution/P4287)
+* [P4762 [CERC2014]Virus synthesis](https://www.luogu.org/problem/P4762)
+
+### Part 5.7 后缀数组
 
 > 后缀数组是处理字符串的有力工具。
 
@@ -492,7 +497,7 @@
 * [P2178 [NOI2015]品酒大会](https://www.luogu.org/problem/P2178)
 * [P5346 【XR-1】柯南家族](https://www.luogu.org/problem/P5346)
 
-### Part 5.7 后缀自动机
+### Part 5.8 后缀自动机
 
 * [P3804 【模板】后缀自动机](https://www.luogu.org/problem/P3804)
 * [P3649 [APIO2014]回文串](https://www.luogu.org/problem/P3649)
