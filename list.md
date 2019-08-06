@@ -430,6 +430,8 @@
 
 ### Part 5.1 字符串哈希
 
+> 字符串哈希通过牺牲很小的准确率，达到快速进行字符串匹配的效果。
+
 * [P3370 【模板】字符串哈希](https://www.luogu.org/problem/P3370)
 * [P5270 无论怎样神树大人都会删库跑路](https://www.luogu.org/problem/P5270)
 
@@ -453,6 +455,8 @@
 * [P1659 [国家集训队]拉拉队排练](https://www.luogu.org/problem/P1659)
 
 ### Part 5.4 Trie树
+
+> Trie树可以像查字典一样把多个字符串组织到一棵树上。
 
 * [P3879 [TJOI2010]阅读理解](https://www.luogu.org/problem/P3879)
 * [P2292 [HNOI2004]L语言](https://www.luogu.org/problem/P2292)
@@ -480,13 +484,15 @@
 
 ### Part 5.6 回文自动机
 
+> 回文自动机是解决回文串问题的有力工具。
+
 * [P3649 [APIO2014]回文串](https://www.luogu.org/problem/P3649)
 * [P4287 [SHOI2011]双倍回文](https://www.luogu.org/problem/solution/P4287)
 * [P4762 [CERC2014]Virus synthesis](https://www.luogu.org/problem/P4762)
 
 ### Part 5.7 后缀数组
 
-> 后缀数组是处理字符串的有力工具。
+> 后缀数组可以解决很多字符串匹配的问题。
 
 * [P3809 【模板】后缀排序](https://www.luogu.org/problem/P3809)
 * [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problem/P2336)
@@ -498,6 +504,8 @@
 * [P5346 【XR-1】柯南家族](https://www.luogu.org/problem/P5346)
 
 ### Part 5.8 后缀自动机
+
+> 后缀自动机是一种处理字符串问题的强大工具。
 
 * [P3804 【模板】后缀自动机](https://www.luogu.org/problem/P3804)
 * [P3649 [APIO2014]回文串](https://www.luogu.org/problem/P3649)
@@ -547,7 +555,7 @@
 
 ### Part 6.2 同余方程
 
-> 求解不定方程往往可以引出不少话题。
+> 求解同余方程往往可以引出不少话题。
 
 #### Part 6.2.1 线性同余方程&乘法逆元
 
@@ -711,6 +719,8 @@
 
 ### Part 6.8 莫比乌斯反演
 
+> 运用莫比乌斯反演，我们可以将一些函数转化，从而降低计算难度。
+
 * [P3172 [CQOI2015]选数](https://www.luogu.org/problem/P3172)
 * [P3455 [POI2007]ZAP-Queries](https://www.luogu.org/problem/P3455)
 * [P3327 [SDOI2015]约数个数和](https://www.luogu.org/problem/P3327)
@@ -727,6 +737,8 @@
 * [P5438 【XR-2】记忆](https://www.luogu.org/problem/P5438)
 
 ### Part 6.10 线性规划
+
+> 线性规划是研究线性约束条件下线性目标函数极值问题的方法。
 
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problem/P3980)
 * [P4232 无意识之外的捉迷藏](https://www.luogu.org/problem/P4232)
@@ -838,6 +850,8 @@
 * [P4119 [Ynoi2018]未来日记](https://www.luogu.org/problem/P4119)
 
 ### Part 7.10 莫队
+
+> 莫队算法可以解决不少离线区间询问问题。
 
 * [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problem/P1494)
 * [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problem/P1903)
@@ -1128,6 +1142,8 @@
 
 ### Part 8.11 虚树
 
+> 将一些无用的点从树上删去，从而达到降低树的规模的效果。
+
 * [P2495 [SDOI2011]消耗战](https://www.luogu.org/problem/P2495)
 * [P3233 [HNOI2014]世界树](https://www.luogu.org/problem/P3233)
 * [P5360 [SDOI2019]世界地图](https://www.luogu.org/problem/P5360)
@@ -1148,6 +1164,8 @@
 
 ### Part 9.1 凸包
 
+> 凸包指在平面上能包含所有给定点的最小凸多边形。
+
 * [P2742 【模板】二维凸包](https://www.luogu.org/problem/P2742)
 * [P2287 [HNOI2004]最佳包裹](https://www.luogu.org/problem/P2287)
 * [P3829 [SHOI2012]信用卡凸包](https://www.luogu.org/problem/P3829)
@@ -1162,6 +1180,8 @@
 
 ### Part 9.3 半平面交
 
+> 多个半平面的交集称之为半平面交。
+
 * [P3256 [JLOI2013]赛车](https://www.luogu.org/problem/P3256)
 * [P2600 [ZJOI2008]瞭望塔](https://www.luogu.org/problem/P2600)
 * [P4196 [CQOI2006]凸多边形](https://www.luogu.org/problem/P4196)
@@ -1170,6 +1190,8 @@
 * [P5328 [ZJOI2019]浙江省选](https://www.luogu.org/problem/P5328)
 
 ## Part 10 杂项
+
+> 这里的专题，有很多都难以纳入前面的类别中，故将他们单独列入了杂项。
 
 ### Part 10.1 模拟退火
 
@@ -1180,6 +1202,8 @@
 * [P3878 [TJOI2010]分金币](https://www.luogu.org/problem/P3878)
 
 ### Part 10.2 0/1 分数规划
+
+> 0/1 分数规划用来求一个分式的极值。
 
 * [P4377 [USACO18OPEN]Talent Show](https://www.luogu.org/problem/P4377)
 * [P3199 [HNOI2009]最小圈](https://www.luogu.org/problem/P3199)
