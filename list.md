@@ -951,6 +951,19 @@
 * [P3402 【模板】可持久化并查集](https://www.luogu.org/problem/P3402)
 * [P5283 [十二省联考2019]异或粽子](https://www.luogu.org/problem/P5283)
 
+### Part 7.19 K-D Tree
+
+> K-D Tree 是一种高效处理 $ k $ 维信息的数据结构。
+
+* [P4357 [CQOI2016]K远点对](https://www.luogu.org/problem/P4357)
+* [P4148 简单题](https://www.luogu.org/problem/P4148)
+* [P2479 [SDOI2010]捉迷藏](https://www.luogu.org/problem/P2479)
+* [P3769 [CH弱省胡策R2]TATT](https://www.luogu.org/problem/P3769)
+* [P4169 [Violet]天使玩偶/SJY摆棋子](https://www.luogu.org/problem/P4169)
+* [P4390 [BOI2007]Mokia 摩基亚](https://www.luogu.org/problem/P4390)
+* [P4475 巧克力王国](https://www.luogu.org/problem/P4475)
+* [P2093 [国家集训队]JZPFAR](https://www.luogu.org/problem/P2093)
+
 ## Part 8 图论
 
 > 图论是数学的一个分支，它以图为研究的对象。
