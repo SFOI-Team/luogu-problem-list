@@ -845,7 +845,6 @@
 * [P3396 哈希冲突](https://www.luogu.org/problem/P3396)
 * [P3863 序列](https://www.luogu.org/problem/P3863)
 * [P1975 [国家集训队]排队](https://www.luogu.org/problem/P1975)
-* [P3203 [HNOI2010]弹飞绵羊](https://www.luogu.org/problem/P3203)
 * [P3710 方方方的数据结构](https://www.luogu.org/problem/P3710)
 * [P3992 [BJOI2017]开车](https://www.luogu.org/problem/P3992)
 * [P4168 [Violet]蒲公英](https://www.luogu.org/problem/P4168)
@@ -879,6 +878,8 @@
 
 ### Part 7.12 主席树
 
+> 主席树，即可持久化权值线段树。
+
 * [P2468 [SDOI2010]粟粟的书架](https://www.luogu.org/problem/P2468)
 * [P3302 [SDOI2013]森林](https://www.luogu.org/problem/P3302)
 * [P3168 [CQOI2015]任务查询系统](https://www.luogu.org/problem/P3168)
@@ -897,7 +898,6 @@
 * [P2042 [NOI2005]维护数列](https://www.luogu.org/problem/P2042)
 * [P1110 [ZJOI2007]报表统计](https://www.luogu.org/problem/P1110)
 * [P3644 [APIO2015]八邻旁之桥](https://www.luogu.org/problem/P3644)
-* [P3765 总统选举](https://www.luogu.org/problem/P3765)
 * [P1486 [NOI2004]郁闷的出纳员](https://www.luogu.org/problem/P1486)
 * [P2710 数列](https://www.luogu.org/problem/P2710)
 * [P3224 [HNOI2012]永无乡](https://www.luogu.org/problem/P3224)
@@ -939,9 +939,10 @@
 > Link-Cut Tree 可以用来解决动态树一类问题。
 
 * [P3690 【模板】Link Cut Tree （动态树）](https://www.luogu.org/problem/P3690)
-* [P1501 [国家集训队]Tree II](https://www.luogu.org/problem/P1501)
+* [P3203 [HNOI2010]弹飞绵羊](https://www.luogu.org/problem/P3203)
 * [P4338 [ZJOI2018]历史](https://www.luogu.org/problem/P4338)
-* [P4312 [COCI 2009] OTOCI / 极地旅行社](https://www.luogu.org/problem/P4312)
+* [P4312 [COCI2009]OTOCI](https://www.luogu.org/problem/P4312)
+* [P1501 [国家集训队]Tree II](https://www.luogu.org/problem/P1501)
 * [P2387 [NOI2014]魔法森林](https://www.luogu.org/problem/P2387)
 * [P3348 [ZJOI2016]大森林](https://www.luogu.org/problem/P3348)
 * [P3703 [SDOI2017]树点涂色](https://www.luogu.org/problem/P3703)
