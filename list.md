@@ -394,6 +394,7 @@
 * [P3648 [APIO2014]序列分割](https://www.luogu.org/problem/P3648)
 * [P4027 [NOI2007]货币兑换](https://www.luogu.org/problem/P4027)
 * [P4360 [CEOI2004]锯木厂选址](https://www.luogu.org/problem/P4360)
+* [P5468 [NOI2019]回家路线](https://www.luogu.org/problem/P5468)
 * [P2305 [NOI2014]购票](https://www.luogu.org/problem/P2305)
 
 ### Part 4.10 四边形不等式优化动态规划
@@ -716,6 +717,7 @@
 * [P5437 【XR-2】约定](https://www.luogu.org/problem/P5437)
 * [P5293 [HNOI2019]白兔之舞](https://www.luogu.org/problem/P5293)
 * [P5432 A/B Problem (加强版)](https://www.luogu.org/problem/P5432)
+* [P5472 [NOI2019]斗主地](https://www.luogu.org/problem/P5472)
 
 ### Part 6.8 莫比乌斯反演
 
@@ -929,6 +931,8 @@
 * [P3759 [TJOI2017]不勤劳的图书管理员](https://www.luogu.org/problem/P3759)
 * [P3242 [HNOI2015]接水果](https://www.luogu.org/problem/P3242)
 * [P3248 [HNOI2016]树](https://www.luogu.org/problem/P3248)
+* [P5445 [APIO2019]路灯](https://www.luogu.org/problem/P5445)
+* [P5471 [NOI2019]弹跳](https://www.luogu.org/problem/P5471)
 
 ### Part 7.16 动态树
 
