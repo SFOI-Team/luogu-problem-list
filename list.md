@@ -757,6 +757,16 @@
 * [P4526 【模板】自适应辛普森法2](https://www.luogu.org/problem/P4526)
 * [P3779 [SDOI2017]龙与地下城](https://www.luogu.org/problem/P3779)
 
+### Part 6.12 置换群
+
+> 置换群通常用来解决一些涉及“本质不同”的计数问题。
+
+* [P4980 【模板】Polya定理](https://www.luogu.org/problem/P4980)
+* [P1446 [HNOI2008]Cards](https://www.luogu.org/problem/P1446)
+* [P2561 [AHOI2002]黑白瓷砖](https://www.luogu.org/problem/P2561)
+* [P4128 [SHOI2006]有色图](https://www.luogu.org/problem/P4128)
+* [P4727 [HNOI2009]图的同构记数](https://www.luogu.org/problem/P4727)
+
 ## Part 7 数据结构
 
 > 灵活地运用数据结构可以高效地查询并处理需要的信息。
