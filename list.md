@@ -496,6 +496,7 @@
 > 后缀数组可以解决很多字符串匹配的问题。
 
 * [P3809 【模板】后缀排序](https://www.luogu.org/problem/P3809)
+* [P5353 【模板】树上后缀排序](https://www.luogu.org/problem/P5353)
 * [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problem/P2336)
 * [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problem/P2463)
 * [P2852 [USACO06DEC]牛奶模式Milk Patterns](https://www.luogu.org/problem/P2852)
@@ -562,6 +563,8 @@
 
 * [P4549 【模板】裴蜀定理](https://www.luogu.org/problem/P4549)
 * [P2613 【模板】有理数取余](https://www.luogu.org/problem/P2613)
+* [P3811 【模板】乘法逆元](https://www.luogu.org/problem/P3811)
+* [P5431 【模板】乘法逆元2](https://www.luogu.org/problem/P5431)
 * [P1082 同余方程](https://www.luogu.org/problem/P1082)
 * [P3951 小凯的疑惑](https://www.luogu.org/problem/P3951)
 * [P1516 青蛙的约会](https://www.luogu.org/problem/P1516)
@@ -694,6 +697,7 @@
 * [P4238 【模板】多项式求逆](https://www.luogu.org/problem/P4238)
 * [P4239 【模板】多项式求逆（加强版）](https://www.luogu.org/problem/P4239)
 * [P4245 【模板】任意模数NTT](https://www.luogu.org/problem/P4245)
+* [P4512 【模板】多项式除法](https://www.luogu.org/problem/P4512)
 * [P4717 【模板】快速沃尔什变换](https://www.luogu.org/problem/P4717)
 * [P4721 【模板】分治 FFT](https://www.luogu.org/problem/P4721)
 * [P4725 【模板】多项式对数函数](https://www.luogu.org/problem/P4725)
@@ -832,6 +836,7 @@
 
 * [P3372 【模板】线段树 1](https://www.luogu.org/problem/P3372)
 * [P3373 【模板】线段树 2](https://www.luogu.org/problem/P3373)
+* [P5490 【模板】扫描线](https://www.luogu.org/problem/P5490)
 * [P1382 楼房](https://www.luogu.org/problem/P1382)
 * [P1471 方差](https://www.luogu.org/problem/P1471)
 * [P3924 康娜的线段树](https://www.luogu.org/problem/P3924)
@@ -862,6 +867,7 @@
 
 > 莫队算法可以解决不少离线区间询问问题。
 
+* [P4887 【模板】莫队二次离线（第十四分块(前体)）](https://www.luogu.org/problem/P4887)
 * [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problem/P1494)
 * [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problem/P1903)
 * [P2709 小B的询问](https://www.luogu.org/problem/P2709)
@@ -968,6 +974,7 @@
 * [P3703 [SDOI2017]树点涂色](https://www.luogu.org/problem/P3703)
 * [P4172 [WC2006]水管局长](https://www.luogu.org/problem/P4172)
 * [P4219 [BJOI2014]大融合](https://www.luogu.org/problem/P4219)
+* [P5489 EntropyIncreaser 与 动态图](https://www.luogu.org/problemnew/solution/P5489)
 
 ### Part 7.18 CDQ分治&整体二分
 
@@ -983,11 +990,11 @@
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
-* [P3835 【模板】可持久化平衡树](https://www.luogu.org/problem/P3835)
 * [P3919 【模板】可持久化数组（可持久化线段树/平衡树）](https://www.luogu.org/problem/P3919)
-* [P5055 【模板】可持久化文艺平衡树](https://www.luogu.org/problem/P5055)
 * [P3834 【模板】可持久化线段树 1（主席树）](https://www.luogu.org/problem/P3834)
 * [P3402 【模板】可持久化并查集](https://www.luogu.org/problem/P3402)
+* [P3835 【模板】可持久化平衡树](https://www.luogu.org/problem/P3835)
+* [P5055 【模板】可持久化文艺平衡树](https://www.luogu.org/problem/P5055)
 * [P5283 [十二省联考2019]异或粽子](https://www.luogu.org/problem/P5283)
 
 ### Part 7.20 K-D Tree
@@ -1069,6 +1076,7 @@
 > 用 $ n-1 $ 条边将图上的 $ n $ 个点连接起来，形成的树就被称为生成树。
 
 * [P3366 【模板】最小生成树](https://www.luogu.org/problem/P3366)
+* [P4180 【模板】严格次小生成树[BJWC2010]](https://www.luogu.org/problem/P4180)
 * [P1546 最短网络 Agri-Net](https://www.luogu.org/problem/P1546)
 * [P2872 [USACO07DEC]道路建设Building Roads](https://www.luogu.org/problem/P2872)
 * [P2330 [SCOI2005]繁忙的都市](https://www.luogu.org/problem/P2330)
