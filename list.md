@@ -791,9 +791,9 @@
 * [P1196 [NOI2002]银河英雄传说](https://www.luogu.org/problem/P1196)
 * [P1955 [NOI2015]程序自动分析](https://www.luogu.org/problem/P1955)
 
-### Part 7.5 堆
+### Part 7.5 二叉堆
 
-> 堆总是一棵完全树，堆中某个节点的值总是不大于或不小于其父节点的值。
+> 二叉堆是一棵完全二叉树，堆中某个节点的值总是不大于或不小于其父节点的值。
 
 * [P3378 【模板】堆](https://www.luogu.org/problem/P3378)
 * [P1168 中位数](https://www.luogu.org/problem/P1168)
@@ -869,7 +869,19 @@
 * [P3709 大爷的字符串题](https://www.luogu.org/problem/P3709)
 * [P4074 [WC2013]糖果公园](https://www.luogu.org/problem/P4074)
 
-### Part 7.11 点分治
+### Part 7.11 可并堆
+
+> 可并堆分为左偏树和配对堆两种，它们都具有堆的性质，且可以高效合并。
+
+* [P3377 【模板】左偏树（可并堆）](https://www.luogu.org/problem/P3377)
+* [P2713 罗马游戏](https://www.luogu.org/problem/P2713)
+* [P1456 Monkey King](https://www.luogu.org/problem/P1456)
+* [P1552 [APIO2012]派遣](https://www.luogu.org/problem/P1552)
+* [P3261 [JLOI2015]城池攻占](https://www.luogu.org/problem/P3261)
+* [P3273 [SCOI2011]棘手的操作](https://www.luogu.org/problem/P3273)
+* [P4331 [BOI2004]Sequence](https://www.luogu.org/problem/P4331)
+
+### Part 7.12 点分治
 
 > 点分治是一种可以高效统计树上路径信息的算法。
 
@@ -884,7 +896,7 @@
 * [P4292 [WC2010]重建计划](https://www.luogu.org/problem/P4292)
 * [P5306 [COCI2019]Transport](https://www.luogu.org/problem/P5306)
 
-### Part 7.12 主席树
+### Part 7.13 主席树
 
 > 主席树，即可持久化权值线段树。
 
@@ -896,7 +908,7 @@
 * [P3293 [SCOI2016]美味](https://www.luogu.org/problem/P3293)
 * [P4618 [SDOI2018]原题识别](https://www.luogu.org/problem/P4618)
 
-### Part 7.13 平衡树
+### Part 7.14 平衡树
 
 * [P3369 【模板】普通平衡树](https://www.luogu.org/problem/P3369)
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problem/P3391)
@@ -912,7 +924,7 @@
 * [P3285 [SCOI2014]方伯伯的OJ](https://www.luogu.org/problem/P3285)
 * [P5321 [BJOI2019]送别](https://www.luogu.org/problem/P5321)
 
-### Part 7.14 树链剖分
+### Part 7.15 树链剖分
 
 > 树链剖分可以将任意一条树上路径划分成若干条连续的链，并用线段树等数据结构高效维护链上信息。
 
@@ -927,7 +939,7 @@
 * [P4211 [LNOI2014]LCA](https://www.luogu.org/problem/P4211)
 * [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problem/P5305)
 
-### Part 7.15 树套树
+### Part 7.16 树套树
 
 > 树套树可以用来维护多维度信息。
 
@@ -942,7 +954,7 @@
 * [P5445 [APIO2019]路灯](https://www.luogu.org/problem/P5445)
 * [P5471 [NOI2019]弹跳](https://www.luogu.org/problem/P5471)
 
-### Part 7.16 动态树
+### Part 7.17 动态树
 
 > Link-Cut Tree 可以用来解决动态树一类问题。
 
@@ -957,7 +969,7 @@
 * [P4172 [WC2006]水管局长](https://www.luogu.org/problem/P4172)
 * [P4219 [BJOI2014]大融合](https://www.luogu.org/problem/P4219)
 
-### Part 7.17 CDQ分治&整体二分
+### Part 7.18 CDQ分治&整体二分
 
 > 通过离线分治算法，我们可以避免使用一些高级数据结构。
 
@@ -967,7 +979,7 @@
 * [P3332 [ZJOI2013]K大数查询](https://www.luogu.org/problem/P3332)
 * [P4169 [Violet]天使玩偶/SJY摆棋子](https://www.luogu.org/problem/P4169)
 
-### Part 7.18 可持久化数据结构
+### Part 7.19 可持久化数据结构
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
@@ -978,7 +990,7 @@
 * [P3402 【模板】可持久化并查集](https://www.luogu.org/problem/P3402)
 * [P5283 [十二省联考2019]异或粽子](https://www.luogu.org/problem/P5283)
 
-### Part 7.19 K-D Tree
+### Part 7.20 K-D Tree
 
 > K-D Tree 是一种高效处理 $ k $ 维信息的数据结构。
 
