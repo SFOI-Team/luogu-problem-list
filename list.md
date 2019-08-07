@@ -745,6 +745,14 @@
 * [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problem/P3980)
 * [P4232 无意识之外的捉迷藏](https://www.luogu.org/problem/P4232)
 
+### Part 6.11 自适应辛普森法
+
+> 自适应辛普森法可以高效求出给定函数的数值积分。
+
+* [P4525 【模板】自适应辛普森法1](https://www.luogu.org/problem/P4525)
+* [P4526 【模板】自适应辛普森法2](https://www.luogu.org/problem/P4526)
+* [P3779 [SDOI2017]龙与地下城](https://www.luogu.org/problem/P3779)
+
 ## Part 7 数据结构
 
 > 灵活地运用数据结构可以高效地查询并处理需要的信息。
