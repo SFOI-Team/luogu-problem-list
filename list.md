@@ -487,6 +487,7 @@
 
 > 回文自动机是解决回文串问题的有力工具。
 
+* [P5496 【模板】回文自动机（PAM）](https://www.luogu.org/problem/P5496)
 * [P3649 [APIO2014]回文串](https://www.luogu.org/problem/P3649)
 * [P4287 [SHOI2011]双倍回文](https://www.luogu.org/problem/solution/P4287)
 * [P4762 [CERC2014]Virus synthesis](https://www.luogu.org/problem/P4762)
@@ -716,6 +717,7 @@
 * [P5383 【模板】普通多项式转下降幂多项式](https://www.luogu.org/problem/P5383)
 * [P5393 【模板】下降幂多项式转普通多项式](https://www.luogu.org/problem/P5393)
 * [P5394 【模板】下降幂多项式乘法](https://www.luogu.org/problem/P5394)
+* [P5494 【模板】多项式双曲函数](https://www.luogu.org/problem/P5494)
 * [P3338 [ZJOI2014]力](https://www.luogu.org/problem/P3338)
 * [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.org/problem/P3723)
 * [P5437 【XR-2】约定](https://www.luogu.org/problem/P5437)
@@ -849,7 +851,7 @@
 * [P5490 【模板】扫描线](https://www.luogu.org/problem/P5490)
 * [P1382 楼房](https://www.luogu.org/problem/P1382)
 * [P1471 方差](https://www.luogu.org/problem/P1471)
-* [P3924 康娜的线段树](https://www.luogu.org/problem/P3924)
+* [P4588 [TJOI2018]数学计算](https://www.luogu.org/problem/P4588)
 * [P1502 窗口的星星](https://www.luogu.org/problem/P1502)
 * [P2471 [SCOI2007]降雨量](https://www.luogu.org/problem/P2471)
 * [P2824 [HEOI2016/TJOI2016]排序](https://www.luogu.org/problem/P2824)
@@ -873,19 +875,7 @@
 * [P4168 [Violet]蒲公英](https://www.luogu.org/problem/P4168)
 * [P4119 [Ynoi2018]未来日记](https://www.luogu.org/problem/P4119)
 
-### Part 7.10 莫队
-
-> 莫队算法可以解决不少离线区间询问问题。
-
-* [P4887 【模板】莫队二次离线（第十四分块(前体)）](https://www.luogu.org/problem/P4887)
-* [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problem/P1494)
-* [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problem/P1903)
-* [P2709 小B的询问](https://www.luogu.org/problem/P2709)
-* [P3674 小清新人渣的本愿](https://www.luogu.org/problem/P3674)
-* [P3709 大爷的字符串题](https://www.luogu.org/problem/P3709)
-* [P4074 [WC2013]糖果公园](https://www.luogu.org/problem/P4074)
-
-### Part 7.11 可并堆
+### Part 7.10 可并堆
 
 > 可并堆分为左偏树和配对堆两种，它们都具有堆的性质，且可以高效合并。
 
@@ -897,22 +887,7 @@
 * [P3273 [SCOI2011]棘手的操作](https://www.luogu.org/problem/P3273)
 * [P4331 [BOI2004]Sequence](https://www.luogu.org/problem/P4331)
 
-### Part 7.12 点分治
-
-> 点分治是一种可以高效统计树上路径信息的算法。
-
-* [P3806 【模板】点分治1](https://www.luogu.org/problem/P3806)
-* [P2634 [国家集训队]聪聪可可](https://www.luogu.org/problem/P2634)
-* [P2664 树上游戏](https://www.luogu.org/problem/P2664)
-* [P3714 [BJOI2017]树的难题](https://www.luogu.org/problem/P3714)
-* [P4149 [IOI2011]Race](https://www.luogu.org/problem/P4149)
-* [P3241 [HNOI2015]开店](https://www.luogu.org/problem/P3241)
-* [P4075 [SDOI2016]模式字符串](https://www.luogu.org/problem/P4075)
-* [P4183 [USACO18JAN]Cow at Large P](https://www.luogu.org/problem/P4183)
-* [P4292 [WC2010]重建计划](https://www.luogu.org/problem/P4292)
-* [P5306 [COCI2019]Transport](https://www.luogu.org/problem/P5306)
-
-### Part 7.13 主席树
+### Part 7.11 主席树
 
 > 主席树，即可持久化权值线段树。
 
@@ -924,7 +899,7 @@
 * [P3293 [SCOI2016]美味](https://www.luogu.org/problem/P3293)
 * [P4618 [SDOI2018]原题识别](https://www.luogu.org/problem/P4618)
 
-### Part 7.14 平衡树
+### Part 7.12 平衡树
 
 * [P3369 【模板】普通平衡树](https://www.luogu.org/problem/P3369)
 * [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problem/P3391)
@@ -940,7 +915,7 @@
 * [P3285 [SCOI2014]方伯伯的OJ](https://www.luogu.org/problem/P3285)
 * [P5321 [BJOI2019]送别](https://www.luogu.org/problem/P5321)
 
-### Part 7.15 树链剖分
+### Part 7.13 树链剖分
 
 > 树链剖分可以将任意一条树上路径划分成若干条连续的链，并用线段树等数据结构高效维护链上信息。
 
@@ -955,7 +930,7 @@
 * [P4211 [LNOI2014]LCA](https://www.luogu.org/problem/P4211)
 * [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problem/P5305)
 
-### Part 7.16 树套树
+### Part 7.14 树套树
 
 > 树套树可以用来维护多维度信息。
 
@@ -970,7 +945,7 @@
 * [P5445 [APIO2019]路灯](https://www.luogu.org/problem/P5445)
 * [P5471 [NOI2019]弹跳](https://www.luogu.org/problem/P5471)
 
-### Part 7.17 动态树
+### Part 7.15 动态树
 
 > Link-Cut Tree 可以用来解决动态树一类问题。
 
@@ -986,17 +961,7 @@
 * [P4219 [BJOI2014]大融合](https://www.luogu.org/problem/P4219)
 * [P5489 EntropyIncreaser 与 动态图](https://www.luogu.org/problemnew/solution/P5489)
 
-### Part 7.18 CDQ分治&整体二分
-
-> 通过离线分治算法，我们可以避免使用一些高级数据结构。
-
-* [P3810 【模板】三维偏序（陌上花开）](https://www.luogu.org/problem/P3810)
-* [P1393 动态逆序对](https://www.luogu.org/problem/P1393)
-* [P2617 Dynamic Rankings](https://www.luogu.org/problem/P2617)
-* [P3332 [ZJOI2013]K大数查询](https://www.luogu.org/problem/P3332)
-* [P4169 [Violet]天使玩偶/SJY摆棋子](https://www.luogu.org/problem/P4169)
-
-### Part 7.19 可持久化数据结构
+### Part 7.16 可持久化数据结构
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
@@ -1007,7 +972,7 @@
 * [P5055 【模板】可持久化文艺平衡树](https://www.luogu.org/problem/P5055)
 * [P5283 [十二省联考2019]异或粽子](https://www.luogu.org/problem/P5283)
 
-### Part 7.20 K-D Tree
+### Part 7.17 K-D Tree
 
 > K-D Tree 是一种高效处理 $ k $ 维信息的数据结构。
 
@@ -1183,7 +1148,22 @@
 * [P3825 [NOI2017]游戏](https://www.luogu.org/problem/P3825)
 * [P5332 [JSOI2019]精准预测](https://www.luogu.org/problem/P5332)
 
-### Part 8.11 虚树
+### Part 8.11 点分治
+
+> 点分治是一种可以高效统计树上路径信息的算法。
+
+* [P3806 【模板】点分治1](https://www.luogu.org/problem/P3806)
+* [P2634 [国家集训队]聪聪可可](https://www.luogu.org/problem/P2634)
+* [P2664 树上游戏](https://www.luogu.org/problem/P2664)
+* [P3714 [BJOI2017]树的难题](https://www.luogu.org/problem/P3714)
+* [P4149 [IOI2011]Race](https://www.luogu.org/problem/P4149)
+* [P3241 [HNOI2015]开店](https://www.luogu.org/problem/P3241)
+* [P4075 [SDOI2016]模式字符串](https://www.luogu.org/problem/P4075)
+* [P4183 [USACO18JAN]Cow at Large P](https://www.luogu.org/problem/P4183)
+* [P4292 [WC2010]重建计划](https://www.luogu.org/problem/P4292)
+* [P5306 [COCI2019]Transport](https://www.luogu.org/problem/P5306)
+
+### Part 8.12 虚树
 
 > 将一些无用的点从树上删去，从而达到降低树的规模的效果。
 
@@ -1192,7 +1172,7 @@
 * [P5360 [SDOI2019]世界地图](https://www.luogu.org/problem/P5360)
 * [P5439 【XR-2】永恒](https://www.luogu.org/problem/P5439)
 
-### Part 8.12 矩阵树定理
+### Part 8.13 矩阵树定理
 
 > 矩阵树定理可以解决图的生成树计数问题。
 
@@ -1254,7 +1234,39 @@
 * [P3705 [SDOI2017]新生舞会](https://www.luogu.org/problem/P3705)
 * [P4322 [JSOI2016]最佳团体](https://www.luogu.org/problem/P4322)
 
-### Part 10.3 奇怪的题目
+### Part 10.3 离线算法
+
+> 当题目不要求强制在线时，我们可以一次性读入所有询问来处理。
+
+#### Part 10.3.1 CDQ 分治
+
+* [P3810 【模板】三维偏序（陌上花开）](https://www.luogu.org/problem/P3810)
+* [P3157 [CQOI2011]动态逆序对](https://www.luogu.org/problem/P3157)
+* [P2487 [SDOI2011]拦截导弹](https://www.luogu.org/problem/P2487)
+* [P4690 [Ynoi2016]镜中的昆虫](https://www.luogu.org/problem/P4690)
+* [P3206 [HNOI2010]城市建设](https://www.luogu.org/problem/P3206)
+
+#### Part 10.3.2 整体二分
+
+> 整体二分，顾名思义就是把多个查询一起二分解决。
+
+* [P1527 [国家集训队]矩阵乘法](https://www.luogu.org/problem/P1527)
+* [P2617 Dynamic Rankings](https://www.luogu.org/problem/P2617)
+* [P3527 [POI2011]MET-Meteors](https://www.luogu.org/problem/P3527)
+
+#### Part 10.3.3 莫队
+
+> 莫队算法可以解决不少离线区间询问问题。
+
+* [P4887 【模板】莫队二次离线（第十四分块(前体)）](https://www.luogu.org/problem/P4887)
+* [P1494 [国家集训队]小Z的袜子](https://www.luogu.org/problem/P1494)
+* [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.org/problem/P1903)
+* [P2709 小B的询问](https://www.luogu.org/problem/P2709)
+* [P3674 小清新人渣的本愿](https://www.luogu.org/problem/P3674)
+* [P3709 大爷的字符串题](https://www.luogu.org/problem/P3709)
+* [P4074 [WC2013]糖果公园](https://www.luogu.org/problem/P4074)
+
+### Part 10.4 奇怪的题目
 
 > OI 界中有一些非常规套路的题目，这里放出来分享。
 
@@ -1263,7 +1275,7 @@
 * [P5285 [十二省联考2019]骗分过样例](https://www.luogu.org/problem/P5285)
 * [P5246 [集训队互测2016] 消失的源代码](https://www.luogu.org/problem/P5246)
 
-### Part 10.4 非传统题
+### Part 10.5 非传统题
 
 > 在 NOI 等比赛中，非传统题正越来越频繁出现。
 >
@@ -1271,7 +1283,7 @@
 >
 > 因为洛谷目前只支持提交答案题，因此这里暂时只列出提交答案题。
 
-#### Part 10.4.1 提交答案题
+#### Part 10.5.1 提交答案题
 
 > 给你一些输入，你只需要提交这些输入对应的答案，即为提交答案题。
 
