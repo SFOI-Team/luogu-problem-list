@@ -98,6 +98,7 @@
 
 - [P1046 陶陶摘苹果](https://www.luogu.org/problem/P1046)
 - [P1047 校门外的树](https://www.luogu.org/problem/P1047)
+- [P1427 小鱼的数字游戏](https://www.luogu.org/problem/P1427)
 - [P2141 珠心算测验](https://www.luogu.org/problem/P2141)
 
 ### Part 1.3 字符串基础
@@ -174,20 +175,21 @@
 
 - [P1226 【模板】快速幂||取余运算](https://www.luogu.org/problem/P1226)
 - [P1010 幂次方](https://www.luogu.org/problem/P1010)
-- [P1257 平面上的最接近点对](https://www.luogu.org/problem/P1257)
-- [P3612 [USACO17JAN]Secret Cow Code秘密奶牛码](https://www.luogu.org/problem/P3612)
+- [P1429 平面最近点对（加强版）](https://www.luogu.org/problem/P1429)
+- [P3612 [USACO17JAN]Secret Cow Code](https://www.luogu.org/problem/P3612)
 
 ### Part 2.5 贪心
 
 > 贪心，指的是决策时都采取当前最优解的算法。有的时候，这样做确实可以获得最优解。
 
 - [P1090 合并果子](https://www.luogu.org/problem/P1090)
-- [P1208 [USACO1.3]混合牛奶 Mixing Milk](https://www.luogu.org/problem/P1208)
+- [P1208 [USACO1.3]Mixing Milk](https://www.luogu.org/problem/P1208)
 - [P4995 跳跳！](https://www.luogu.org/problem/P4995)
 - [P1094 纪念品分组](https://www.luogu.org/problem/P1094)
 - [P1199 三国游戏](https://www.luogu.org/problem/P1199)
 - [P2672 推销员](https://www.luogu.org/problem/P2672)
 - [P1080 国王游戏](https://www.luogu.org/problem/P1080)
+- [P2123 皇后游戏](https://www.luogu.org/problem/P2123)
 
 ### Part 2.6 高精度
 
@@ -219,7 +221,7 @@
 
 - [P1219 八皇后](https://www.luogu.org/problem/P1219)
 - [P1019 单词接龙](https://www.luogu.org/problem/P1019)
-- [P5194 [USACO05DEC]Scales 天平](https://www.luogu.org/problem/P5194)
+- [P5194 [USACO05DEC]Scales](https://www.luogu.org/problem/P5194)
 - [P1378 油滴扩展](https://www.luogu.org/problem/P1378)
 
 ### Part 3.2 广度优先搜索
@@ -259,7 +261,7 @@
 
 - [P3067 [USACO12OPEN]Balanced Cow Subsets](https://www.luogu.org/problem/P3067)
 - [P4799 [CEOI2015 Day2]世界冰球锦标赛](https://www.luogu.org/problem/P4799)
-- [P5195 [USACO05DEC]Knights of Ni 骑士](https://www.luogu.org/problem/P5195)
+- [P5195 [USACO05DEC]Knights of Ni](https://www.luogu.org/problem/P5195)
 
 ### Part 3.6 A\*
 
@@ -305,7 +307,7 @@
 - [P1855 榨取kkksc03](https://www.luogu.org/problem/P1855)
 - [P5020 货币系统](https://www.luogu.org/problem/P5020)
 - [P1064 金明的预算方案](https://www.luogu.org/problem/P1064)
-- [P2946 [USACO09MAR]牛飞盘队Cow Frisbee Team](https://www.luogu.org/problem/P2946)
+- [P2946 [USACO09MAR]Cow Frisbee Team](https://www.luogu.org/problem/P2946)
 - [P1156 垃圾陷阱](https://www.luogu.org/problem/P1156)
 - [P5322 [BJOI2019]排兵布阵](https://www.luogu.org/problem/P5322)
 - [P5289 [十二省联考2019]皮配](https://www.luogu.org/problem/P5289)
@@ -342,15 +344,15 @@
 > 将一个状态压缩为一个整数（通常为二进制数），就可以在更为方便地进行状态转移的同时，达到节约空间的目的。
 
 - [P2704 [NOI2001]炮兵阵地](https://www.luogu.org/problem/P2704)
-- [P1879 [USACO06NOV]玉米田Corn Fields](https://www.luogu.org/problem/P1879)
+- [P1879 [USACO06NOV]Corn Fields](https://www.luogu.org/problem/P1879)
 - [P1896 [SCOI2005]互不侵犯](https://www.luogu.org/problem/P1896)
-- [P3092 [USACO13NOV]没有找零No Change](https://www.luogu.org/problem/P3092)
+- [P3092 [USACO13NOV]No Change](https://www.luogu.org/problem/P3092)
 - [P3694 邦邦的大合唱站队](https://www.luogu.org/problem/P3694)
 - [P4925 [1007]Scarlet的字符串不可能这么可爱](https://www.luogu.org/problem/P4925)
 - [P2157 [SDOI2009]学校食堂](https://www.luogu.org/problem/P2157)
 - [P2167 [SDOI2009]Bill的挑战](https://www.luogu.org/problem/P2167)
 - [P2396 yyy loves Maths VII](https://www.luogu.org/problem/P2396)
-- [P4363 [九省联考2018]一双木棋chess](https://www.luogu.org/problem/P4363)
+- [P4363 [九省联考2018]一双木棋](https://www.luogu.org/problem/P4363)
 - [P5005 中国象棋 - 摆上马](https://www.luogu.org/problem/P5005)
 - [P2150 [NOI2015]寿司晚宴](https://www.luogu.org/problem/P2150)
 
@@ -375,11 +377,11 @@
 
 > 如果决策具有单调性，就可以考虑运用单调队列来优化动态规划的效率。
 
-- [P1776 宝物筛选_NOI导刊2010提高（02）](https://www.luogu.org/problem/P1776)
-- [P3089 [USACO13NOV]POGO的牛Pogo-Cow](https://www.luogu.org/problem/P3089)
+- [P1776 宝物筛选](https://www.luogu.org/problem/P1776)
+- [P3089 [USACO13NOV]Pogo-Cow](https://www.luogu.org/problem/P3089)
 - [P3572 [POI2014]PTA-Little Bird](https://www.luogu.org/problem/P3572)
 - [P3522 [POI2011]TEM-Temperature](https://www.luogu.org/problem/P3522)
-- [P4544 [USACO10NOV]购买饲料Buying Feed](https://www.luogu.org/problem/P4544)
+- [P4544 [USACO10NOV]Buying Feed](https://www.luogu.org/problem/P4544)
 - [P1973 [NOI2011]Noi嘉年华](https://www.luogu.org/problem/P1973)
 - [P2569 [SCOI2010]股票交易](https://www.luogu.org/problem/P2569)
 - [P4852 yyf hates choukapai](https://www.luogu.org/problem/P4852)
@@ -388,8 +390,8 @@
 
 > 通过用单调队列维护一个凸壳，来达到优化转移的目的。
 
-- [P2900 [USACO08MAR]土地征用Land Acquisition](https://www.luogu.org/problem/P2900)
-- [P3195 [HNOI2008]玩具装箱TOY](https://www.luogu.org/problem/P3195)
+- [P2900 [USACO08MAR]Land Acquisition](https://www.luogu.org/problem/P2900)
+- [P3195 [HNOI2008]玩具装箱](https://www.luogu.org/problem/P3195)
 - [P3628 [APIO2010]特别行动队](https://www.luogu.org/problem/P3628)
 - [P3648 [APIO2014]序列分割](https://www.luogu.org/problem/P3648)
 - [P4027 [NOI2007]货币兑换](https://www.luogu.org/problem/P4027)
@@ -441,7 +443,7 @@
 > KMP 算法可以用来解决模式串匹配问题。
 
 - [P3375 【模板】KMP字符串匹配](https://www.luogu.org/problem/P3375)
-- [P4391 [BOI2009]Radio Transmission 无线传输](https://www.luogu.org/problem/P4391)
+- [P4391 [BOI2009]Radio Transmission](https://www.luogu.org/problem/P4391)
 - [P3435 [POI2006]OKR-Periods of Words](https://www.luogu.org/problem/P3435)
 - [P2375 [NOI2014]动物园](https://www.luogu.org/problem/P2375)
 - [P3426 [POI2005]SZA-Template](https://www.luogu.org/problem/P3426)
@@ -461,12 +463,12 @@
 
 - [P3879 [TJOI2010]阅读理解](https://www.luogu.org/problem/P3879)
 - [P2292 [HNOI2004]L语言](https://www.luogu.org/problem/P2292)
-- [P2922 [USACO08DEC]秘密消息Secret Message](https://www.luogu.org/problem/P2922)
-- [P3065 [USACO12DEC]第一!First!](https://www.luogu.org/problem/P3065)
+- [P2922 [USACO08DEC]Secret Message](https://www.luogu.org/problem/P2922)
+- [P3065 [USACO12DEC]First!](https://www.luogu.org/problem/P3065)
 - [P3294 [SCOI2016]背单词](https://www.luogu.org/problem/P3294)
 - [P4407 [JSOI2009]电子字典](https://www.luogu.org/problem/P4407)
 - [P4551 最长异或路径](https://www.luogu.org/problem/P4551)
-- [P4683 [IOI2008] Type Printer 打印机](https://www.luogu.org/problem/P4683)
+- [P4683 [IOI2008]Type Printer](https://www.luogu.org/problem/P4683)
 - [P3783 [SDOI2017]天才黑客](https://www.luogu.org/problem/P3783)
 
 ### Part 5.5 AC自动机
@@ -476,7 +478,7 @@
 - [P3808 【模板】AC自动机（简单版）](https://www.luogu.org/problem/P3808)
 - [P3796 【模板】AC自动机（加强版）](https://www.luogu.org/problem/P3796)
 - [P5357 【模板】AC自动机（二次加强版）](https://www.luogu.org/problem/P5357)
-- [P3121 [USACO15FEB]审查（黄金）Censoring (Gold)](https://www.luogu.org/problem/P3121)
+- [P3121 [USACO15FEB]Censoring (Gold)](https://www.luogu.org/problem/P3121)
 - [P2414 [NOI2011]阿狸的打字机](https://www.luogu.org/problem/P2414)
 - [P3966 [TJOI2013]单词](https://www.luogu.org/problem/P3966)
 - [P2444 [POI2000]病毒](https://www.luogu.org/problem/P2444)
@@ -500,7 +502,7 @@
 - [P5353 【模板】树上后缀排序](https://www.luogu.org/problem/P5353)
 - [P2336 [SCOI2012]喵星球上的点名](https://www.luogu.org/problem/P2336)
 - [P2463 [SDOI2008]Sandy的卡片](https://www.luogu.org/problem/P2463)
-- [P2852 [USACO06DEC]牛奶模式Milk Patterns](https://www.luogu.org/problem/P2852)
+- [P2852 [USACO06DEC]Milk Patterns](https://www.luogu.org/problem/P2852)
 - [P4051 [JSOI2007]字符加密](https://www.luogu.org/problem/P4051)
 - [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problem/P1117)
 - [P2178 [NOI2015]品酒大会](https://www.luogu.org/problem/P2178)
@@ -584,7 +586,7 @@
 
 > BSGS 算法可以高效计算高次同余方程的解。
 
-- [P4195 【模板】exBSGS/Spoj3105 Mod](https://www.luogu.org/problem/P4195)
+- [P4195 【模板】exBSGS](https://www.luogu.org/problem/P4195)
 - [P3306 [SDOI2013]随机数生成器](https://www.luogu.org/problem/P3306)
 
 ### Part 6.3 博弈论
@@ -602,7 +604,7 @@
 > 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
 
 - [P5104 红包发红包](https://www.luogu.org/problem/P5104)
-- [P1837 单人纸牌_NOI导刊2011提高（04）](https://www.luogu.org/problem/P1837)
+- [P1837 单人纸牌](https://www.luogu.org/problem/P1837)
 - [P1850 换教室](https://www.luogu.org/problem/P1850)
 - [P3830 [SHOI2012]随机树](https://www.luogu.org/problem/P3830)
 - [P4564 [CTSC2018]假面](https://www.luogu.org/problem/P4564)
@@ -640,7 +642,7 @@
 - [P3200 [HNOI2009]有趣的数列](https://www.luogu.org/problem/P3200)
 - [P3978 [TJOI2015]概率论](https://www.luogu.org/problem/P3978)
 - [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problem/P4091)
-- [P4827 [国家集训队] Crash 的文明世界](https://www.luogu.org/problem/P4827)
+- [P4827 [国家集训队]Crash 的文明世界](https://www.luogu.org/problem/P4827)
 
 #### Part 6.5.3 容斥原理
 
@@ -981,7 +983,7 @@
 - [P2479 [SDOI2010]捉迷藏](https://www.luogu.org/problem/P2479)
 - [P3769 [CH弱省胡策R2]TATT](https://www.luogu.org/problem/P3769)
 - [P4169 [Violet]天使玩偶/SJY摆棋子](https://www.luogu.org/problem/P4169)
-- [P4390 [BOI2007]Mokia 摩基亚](https://www.luogu.org/problem/P4390)
+- [P4390 [BOI2007]Mokia](https://www.luogu.org/problem/P4390)
 - [P4475 巧克力王国](https://www.luogu.org/problem/P4475)
 - [P2093 [国家集训队]JZPFAR](https://www.luogu.org/problem/P2093)
 
@@ -1052,8 +1054,8 @@
 
 - [P3366 【模板】最小生成树](https://www.luogu.org/problem/P3366)
 - [P4180 【模板】严格次小生成树[BJWC2010]](https://www.luogu.org/problem/P4180)
-- [P1546 最短网络 Agri-Net](https://www.luogu.org/problem/P1546)
-- [P2872 [USACO07DEC]道路建设Building Roads](https://www.luogu.org/problem/P2872)
+- [P1546 Agri-Net](https://www.luogu.org/problem/P1546)
+- [P2872 [USACO07DEC]Building Roads](https://www.luogu.org/problem/P2872)
 - [P2330 [SCOI2005]繁忙的都市](https://www.luogu.org/problem/P2330)
 - [P1991 无线通讯网](https://www.luogu.org/problem/P1991)
 - [P1967 货车运输](https://www.luogu.org/problem/P1967)
@@ -1080,8 +1082,8 @@
 
 - [P3387 【模板】缩点](https://www.luogu.org/problem/P3387)
 - [P3388 【模板】割点（割顶）](https://www.luogu.org/problem/P3388)
-- [P2863 [USACO06JAN]牛的舞会The Cow Prom](https://www.luogu.org/problem/P2863)
-- [P2746 [USACO5.3]校园网Network of Schools](https://www.luogu.org/problem/P2746)
+- [P2863 [USACO06JAN]The Cow Prom](https://www.luogu.org/problem/P2863)
+- [P2746 [USACO5.3]Network of Schools](https://www.luogu.org/problem/P2746)
 - [P1407 [国家集训队]稳定婚姻](https://www.luogu.org/problem/P1407)
 - [P2341 [HAOI2006]受欢迎的牛](https://www.luogu.org/problem/P2341)
 - [P3225 [HNOI2012]矿场搭建](https://www.luogu.org/problem/P3225)
@@ -1097,7 +1099,7 @@
 - [P1559 运动员最佳匹配问题](https://www.luogu.org/problem/P1559)
 - [P2055 [ZJOI2009]假期的宿舍](https://www.luogu.org/problem/P2055)
 - [P2825 [HEOI2016/TJOI2016]游戏](https://www.luogu.org/problem/P2825)
-- [P3033 [USACO11NOV]牛的障碍Cow Steeplechase](https://www.luogu.org/problem/P3033)
+- [P3033 [USACO11NOV]Cow Steeplechase](https://www.luogu.org/problem/P3033)
 - [P3731 [HAOI2017]新型城市化](https://www.luogu.org/problem/P3731)
 
 ### Part 8.9 网络流
@@ -1114,7 +1116,7 @@
 
 - [P3376 【模板】网络最大流](https://www.luogu.org/problem/P3376)
 - [P4722 【模板】最大流 加强版 / 预流推进](https://www.luogu.org/problem/P4722)
-- [P1345 [USACO5.4]奶牛的电信Telecowmunication](https://www.luogu.org/problem/P1345)
+- [P1345 [USACO5.4]Telecowmunication](https://www.luogu.org/problem/P1345)
 - [P2065 [TJOI2011]卡片](https://www.luogu.org/problem/P2065)
 - [P2774 方格取数问题](https://www.luogu.org/problem/P2774)
 - [P2763 试题库问题](https://www.luogu.org/problem/P2763)
@@ -1271,9 +1273,9 @@
 > OI 界中有一些非常规套路的题目，这里放出来分享。
 
 - [P4920 [WC2015]未来程序](https://www.luogu.org/problem/P4920)
-- [P5042 [国家集训队] 丢失的题面（ydc的题面）](https://www.luogu.org/problem/P5042)
+- [P5042 [国家集训队]丢失的题面（ydc的题面）](https://www.luogu.org/problem/P5042)
 - [P5285 [十二省联考2019]骗分过样例](https://www.luogu.org/problem/P5285)
-- [P5246 [集训队互测2016] 消失的源代码](https://www.luogu.org/problem/P5246)
+- [P5246 [集训队互测2016]消失的源代码](https://www.luogu.org/problem/P5246)
 
 ### Part 10.5 非传统题
 
@@ -1292,7 +1294,7 @@
 - [P3614 yyy棋 II](https://www.luogu.org/problem/P3614)
 - [P3640 [APIO2013]出题人](https://www.luogu.org/problem/P3640)
 - [P3782 [WC2017]排序](https://www.luogu.org/problem/P3782)
-- [P3836 Nowruz 诺鲁孜节](https://www.luogu.org/problem/P3836)
+- [P3836 Nowruz](https://www.luogu.org/problem/P3836)
 - [P4920 [WC2015]未来程序](https://www.luogu.org/problem/P4920)
 - [P5402 [CTS2019]无处安放](https://www.luogu.org/problem/P5402)
 - [P5418 [CTSC2016]NOIP十合一](https://www.luogu.org/problem/P5418)
