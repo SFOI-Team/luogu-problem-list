@@ -276,6 +276,7 @@
 > 再加上一个估价函数来减小搜索量，就是 IDA\*了。
 
 - [P2324 [SCOI2005]骑士精神](https://www.luogu.org/problem/P2324)
+- [P2534 [AHOI2012]铁盘整理](https://www.luogu.org/problem/P2534)
 
 ## Part 4 动态规划
 
