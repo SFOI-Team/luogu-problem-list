@@ -1096,11 +1096,14 @@
 
 - [P3386 【模板】二分图匹配](https://www.luogu.org/problem/P3386)
 - [P2756 飞行员配对方案问题](https://www.luogu.org/problem/P2756)
+- [P1129 [ZJOI2007]矩阵游戏](https://www.luogu.org/problem/P1129)
 - [P1559 运动员最佳匹配问题](https://www.luogu.org/problem/P1559)
-- [P2055 [ZJOI2009]假期的宿舍](https://www.luogu.org/problem/P2055)
+- [P2423 [HEOI2012]朋友圈](https://www.luogu.org/problem/P2423)
+- [P2764 最小路径覆盖问题](https://www.luogu.org/problem/P2764)
 - [P2825 [HEOI2016/TJOI2016]游戏](https://www.luogu.org/problem/P2825)
 - [P3033 [USACO11NOV]Cow Steeplechase](https://www.luogu.org/problem/P3033)
 - [P3731 [HAOI2017]新型城市化](https://www.luogu.org/problem/P3731)
+- [P4014 分配问题](https://www.luogu.org/problem/P4014)
 
 ### Part 8.9 网络流
 
@@ -1109,26 +1112,32 @@
 #### Part 8.9.1 最大流/最小割
 
 > 最大流，即求网络中最大的流量。
->
-> 最小割，即求一个边权最小的边集，使得源点和汇点不再连通。
->
-> 可以证明，**最大流=最小割**，因此我们将最大流和最小割专题放在一起。
 
 - [P3376 【模板】网络最大流](https://www.luogu.org/problem/P3376)
 - [P4722 【模板】最大流 加强版 / 预流推进](https://www.luogu.org/problem/P4722)
-- [P1345 [USACO5.4]Telecowmunication](https://www.luogu.org/problem/P1345)
 - [P2065 [TJOI2011]卡片](https://www.luogu.org/problem/P2065)
-- [P2774 方格取数问题](https://www.luogu.org/problem/P2774)
 - [P2763 试题库问题](https://www.luogu.org/problem/P2763)
 - [P2472 [SCOI2007]蜥蜴](https://www.luogu.org/problem/P2472)
+- [P2754 [CTSC1999]家园](https://www.luogu.org/problem/P2754)
 - [P2765 魔术球问题](https://www.luogu.org/problem/P2765)
-- [P2764 最小路径覆盖问题](https://www.luogu.org/problem/P2764)
 - [P2766 最长不下降子序列问题](https://www.luogu.org/problem/P2766)
 - [P2805 [NOI2009]植物大战僵尸](https://www.luogu.org/problem/P2805)
 - [P3749 [六省联考2017]寿司餐厅](https://www.luogu.org/problem/P3749)
+
+#### Part 8.9.2 最小割
+
+> 最小割，即求一个边权最小的边集，使得源点和汇点不再连通。
+>
+> 可以证明，**最大流=最小割**。
+
+- [P1345 [USACO5.4]Telecowmunication](https://www.luogu.org/problem/P1345)
+- [P2057 [SHOI2007]善意的投票](https://www.luogu.org/problem/P2057)
+- [P2598 [ZJOI2009]狼和羊的故事](https://www.luogu.org/problem/P2598)
+- [P2774 方格取数问题](https://www.luogu.org/problem/P2774)
+- [P4126 [AHOI2009]最小割](https://www.luogu.org/problem/P4126)
 - [P5039 [SHOI2010]最小生成树](https://www.luogu.org/problem/P5039)
 
-#### Part 8.9.2 费用流
+#### Part 8.9.3 费用流
 
 > 在网络流中给边加上一个参数——费用，就出现了费用流。
 
@@ -1136,13 +1145,25 @@
 - [P4016 负载平衡问题](https://www.luogu.org/problem/P4016)
 - [P4452 [国家集训队]航班安排](https://www.luogu.org/problem/P4452)
 - [P2045 方格取数加强版](https://www.luogu.org/problem/P2045)
-- [P2153 [SDOI2009]晨跑](https://www.luogu.org/problem/P2153)
-- [P2053 [SCOI2007]修车](https://www.luogu.org/problem/P2053)
-- [P3159 [CQOI2012]交换棋子](https://www.luogu.org/problem/P3159)
-- [P2604 [ZJOI2010]网络扩容](https://www.luogu.org/problem/P2604)
 - [P2050 [NOI2012]美食节](https://www.luogu.org/problem/P2050)
+- [P2053 [SCOI2007]修车](https://www.luogu.org/problem/P2053)
+- [P2153 [SDOI2009]晨跑](https://www.luogu.org/problem/P2153)
+- [P2604 [ZJOI2010]网络扩容](https://www.luogu.org/problem/P2604)
+- [P2770 航空路线问题](https://www.luogu.org/problem/P2770)
+- [P3159 [CQOI2012]交换棋子](https://www.luogu.org/problem/P3159)
+- [P3356 火星探险问题](https://www.luogu.org/problem/P3356)
+- [P3358 最长k可重区间集问题](https://www.luogu.org/problem/P3358)
+- [P4013 数字梯形问题](https://www.luogu.org/problem/P4013)
+- [P4015 运输问题](https://www.luogu.org/problem/P4015)
 - [P4249 [WC2007]剪刀石头布](https://www.luogu.org/problem/P4249)
 - [P5331 [SNOI2019]通信](https://www.luogu.org/problem/P5331)
+
+#### Part 8.9.4 上下界网络流
+
+- [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problem/P3980)
+- [P4043 [AHOI2014/JSOI2014]支线剧情](https://www.luogu.org/problem/P4043)
+- [P4553 80人环游世界](https://www.luogu.org/problem/P4553)
+- [P4843 清理雪道](https://www.luogu.org/problem/P4843)
 
 ### Part 8.10 2-SAT
 
