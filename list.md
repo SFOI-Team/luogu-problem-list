@@ -118,6 +118,7 @@
 - [P1028 数的计算](https://www.luogu.org/problem/P1028)
 - [P1036 选数](https://www.luogu.org/problem/P1036)
 - [P1464 Function](https://www.luogu.org/problem/P1464)
+- [P5534 【XR-3】等差数列](https://www.luogu.org/problem/P5534)
 - [P1192 台阶问题](https://www.luogu.org/problem/P1192)
 - [P1025 数的划分](https://www.luogu.org/problem/P1025)
 - [P4994 终于结束的起点](https://www.luogu.org/problem/P4994)
@@ -182,7 +183,6 @@
 
 > 贪心，指的是决策时都采取当前最优解的算法。有的时候，这样做确实可以获得最优解。
 
-- [P1090 合并果子](https://www.luogu.org/problem/P1090)
 - [P1208 [USACO1.3]Mixing Milk](https://www.luogu.org/problem/P1208)
 - [P4995 跳跳！](https://www.luogu.org/problem/P4995)
 - [P1094 纪念品分组](https://www.luogu.org/problem/P1094)
@@ -190,6 +190,7 @@
 - [P2672 推销员](https://www.luogu.org/problem/P2672)
 - [P1080 国王游戏](https://www.luogu.org/problem/P1080)
 - [P2123 皇后游戏](https://www.luogu.org/problem/P2123)
+- [P5521 [yLOI2019]梅深不见冬](https://www.luogu.org/problem/P5521)
 
 ### Part 2.6 高精度
 
@@ -438,6 +439,7 @@
 
 - [P3370 【模板】字符串哈希](https://www.luogu.org/problem/P3370)
 - [P5270 无论怎样神树大人都会删库跑路](https://www.luogu.org/problem/P5270)
+- [P5537 【XR-3】系统设计](https://www.luogu.org/problem/P5537)
 
 ### Part 5.2 KMP
 
@@ -526,19 +528,31 @@
 
 > OI 中的数学知识很多，也有些杂乱。
 
-### Part 6.1 整除相关
+### Part 6.1 位运算
+
+> 将十进制整数转换为二进制后，有很多按位运算的运算符。
+> 
+> 如果能善于利用位运算的一些性质，往往能达到事半功倍的效果。
+
+- [P5514 [MtOI2019]永夜的报应](https://www.luogu.org/problem/P5514)
+- [P5538 【XR-3】Namid[A]me](https://www.luogu.org/problem/P5538)
+- [P5539 【XR-3】Unknown Mother-Goose](https://www.luogu.org/problem/P5539)
+- [P5523 [yLOI2019]珍珠](https://www.luogu.org/problem/P5523)
+
+### Part 6.2 整除相关
 
 > 与整除相关的概念有很多，比较常用的有素数，最大公约数和欧拉函数。
 
-#### Part 6.1.1 素数
+#### Part 6.2.1 素数
 
 > 素数，指的是除 1 和它本身之外没有其他约数的数。
 
 - [P4718 【模板】Pollard-Rho算法](https://www.luogu.org/problem/P4718)
 - [P1075 质因数分解](https://www.luogu.org/problem/P1075)
 - [P2441 角色属性树](https://www.luogu.org/problem/P2441)
+- [P5535 【XR-3】小道消息](https://www.luogu.org/problem/P5535)
 
-#### Part 6.1.2 最大公约数
+#### Part 6.2.2 最大公约数
 
 > 如果两个数有一个共同的约数，那么这个约数就被称为公约数。最大公约数就是指这两个数的所有公约数中，最大的一个。
 >
@@ -550,7 +564,7 @@
 - [P2152 [SDOI2009]SuperGCD](https://www.luogu.org/problem/P2152)
 - [P1072 Hankson 的趣味题](https://www.luogu.org/problem/P1072)
 
-#### Part 6.1.3 欧拉函数
+#### Part 6.2.3 欧拉函数
 
 > 欧拉函数 $ \varphi (x) $ 表示了小于 $ x $ 的数字中，与 $ x $ 互质的数字个数。
 
@@ -559,11 +573,11 @@
 - [P2398 GCD SUM](https://www.luogu.org/problem/P2398)
 - [P4139 上帝与集合的正确用法](https://www.luogu.org/problem/P4139)
 
-### Part 6.2 同余方程
+### Part 6.3 同余方程
 
 > 求解同余方程往往可以引出不少话题。
 
-#### Part 6.2.1 线性同余方程&乘法逆元
+#### Part 6.3.1 线性同余方程&乘法逆元
 
 - [P4549 【模板】裴蜀定理](https://www.luogu.org/problem/P4549)
 - [P2613 【模板】有理数取余](https://www.luogu.org/problem/P2613)
@@ -573,7 +587,7 @@
 - [P3951 小凯的疑惑](https://www.luogu.org/problem/P3951)
 - [P1516 青蛙的约会](https://www.luogu.org/problem/P1516)
 
-#### Part 6.2.2 中国剩余定理
+#### Part 6.3.2 中国剩余定理
 
 > 中国剩余定理可以快速解一元线性同余方程组。
 
@@ -583,14 +597,14 @@
 - [P4774 [NOI2018]屠龙勇士](https://www.luogu.org/problem/P4774)
 - [P5345 【XR-1】快乐肥宅](https://www.luogu.org/problem/P5345)
 
-#### Part 6.2.3 BSGS
+#### Part 6.3.3 BSGS
 
 > BSGS 算法可以高效计算高次同余方程的解。
 
 - [P4195 【模板】exBSGS](https://www.luogu.org/problem/P4195)
 - [P3306 [SDOI2013]随机数生成器](https://www.luogu.org/problem/P3306)
 
-### Part 6.3 博弈论
+### Part 6.4 博弈论
 
 > 博弈论考虑游戏中的个体的预测行为和实际行为，并研究它们的优化策略。
 
@@ -600,7 +614,7 @@
 - [P1247 取火柴游戏](https://www.luogu.org/problem/P1247)
 - [P2252 取石子游戏](https://www.luogu.org/problem/P2252)
 
-### Part 6.4 概率与期望
+### Part 6.5 概率与期望
 
 > 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
 
@@ -620,32 +634,33 @@
 - [P3600 随机数生成器](https://www.luogu.org/problem/P3600)
 - [P5326 [ZJOI2019]开关](https://www.luogu.org/problem/P5326)
 
-### Part 6.5 组合数学
+### Part 6.6 组合数学
 
-#### Part 6.5.1 排列组合
+#### Part 6.6.1 排列组合
 
 - [P3807 【模板】卢卡斯定理](https://www.luogu.org/problem/P3807)
 - [P2822 组合数问题](https://www.luogu.org/problem/P2822)
-- [P1655 小朋友的球](https://www.luogu.org/problem/P1655)
+- [P5520 [yLOI2019]青原樱](https://www.luogu.org/problem/P5520)
 - [P3197 [HNOI2008]越狱](https://www.luogu.org/problem/P3197)
 - [P2290 [HNOI2004]树的计数](https://www.luogu.org/problem/P2290)
 - [P4981 父子](https://www.luogu.org/problem/P4981)
 - [P4769 [NOI2018]冒泡排序](https://www.luogu.org/problem/P4769)
 - [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problem/P4931)
 
-#### Part 6.5.2 卡特兰数&斯特林数
+#### Part 6.6.2 卡特兰数&斯特林数
 
 - [P5395 【模板】第二类斯特林数·行](https://www.luogu.org/problem/P5395)
 - [P5396 【模板】第二类斯特林数·列](https://www.luogu.org/problem/P5396)
 - [P5408 【模板】第一类斯特林数·行](https://www.luogu.org/problem/P5408)
 - [P5409 【模板】第一类斯特林数·列](https://www.luogu.org/problem/P5409)
+- [P1655 小朋友的球](https://www.luogu.org/problem/P1655)
 - [P2532 [AHOI2012]树屋阶梯](https://www.luogu.org/problem/P2532)
 - [P3200 [HNOI2009]有趣的数列](https://www.luogu.org/problem/P3200)
 - [P3978 [TJOI2015]概率论](https://www.luogu.org/problem/P3978)
 - [P4091 [HEOI2016/TJOI2016]求和](https://www.luogu.org/problem/P4091)
 - [P4827 [国家集训队]Crash 的文明世界](https://www.luogu.org/problem/P4827)
 
-#### Part 6.5.3 容斥原理
+#### Part 6.6.3 容斥原理
 
 - [P1450 [HAOI2008]硬币购物](https://www.luogu.org/problem/P1450)
 - [P3214 [HNOI2011]卡农](https://www.luogu.org/problem/P3214)
@@ -656,9 +671,9 @@
 - [P5339 [TJOI2019]唱、跳、rap和篮球](https://www.luogu.org/problem/P5339)
 - [P5400 [CTS2019]随机立方体](https://www.luogu.org/problem/P5400)
 
-### Part 6.6 线性代数
+### Part 6.7 线性代数
 
-#### Part 6.6.1 矩阵
+#### Part 6.7.1 矩阵
 
 > 利用矩阵优化数列递推，可以实现复杂度从线性到对数级的转变。
 
@@ -672,17 +687,18 @@
 - [P5337 [TJOI2019]甲苯先生的字符串](https://www.luogu.org/problem/P5337)
 - [P5303 [GXOI/GZOI2019]逼死强迫症](https://www.luogu.org/problem/P5303)
 
-#### Part 6.6.2 高斯消元
+#### Part 6.7.2 高斯消元
 
 > 高斯消元可以用来求解方程组。
 
 - [P3389 【模板】高斯消元法](https://www.luogu.org/problem/P3389)
 - [P4387 付公主的函数](https://www.luogu.org/problem/P4387)
 - [P4035 [JSOI2008]球形空间产生器](https://www.luogu.org/problem/P4035)
+- [P5516 [MtOI2019]小铃的烦恼](https://www.luogu.org/problem/P5516)
 - [P4111 [HEOI2015]小Z的房间](https://www.luogu.org/problem/P4111)
 - [P4457 [BJOI2018]治疗之雨](https://www.luogu.org/problem/P4457)
 
-#### Part 6.6.3 线性基
+#### Part 6.7.3 线性基
 
 > 线性基可以求解最大异或和的一类问题。
 
@@ -692,7 +708,7 @@
 - [P3292 [SCOI2016]幸运数字](https://www.luogu.org/problem/P3292)
 - [P4151 [WC2011]最大XOR和路径](https://www.luogu.org/problem/P4151)
 
-### Part 6.7 多项式
+### Part 6.8 多项式
 
 > 对多项式的运算进行优化，从而能够解决规模更大的问题。
 
@@ -727,8 +743,9 @@
 - [P5293 [HNOI2019]白兔之舞](https://www.luogu.org/problem/P5293)
 - [P5432 A/B Problem (加强版)](https://www.luogu.org/problem/P5432)
 - [P5472 [NOI2019]斗主地](https://www.luogu.org/problem/P5472)
+- [P5519 [MtOI2019]埋骨于弘川](https://www.luogu.org/problem/P5519)
 
-### Part 6.8 莫比乌斯反演
+### Part 6.9 莫比乌斯反演
 
 > 运用莫比乌斯反演，我们可以将一些函数转化，从而降低计算难度。
 
@@ -736,8 +753,9 @@
 - [P3455 [POI2007]ZAP-Queries](https://www.luogu.org/problem/P3455)
 - [P3327 [SDOI2015]约数个数和](https://www.luogu.org/problem/P3327)
 - [P4619 [SDOI2018]旧试题](https://www.luogu.org/problem/P4619)
+- [P5518 [MtOI2019]幽灵乐团](https://www.luogu.org/problem/P5518)
 
-### Part 6.9 筛法
+### Part 6.10 筛法
 
 - [P3383 【模板】线性筛素数](https://www.luogu.org/problem/P3383)
 - [P4213 【模板】杜教筛（Sum）](https://www.luogu.org/problem/P4213)
@@ -747,14 +765,14 @@
 - [P3768 简单的数学题](https://www.luogu.org/problem/P3768)
 - [P5438 【XR-2】记忆](https://www.luogu.org/problem/P5438)
 
-### Part 6.10 线性规划
+### Part 6.11 线性规划
 
 > 线性规划是研究线性约束条件下线性目标函数极值问题的方法。
 
 - [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problem/P3980)
 - [P4232 无意识之外的捉迷藏](https://www.luogu.org/problem/P4232)
 
-### Part 6.11 自适应辛普森法
+### Part 6.12 自适应辛普森法
 
 > 自适应辛普森法可以高效求出给定函数的数值积分。
 
@@ -762,7 +780,7 @@
 - [P4526 【模板】自适应辛普森法2](https://www.luogu.org/problem/P4526)
 - [P3779 [SDOI2017]龙与地下城](https://www.luogu.org/problem/P3779)
 
-### Part 6.12 置换群
+### Part 6.13 置换群
 
 > 置换群通常用来解决一些涉及“本质不同”的计数问题。
 
@@ -815,6 +833,7 @@
 > 二叉堆是一棵完全二叉树，堆中某个节点的值总是不大于或不小于其父节点的值。
 
 - [P3378 【模板】堆](https://www.luogu.org/problem/P3378)
+- [P1090 合并果子](https://www.luogu.org/problem/P1090)
 - [P1168 中位数](https://www.luogu.org/problem/P1168)
 - [P2085 最小函数值](https://www.luogu.org/problem/P2085)
 - [P2827 蚯蚓](https://www.luogu.org/problem/P2827)
@@ -1037,6 +1056,7 @@
 
 - [P2195 HXY造公园](https://www.luogu.org/problem/P2195)
 - [P3629 [APIO2010]巡逻](https://www.luogu.org/problem/P3629)
+- [P5536 【XR-3】核心城市](https://www.luogu.org/problem/P5536)
 - [P1099 树网的核](https://www.luogu.org/problem/P1099)
 
 #### Part 8.3.3 最近公共祖先
