@@ -192,7 +192,14 @@
 - [P2123 皇后游戏](https://www.luogu.org/problem/P2123)
 - [P5521 [yLOI2019]梅深不见冬](https://www.luogu.org/problem/P5521)
 
-### Part 2.6 高精度
+### Part 2.6 构造
+
+> 构造题是一种形式灵活多样的题型。正是因为这个特点，使得构造题没有一种通用的方法。
+
+- [P3599 Koishi Loves Construction](https://www.luogu.org/problem/P3599)
+- [P5441 【XR-2】伤痕](https://www.luogu.org/problem/P5441)
+
+### Part 2.7 高精度
 
 > 在 C++ 中，long long 都无法表示我们需要的整数时怎么办？那就用高精度吧！
 
@@ -202,7 +209,7 @@
 - [P1480 A/B Problem](https://www.luogu.org/problem/P1480)
 - [P1009 阶乘之和](https://www.luogu.org/problem/P1009)
 
-### Part 2.7 前缀和 & 差分
+### Part 2.8 前缀和 & 差分
 
 > 前缀和是一种重要的预处理，能大大降低查询的时间复杂度，而差分则是一种和前缀和相对的策略。
 
@@ -223,6 +230,7 @@
 - [P1219 八皇后](https://www.luogu.org/problem/P1219)
 - [P1019 单词接龙](https://www.luogu.org/problem/P1019)
 - [P5194 [USACO05DEC]Scales](https://www.luogu.org/problem/P5194)
+- [P5440 【XR-2】奇迹](https://www.luogu.org/problem/P5440)
 - [P1378 油滴扩展](https://www.luogu.org/problem/P1378)
 
 ### Part 3.2 广度优先搜索
