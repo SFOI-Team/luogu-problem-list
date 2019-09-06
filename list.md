@@ -144,7 +144,6 @@
 - [P2615 神奇的幻方](https://www.luogu.org/problem/P2615)
 - [P3952 时间复杂度](https://www.luogu.org/problem/P3952)
 - [P2482 [SDOI2010]猪国杀](https://www.luogu.org/problem/P2482)
-- [P3693 琪露诺的冰雪小屋](https://www.luogu.org/problem/P3693)
 - [P5380 [THUPC2019]鸭棋](https://www.luogu.org/problem/P5380)
 
 ### Part 2.2 排序算法
@@ -316,6 +315,7 @@
 - [P1060 开心的金明](https://www.luogu.org/problem/P1060)
 - [P1855 榨取kkksc03](https://www.luogu.org/problem/P1855)
 - [P5020 货币系统](https://www.luogu.org/problem/P5020)
+- [P1757 通天之分组背包](https://www.luogu.org/problem/P1757)
 - [P1064 金明的预算方案](https://www.luogu.org/problem/P1064)
 - [P2946 [USACO09MAR]Cow Frisbee Team](https://www.luogu.org/problem/P2946)
 - [P1156 垃圾陷阱](https://www.luogu.org/problem/P1156)
@@ -627,7 +627,6 @@
 > 概率和期望是紧密相连的，OI 中往往会出现和概率期望相关的动态规划问题。
 
 - [P5104 红包发红包](https://www.luogu.org/problem/P5104)
-- [P1837 单人纸牌](https://www.luogu.org/problem/P1837)
 - [P1850 换教室](https://www.luogu.org/problem/P1850)
 - [P3830 [SHOI2012]随机树](https://www.luogu.org/problem/P3830)
 - [P4564 [CTSC2018]假面](https://www.luogu.org/problem/P4564)
@@ -879,7 +878,6 @@
 - [P3372 【模板】线段树 1](https://www.luogu.org/problem/P3372)
 - [P3373 【模板】线段树 2](https://www.luogu.org/problem/P3373)
 - [P5490 【模板】扫描线](https://www.luogu.org/problem/P5490)
-- [P1382 楼房](https://www.luogu.org/problem/P1382)
 - [P1471 方差](https://www.luogu.org/problem/P1471)
 - [P4588 [TJOI2018]数学计算](https://www.luogu.org/problem/P4588)
 - [P1502 窗口的星星](https://www.luogu.org/problem/P1502)
@@ -1037,6 +1035,7 @@
 - [P1462 通往奥格瑞玛的道路](https://www.luogu.org/problem/P1462)
 - [P1522 牛的旅行 Cow Tours](https://www.luogu.org/problem/P1522)
 - [P1266 速度限制](https://www.luogu.org/problem/P1266)
+- [P4568 [JLOI2011]飞行路线](https://www.luogu.org/problem/P4568)
 - [P3238 [HNOI2014]道路堵塞](https://www.luogu.org/problem/P3238)
 - [P5304 [GXOI/GZOI2019]旅行者](https://www.luogu.org/problem/P5304)
 
@@ -1048,7 +1047,6 @@
 
 > 二叉树是一种特殊的树，它有很多特殊的性质。
 >
-> 当然，它也是重点的考点。
 
 - [P1087 FBI树](https://www.luogu.org/problem/P1087)
 - [P1030 求先序排列](https://www.luogu.org/problem/P1030)
@@ -1083,11 +1081,10 @@
 
 - [P3366 【模板】最小生成树](https://www.luogu.org/problem/P3366)
 - [P4180 【模板】严格次小生成树[BJWC2010]](https://www.luogu.org/problem/P4180)
-- [P1546 Agri-Net](https://www.luogu.org/problem/P1546)
 - [P2872 [USACO07DEC]Building Roads](https://www.luogu.org/problem/P2872)
-- [P2330 [SCOI2005]繁忙的都市](https://www.luogu.org/problem/P2330)
 - [P1991 无线通讯网](https://www.luogu.org/problem/P1991)
 - [P1967 货车运输](https://www.luogu.org/problem/P1967)
+- [P4047 [JSOI2010]部落划分](https://www.luogu.org/problem/P4047)
 
 ### Part 8.5 拓扑排序
 
