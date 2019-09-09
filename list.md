@@ -286,6 +286,13 @@
 - [P2324 [SCOI2005]骑士精神](https://www.luogu.org/problem/P2324)
 - [P2534 [AHOI2012]铁盘整理](https://www.luogu.org/problem/P2534)
 
+### Part 3.8 DLX
+
+> 算法 X 是通过回溯法求解精确覆盖问题的算法，而删除列这一操作可以使用舞蹈链加速。
+
+- [P4929 【模板】舞蹈链（DLX）](https://www.luogu.org/problem/P4929)
+- [P4205 [NOI2005]智慧珠游戏](https://www.luogu.org/problem/P4205)
+
 ## Part 4 动态规划
 
 > 动态规划是一种重要的思维方法，通过利用已有的子问题信息高效求出当前问题的最优解。
@@ -566,6 +573,7 @@
 >
 > 求解两个数的最大公约数，可以采用欧几里得算法解决。
 
+- [P5435 【模板】快速 GCD](https://www.luogu.org/problem/P5435)
 - [P5436 【XR-2】缘分](https://www.luogu.org/problem/P5436)
 - [P1029 最大公约数和最小公倍数问题](https://www.luogu.org/problem/P1029)
 - [P1414 又是毕业季II](https://www.luogu.org/problem/P1414)
@@ -605,11 +613,14 @@
 - [P4774 [NOI2018]屠龙勇士](https://www.luogu.org/problem/P4774)
 - [P5345 【XR-1】快乐肥宅](https://www.luogu.org/problem/P5345)
 
-#### Part 6.3.3 BSGS
+#### Part 6.3.3 高次同余方程
 
-> BSGS 算法可以高效计算高次同余方程的解。
+> BSGS 算法可以高效计算离散对数。
+>
+> 而高次剩余的求解更加复杂，其中二次剩余作为高次剩余中比较特殊的情况，可以使用 Cipolla 法求解。
 
 - [P4195 【模板】exBSGS](https://www.luogu.org/problem/P4195)
+- [P5491 【模板】二次剩余](https://www.luogu.org/problem/P5491)
 - [P3306 [SDOI2013]随机数生成器](https://www.luogu.org/problem/P3306)
 
 ### Part 6.4 博弈论
@@ -621,6 +632,7 @@
 - [P1290 欧几里德的游戏](https://www.luogu.org/problem/P1290)
 - [P1247 取火柴游戏](https://www.luogu.org/problem/P1247)
 - [P2252 取石子游戏](https://www.luogu.org/problem/P2252)
+- [P4225 福若格斯](https://www.luogu.org/problem/P4225)
 
 ### Part 6.5 概率与期望
 
@@ -779,6 +791,15 @@
 - [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problem/P3980)
 - [P4232 无意识之外的捉迷藏](https://www.luogu.org/problem/P4232)
 
+### Part 6.12 数值方法
+
+#### Part 6.12.1 三分法
+
+> 三分法可以求出一个单峰 / 单谷函数的极值。
+
+- [P3382 【模板】三分法](https://www.luogu.org/problem/P3382)
+- [P1883 函数](https://www.luogu.org/problem/P1883)
+
 ### Part 6.12 自适应辛普森法
 
 > 自适应辛普森法可以高效求出给定函数的数值积分。
@@ -889,6 +910,7 @@
 - [P4513 小白逛公园](https://www.luogu.org/problem/P4513)
 - [P5324 [BJOI2019]删数](https://www.luogu.org/problem/P5324)
 - [P5327 [ZJOI2019]语言](https://www.luogu.org/problem/P5327)
+- [P5500 [LnOI2019]真正的OIer从不女装](https://www.luogu.org/problem/P5500)
 
 ### Part 7.9 分块
 
@@ -957,6 +979,7 @@
 - [P4069 [SDOI2016]游戏](https://www.luogu.org/problem/P4069)
 - [P4211 [LNOI2014]LCA](https://www.luogu.org/problem/P4211)
 - [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problem/P5305)
+- [P5499 [LnOI2019]Abbi并不想研学](https://www.luogu.org/problem/P5499)
 
 ### Part 7.14 树套树
 
@@ -1012,6 +1035,13 @@
 - [P4390 [BOI2007]Mokia](https://www.luogu.org/problem/P4390)
 - [P4475 巧克力王国](https://www.luogu.org/problem/P4475)
 - [P2093 [国家集训队]JZPFAR](https://www.luogu.org/problem/P2093)
+
+### Part 7.18 珂朵莉树
+
+> 珂朵莉树，是一种基于 ``std::set`` 的暴力数据结构，在数据随机的情况下表现优秀。
+
+- [P5251 [LnOI2019]第二代图灵机](https://www.luogu.org/problem/P5251)
+- [P2787 语文1（chin1）- 理理思维](https://www.luogu.org/problem/P2787)
 
 ## Part 8 图论
 
@@ -1314,6 +1344,7 @@
 - [P3674 小清新人渣的本愿](https://www.luogu.org/problem/P3674)
 - [P3709 大爷的字符串题](https://www.luogu.org/problem/P3709)
 - [P4074 [WC2013]糖果公园](https://www.luogu.org/problem/P4074)
+- [P5501 [LnOI2019]来者不拒，去者不追](https://www.luogu.org/problem/P5501)
 
 ### Part 10.4 奇怪的题目
 
