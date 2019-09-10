@@ -632,7 +632,6 @@
 - [P1290 欧几里德的游戏](https://www.luogu.org/problem/P1290)
 - [P1247 取火柴游戏](https://www.luogu.org/problem/P1247)
 - [P2252 取石子游戏](https://www.luogu.org/problem/P2252)
-- [P4225 福若格斯](https://www.luogu.org/problem/P4225)
 
 ### Part 6.5 概率与期望
 
@@ -800,7 +799,7 @@
 - [P3382 【模板】三分法](https://www.luogu.org/problem/P3382)
 - [P1883 函数](https://www.luogu.org/problem/P1883)
 
-### Part 6.12 自适应辛普森法
+#### Part 6.12.2 自适应辛普森法
 
 > 自适应辛普森法可以高效求出给定函数的数值积分。
 
