@@ -595,6 +595,8 @@
 
 #### Part 6.3.1 线性同余方程&乘法逆元
 
+> 线性同余方程是同余方程中最基础的内容。
+
 - [P4549 【模板】裴蜀定理](https://www.luogu.org/problem/P4549)
 - [P2613 【模板】有理数取余](https://www.luogu.org/problem/P2613)
 - [P3811 【模板】乘法逆元](https://www.luogu.org/problem/P3811)
@@ -654,7 +656,11 @@
 
 ### Part 6.6 组合数学
 
+> 组合数学常常与计数问题，概率期望紧密相连。
+
 #### Part 6.6.1 排列组合
+
+> 排列组合是组合数学的基础。
 
 - [P3807 【模板】卢卡斯定理](https://www.luogu.org/problem/P3807)
 - [P2822 组合数问题](https://www.luogu.org/problem/P2822)
@@ -666,6 +672,8 @@
 - [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problem/P4931)
 
 #### Part 6.6.2 卡特兰数&斯特林数
+
+> 卡特兰数和斯特林数是两类常见的组合递推数列。
 
 - [P5395 【模板】第二类斯特林数·行](https://www.luogu.org/problem/P5395)
 - [P5396 【模板】第二类斯特林数·列](https://www.luogu.org/problem/P5396)
@@ -680,6 +688,8 @@
 
 #### Part 6.6.3 容斥原理
 
+> 容斥原理常常用于解决集合的计数问题。
+
 - [P1450 [HAOI2008]硬币购物](https://www.luogu.org/problem/P1450)
 - [P3214 [HNOI2011]卡农](https://www.luogu.org/problem/P3214)
 - [P3270 [JLOI2016]成绩比较](https://www.luogu.org/problem/P3270)
@@ -690,6 +700,8 @@
 - [P5400 [CTS2019]随机立方体](https://www.luogu.org/problem/P5400)
 
 ### Part 6.7 线性代数
+
+> 线性代数主要用于解决线性关系问题。
 
 #### Part 6.7.1 矩阵
 
@@ -775,6 +787,8 @@
 
 ### Part 6.10 筛法
 
+> 利用数列的性质，有多种筛法可以求出我们想要的信息。
+
 - [P3383 【模板】线性筛素数](https://www.luogu.org/problem/P3383)
 - [P4213 【模板】杜教筛（Sum）](https://www.luogu.org/problem/P4213)
 - [P5325 【模板】Min_25筛](https://www.luogu.org/problem/P5325)
@@ -791,6 +805,8 @@
 - [P4232 无意识之外的捉迷藏](https://www.luogu.org/problem/P4232)
 
 ### Part 6.12 数值方法
+
+> 在算法领域，有很多求近似值的数值方法。
 
 #### Part 6.12.1 三分法
 
@@ -949,6 +965,10 @@
 - [P4618 [SDOI2018]原题识别](https://www.luogu.org/problem/P4618)
 
 ### Part 7.12 平衡树
+
+> 二叉搜索树可以用来维护有序序列。
+>
+> 为了保证查询效率，有多种使二叉搜索树保持平衡的实现方法。
 
 - [P3369 【模板】普通平衡树](https://www.luogu.org/problem/P3369)
 - [P3391 【模板】文艺平衡树（Splay）](https://www.luogu.org/problem/P3391)
@@ -1215,12 +1235,18 @@
 
 #### Part 8.9.4 上下界网络流
 
+> 在网络流问题中给每条边的流量增加一个下界，就有了上下界网络流。
+
 - [P3980 [NOI2008]志愿者招募](https://www.luogu.org/problem/P3980)
 - [P4043 [AHOI2014/JSOI2014]支线剧情](https://www.luogu.org/problem/P4043)
 - [P4553 80人环游世界](https://www.luogu.org/problem/P4553)
 - [P4843 清理雪道](https://www.luogu.org/problem/P4843)
 
 ### Part 8.10 2-SAT
+
+> k-SAT 问题的目标是对一些布尔变量赋值，满足限定的条件。
+>
+> 在 k-SAT 问题中，2-SAT 问题属于较为容易解决的一类。
 
 - [P4782 【模板】2-SAT 问题](https://www.luogu.org/problem/P4782)
 - [P3825 [NOI2017]游戏](https://www.luogu.org/problem/P3825)
@@ -1276,6 +1302,8 @@
 
 ### Part 9.2 旋转卡壳
 
+> 旋转卡壳是一种求出凸包所有对踵点对的算法。
+
 - [P1452 Beauty Contest](https://www.luogu.org/problem/P1452)
 - [P3187 [HNOI2007]最小矩形覆盖](https://www.luogu.org/problem/P3187)
 
@@ -1317,6 +1345,8 @@
 > 当题目不要求强制在线时，我们可以一次性读入所有询问来处理。
 
 #### Part 10.3.1 CDQ 分治
+
+> CDQ 分治是一个基于分治思想的离线算法。
 
 - [P3810 【模板】三维偏序（陌上花开）](https://www.luogu.org/problem/P3810)
 - [P3157 [CQOI2011]动态逆序对](https://www.luogu.org/problem/P3157)
