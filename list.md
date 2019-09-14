@@ -1060,7 +1060,7 @@
 > 珂朵莉树，是一种基于 ``std::set`` 的暴力数据结构，在数据随机的情况下表现优秀。
 
 - [P5251 [LnOI2019]第二代图灵机](https://www.luogu.org/problem/P5251)
-- [P2787 语文1（chin1）- 理理思维](https://www.luogu.org/problem/P2787)
+- [P5350 序列](https://www.luogu.org/problem/P5350)
 
 ## Part 8 图论
 
