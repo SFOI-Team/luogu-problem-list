@@ -434,6 +434,7 @@
 - [P3286 [SCOI2014]方伯伯的商场之旅](https://www.luogu.org/problem/P3286)
 - [P4124 [CQOI2016]手机号码](https://www.luogu.org/problem/P4124)
 - [P2606 [ZJOI2010]排列计数](https://www.luogu.org/problem/P2606)
+- [P4798 [CEOI2015 Day1]卡尔文球锦标赛](https://www.luogu.org/problem/P4798)
 
 ### Part 4.12 轮廓线动态规划
 
@@ -1113,6 +1114,7 @@
 - [P3629 [APIO2010]巡逻](https://www.luogu.org/problem/P3629)
 - [P5536 【XR-3】核心城市](https://www.luogu.org/problem/P5536)
 - [P1099 树网的核](https://www.luogu.org/problem/P1099)
+- [P4408 [NOI2003]逃学的小孩](https://www.luogu.org/problem/P4408)
 
 #### Part 8.3.3 最近公共祖先
 
