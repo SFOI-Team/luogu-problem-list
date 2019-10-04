@@ -714,6 +714,8 @@
 - [P1962 斐波那契数列](https://www.luogu.org/problem/P1962)
 - [P1349 广义斐波那契数列](https://www.luogu.org/problem/P1349)
 - [P4000 斐波那契数列](https://www.luogu.org/problem/P4000)
+- [P3758 [TJOI2017]可乐](https://www.luogu.org/problem/P3758)
+- [P4967 黑暗打击](https://www.luogu.org/problem/P4967)
 - [P5343 【XR-1】分块](https://www.luogu.org/problem/P5343)
 - [P5337 [TJOI2019]甲苯先生的字符串](https://www.luogu.org/problem/P5337)
 - [P5303 [GXOI/GZOI2019]逼死强迫症](https://www.luogu.org/problem/P5303)
@@ -724,6 +726,7 @@
 
 - [P3389 【模板】高斯消元法](https://www.luogu.org/problem/P3389)
 - [P4387 付公主的函数](https://www.luogu.org/problem/P4387)
+- [P2447 [SDOI2010]外星千足虫](https://www.luogu.org/problem/P2447)
 - [P4035 [JSOI2008]球形空间产生器](https://www.luogu.org/problem/P4035)
 - [P5516 [MtOI2019]小铃的烦恼](https://www.luogu.org/problem/P5516)
 - [P4111 [HEOI2015]小Z的房间](https://www.luogu.org/problem/P4111)
@@ -735,6 +738,7 @@
 
 - [P3812 【模板】线性基](https://www.luogu.org/problem/P3812)
 - [P3857 [TJOI2008]彩灯](https://www.luogu.org/problem/P3857)
+- [P4570 [BJWC2011]元素](https://www.luogu.org/problem/P4570)
 - [P4301 [CQOI2013]新Nim游戏](https://www.luogu.org/problem/P4301)
 - [P3292 [SCOI2016]幸运数字](https://www.luogu.org/problem/P3292)
 - [P4151 [WC2011]最大XOR和路径](https://www.luogu.org/problem/P4151)
@@ -924,6 +928,7 @@
 - [P4097 [HEOI2013]Segment](https://www.luogu.org/problem/P4097)
 - [P4198 楼房重建](https://www.luogu.org/problem/P4198)
 - [P4513 小白逛公园](https://www.luogu.org/problem/P4513)
+- [P4556 [Vani有约会]雨天的尾巴](https://www.luogu.org/problem/P4556)
 - [P5324 [BJOI2019]删数](https://www.luogu.org/problem/P5324)
 - [P5327 [ZJOI2019]语言](https://www.luogu.org/problem/P5327)
 - [P5500 [LnOI2019]真正的OIer从不女装](https://www.luogu.org/problem/P5500)
@@ -998,6 +1003,7 @@
 - [P3258 [JLOI2014]松鼠的新家](https://www.luogu.org/problem/P3258)
 - [P4069 [SDOI2016]游戏](https://www.luogu.org/problem/P4069)
 - [P4211 [LNOI2014]LCA](https://www.luogu.org/problem/P4211)
+- [P4592 [TJOI2018]异或](https://www.luogu.org/problem/P4592)
 - [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problem/P5305)
 - [P5499 [LnOI2019]Abbi并不想研学](https://www.luogu.org/problem/P5499)
 
@@ -1251,6 +1257,7 @@
 > 在 k-SAT 问题中，2-SAT 问题属于较为容易解决的一类。
 
 - [P4782 【模板】2-SAT 问题](https://www.luogu.org/problem/P4782)
+- [P4171 [JSOI2010]满汉全席](https://www.luogu.org/problem/P4171)
 - [P3825 [NOI2017]游戏](https://www.luogu.org/problem/P3825)
 - [P5332 [JSOI2019]精准预测](https://www.luogu.org/problem/P5332)
 
