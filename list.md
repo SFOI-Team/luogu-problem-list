@@ -433,6 +433,7 @@
 - [P2657 [SCOI2009]windy数](https://www.luogu.org/problem/P2657)
 - [P3286 [SCOI2014]方伯伯的商场之旅](https://www.luogu.org/problem/P3286)
 - [P4124 [CQOI2016]手机号码](https://www.luogu.org/problem/P4124)
+- [P4999 烦人的数学作业](https://www.luogu.org/problem/P4999)
 - [P2606 [ZJOI2010]排列计数](https://www.luogu.org/problem/P2606)
 - [P4798 [CEOI2015 Day1]卡尔文球锦标赛](https://www.luogu.org/problem/P4798)
 
@@ -464,6 +465,7 @@
 - [P3375 【模板】KMP字符串匹配](https://www.luogu.org/problem/P3375)
 - [P4391 [BOI2009]Radio Transmission](https://www.luogu.org/problem/P4391)
 - [P3435 [POI2006]OKR-Periods of Words](https://www.luogu.org/problem/P3435)
+- [P4824 [USACO15FEB]Censoring (Silver)](https://www.luogu.org/problem/P4824)
 - [P2375 [NOI2014]动物园](https://www.luogu.org/problem/P2375)
 - [P3426 [POI2005]SZA-Template](https://www.luogu.org/problem/P3426)
 - [P3193 [HNOI2008]GT考试](https://www.luogu.org/problem/P3193)
