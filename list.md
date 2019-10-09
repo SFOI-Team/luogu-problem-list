@@ -392,7 +392,7 @@
 
 ### Part 4.8 单调队列优化动态规划
 
-> 如果决策具有单调性，就可以考虑运用单调队列来优化动态规划的效率。
+> 借助单调队列，排除不可能的决策，可以起到优化状态转移的效果。
 
 - [P1776 宝物筛选](https://www.luogu.org/problem/P1776)
 - [P3089 [USACO13NOV]Pogo-Cow](https://www.luogu.org/problem/P3089)
@@ -416,12 +416,15 @@
 - [P5468 [NOI2019]回家路线](https://www.luogu.org/problem/P5468)
 - [P2305 [NOI2014]购票](https://www.luogu.org/problem/P2305)
 
-### Part 4.10 四边形不等式优化动态规划
+### Part 4.10 决策单调性优化动态规划
 
-> 利用四边形不等式，我们就可以提高一些区间动态规划的效率。
+> 利用决策间的递变规律，也能实现优化状态转移的目的。
 
 - [P3515 [POI2011]Lightning Conductor](https://www.luogu.org/problem/P3515)
 - [P4767 [IOI2000]邮局](https://www.luogu.org/problem/P4767)
+- [P1912 [NOI2009]诗人小G](https://www.luogu.org/problem/P1912)
+- [P1973 [NOI2011]Noi嘉年华](https://www.luogu.org/problem/P1973)
+- [P3724 [AH2017/HNOI2017]大佬](https://www.luogu.org/problem/P3724)
 
 ### Part 4.11 数位统计类动态规划
 
