@@ -48,4 +48,4 @@
 
 特别感谢 [xht37](https://www.xht37.com) 在 1.2 版本发布时作出的巨大贡献。
 
-本项目 2.0 以后的目录框架基于 [OI-wiki](https://oi-wiki.org)，在此表示感谢。
+本项目 2.0 版本以后的目录框架基于 [OI-wiki](https://oi-wiki.org)，在此表示感谢。
