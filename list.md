@@ -1002,6 +1002,7 @@
 - [P3384 【模板】树链剖分](https://www.luogu.org/problem/P3384)
 - [P3313 [SDOI2014]旅行](https://www.luogu.org/problem/P3313)
 - [P2590 [ZJOI2008]树的统计](https://www.luogu.org/problem/P2590)
+- [P1505 [国家集训队]旅游](https://www.luogu.org/problem/P1505)
 - [P2486 [SDOI2011]染色](https://www.luogu.org/problem/P2486)
 - [P2146 [NOI2015]软件包管理器](https://www.luogu.org/problem/P2146)
 - [P3178 [HAOI2015]树上操作](https://www.luogu.org/problem/P3178)
@@ -1010,6 +1011,7 @@
 - [P4211 [LNOI2014]LCA](https://www.luogu.org/problem/P4211)
 - [P4592 [TJOI2018]异或](https://www.luogu.org/problem/P4592)
 - [P5305 [GXOI/GZOI2019]旧词](https://www.luogu.org/problem/P5305)
+- [P5354 [Ynoi2017]由乃的OJ](https://www.luogu.org/problem/P5354)
 - [P5499 [LnOI2019]Abbi并不想研学](https://www.luogu.org/problem/P5499)
 
 ### Part 7.14 树套树
@@ -1173,8 +1175,10 @@
 - [P2863 [USACO06JAN]The Cow Prom](https://www.luogu.org/problem/P2863)
 - [P2746 [USACO5.3]Network of Schools](https://www.luogu.org/problem/P2746)
 - [P1407 [国家集训队]稳定婚姻](https://www.luogu.org/problem/P1407)
+- [P2272 [ZJOI2007]最大半连通子图](https://www.luogu.org/problem/P2272)
 - [P2341 [HAOI2006]受欢迎的牛](https://www.luogu.org/problem/P2341)
 - [P3225 [HNOI2012]矿场搭建](https://www.luogu.org/problem/P3225)
+- [P4819 [中山市选]杀人游戏](https://www.luogu.org/problem/P4819)
 - [P5058 [ZJOI2004]嗅探器](https://www.luogu.org/problem/P5058)
 - [P2515 [HAOI2010]软件安装](https://www.luogu.org/problem/P2515)
 
