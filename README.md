@@ -40,4 +40,12 @@
 
 当然如果你想直接修改题单的话，你可以 fork 一份副本，修改完成后向我发起 Pull Request。
 
-本项目的贡献者名单可以在 [这里](https://github.com/SFOI-Team/luogu-problem-list/blob/master/contributors.md) 查看。
+## 致谢
+
+感谢为本项目做出贡献的所有贡献者们。本项目的贡献者名单可以在 [这里](https://github.com/SFOI-Team/luogu-problem-list/blob/master/contributors.md) 查看。
+
+本项目的早期框架基于洛谷试炼场，特别感谢洛谷试炼场提供的优质资源。
+
+特别感谢 [xht37](https://www.xht37.com) 在 1.2 版本发布时作出的巨大贡献。
+
+本项目 2.0 版本以后的目录框架基于 [OI-wiki](https://oi-wiki.org)，在此表示感谢。
