@@ -88,6 +88,7 @@
 - [P1308 统计单词数](https://www.luogu.org/problem/P1308)
 - [P2010 回文日期](https://www.luogu.org/problem/P2010)
 - [P1012 拼数](https://www.luogu.org/problem/P1012)
+- [P5587 打字练习](https://www.luogu.org/problem/P5587)
 
 ### Part 1.4 函数，递归及递推
 
@@ -403,6 +404,7 @@
 - [P1912 [NOI2009]诗人小G](https://www.luogu.org/problem/P1912)
 - [P1973 [NOI2011]Noi嘉年华](https://www.luogu.org/problem/P1973)
 - [P3724 [AH2017/HNOI2017]大佬](https://www.luogu.org/problem/P3724)
+- [P5574 [CmdOI2019]任务分配问题](https://www.luogu.org/problem/P5574)
 
 ### Part 4.11 数位统计类动态规划
 
@@ -486,6 +488,7 @@
 - [P2444 [POI2000]病毒](https://www.luogu.org/problem/P2444)
 - [P3311 [SDOI2014]数数](https://www.luogu.org/problem/P3311)
 - [P4052 [JSOI2007]文本生成器](https://www.luogu.org/problem/P4052)
+- [P5599 【XR-4】文本编辑器](https://www.luogu.org/problem/P5599)
 
 ### Part 5.6 回文自动机
 
@@ -509,6 +512,7 @@
 - [P1117 [NOI2016]优秀的拆分](https://www.luogu.org/problem/P1117)
 - [P2178 [NOI2015]品酒大会](https://www.luogu.org/problem/P2178)
 - [P5346 【XR-1】柯南家族](https://www.luogu.org/problem/P5346)
+- [P5576 [CmdOI2019]口头禅](https://www.luogu.org/problem/P5576)
 
 ### Part 5.8 后缀自动机
 
@@ -654,6 +658,7 @@
 - [P4981 父子](https://www.luogu.org/problem/P4981)
 - [P4769 [NOI2018]冒泡排序](https://www.luogu.org/problem/P4769)
 - [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problem/P4931)
+- [P5598 【XR-4】混乱度](https://www.luogu.org/problem/P5598)
 
 #### Part 6.6.2 卡特兰数&斯特林数
 
@@ -762,6 +767,7 @@
 - [P5432 A/B Problem (加强版)](https://www.luogu.org/problem/P5432)
 - [P5472 [NOI2019]斗主地](https://www.luogu.org/problem/P5472)
 - [P5519 [MtOI2019]埋骨于弘川](https://www.luogu.org/problem/P5519)
+- [P5577 [CmdOI2019]算力训练](https://www.luogu.org/problem/P5577)
 
 ### Part 6.9 莫比乌斯反演
 
@@ -1143,6 +1149,7 @@
 - [P3275 [SCOI2011]糖果](https://www.luogu.org/problem/P3275)
 - [P2294 [HNOI2005]狡猾的商人](https://www.luogu.org/problem/P2294)
 - [P4926 [1007]倍杀测量者](https://www.luogu.org/problem/P4926)
+- [P5590 赛车游戏](https://www.luogu.org/problem/P5590)
 
 ### Part 8.7 图的连通性相关
 
@@ -1399,3 +1406,4 @@
 - [P4920 [WC2015]未来程序](https://www.luogu.org/problem/P4920)
 - [P5402 [CTS2019]无处安放](https://www.luogu.org/problem/P5402)
 - [P5418 [CTSC2016]NOIP十合一](https://www.luogu.org/problem/P5418)
+- [P5600 【XR-4】尺规作图](https://www.luogu.org/problem/P5600)
