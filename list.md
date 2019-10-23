@@ -658,6 +658,7 @@
 - [P4981 父子](https://www.luogu.org/problem/P4981)
 - [P4769 [NOI2018]冒泡排序](https://www.luogu.org/problem/P4769)
 - [P4931 情侣？给我烧了！（加强版）](https://www.luogu.org/problem/P4931)
+- [P5596 【XR-4】题](https://www.luogu.org/problem/P5596)
 - [P5598 【XR-4】混乱度](https://www.luogu.org/problem/P5598)
 
 #### Part 6.6.2 卡特兰数&斯特林数
@@ -1100,6 +1101,7 @@
 - [P1305 新二叉树](https://www.luogu.org/problem/P1305)
 - [P1229 遍历问题](https://www.luogu.org/problem/P1229)
 - [P5018 对称二叉树](https://www.luogu.org/problem/P5018)
+- [P5597 【XR-4】复读](https://www.luogu.org/problem/P5597)
 
 #### Part 8.3.2 树的直径
 
