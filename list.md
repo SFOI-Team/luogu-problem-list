@@ -334,6 +334,7 @@
 - [P2585 [ZJOI2006]三色二叉树](https://www.luogu.com.cn/problem/P2585)
 - [P3047 [USACO12FEB]Nearby Cows](https://www.luogu.com.cn/problem/P3047)
 - [P3698 [CQOI2017]小Q的棋盘](https://www.luogu.com.cn/problem/P3698)
+- [P5658 括号树](https://www.luogu.com.cn/problem/P5658)
 - [P2607 [ZJOI2008]骑士](https://www.luogu.com.cn/problem/P2607)
 - [P3177 [HAOI2015]树上染色](https://www.luogu.com.cn/problem/P3177)
 - [P4395 [BOI2003]Gem](https://www.luogu.com.cn/problem/P4395)
@@ -382,6 +383,7 @@
 - [P3572 [POI2014]PTA-Little Bird](https://www.luogu.com.cn/problem/P3572)
 - [P3522 [POI2011]TEM-Temperature](https://www.luogu.com.cn/problem/P3522)
 - [P4544 [USACO10NOV]Buying Feed](https://www.luogu.com.cn/problem/P4544)
+- [P5665 划分](https://www.luogu.com.cn/problem/P5665)
 - [P1973 [NOI2011]Noi嘉年华](https://www.luogu.com.cn/problem/P1973)
 - [P2569 [SCOI2010]股票交易](https://www.luogu.com.cn/problem/P2569)
 - [P4852 yyf hates choukapai](https://www.luogu.com.cn/problem/P4852)
@@ -684,6 +686,7 @@
 
 > 容斥原理常常用于解决集合的计数问题。
 
+- [P5664 Emiya 家今天的饭](https://www.luogu.com.cn/problem/P5664)
 - [P1450 [HAOI2008]硬币购物](https://www.luogu.com.cn/problem/P1450)
 - [P3214 [HNOI2011]卡农](https://www.luogu.com.cn/problem/P3214)
 - [P3270 [JLOI2016]成绩比较](https://www.luogu.com.cn/problem/P3270)
@@ -1213,6 +1216,7 @@
 >
 > 可以证明，**最大流=最小割**。
 
+- [P1344 [USACO4.4]Pollutant Control](https://www.luogu.com.cn/problem/P1344)
 - [P1345 [USACO5.4]Telecowmunication](https://www.luogu.com.cn/problem/P1345)
 - [P2057 [SHOI2007]善意的投票](https://www.luogu.com.cn/problem/P2057)
 - [P2598 [ZJOI2009]狼和羊的故事](https://www.luogu.com.cn/problem/P2598)
