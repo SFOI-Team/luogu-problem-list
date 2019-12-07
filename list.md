@@ -534,6 +534,7 @@
 > 
 > 如果能善于利用位运算的一些性质，往往能达到事半功倍的效果。
 
+- [P5657 格雷码](https://www.luogu.com.cn/problem/P5657)
 - [P5514 [MtOI2019]永夜的报应](https://www.luogu.com.cn/problem/P5514)
 - [P5538 【XR-3】Namid[A]me](https://www.luogu.com.cn/problem/P5538)
 - [P5539 【XR-3】Unknown Mother-Goose](https://www.luogu.com.cn/problem/P5539)
@@ -1181,6 +1182,7 @@
 - [P3033 [USACO11NOV]Cow Steeplechase](https://www.luogu.com.cn/problem/P3033)
 - [P3731 [HAOI2017]新型城市化](https://www.luogu.com.cn/problem/P3731)
 - [P4014 分配问题](https://www.luogu.com.cn/problem/P4014)
+- [P4617 [COCI2017-2018#5] Planinarenje](https://www.luogu.com.cn/problem/P4617)
 
 ### Part 8.9 网络流
 
