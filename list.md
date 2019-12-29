@@ -69,6 +69,7 @@
 - [P1047 校门外的树](https://www.luogu.com.cn/problem/P1047)
 - [P1427 小鱼的数字游戏](https://www.luogu.com.cn/problem/P1427)
 - [P2141 珠心算测验](https://www.luogu.com.cn/problem/P2141)
+- [P5594 【XR-4】模拟赛](https://www.luogu.com.cn/problem/P5594)
 
 ### Part 1.3 字符串基础
 
@@ -167,6 +168,7 @@
 
 - [P3599 Koishi Loves Construction](https://www.luogu.com.cn/problem/P3599)
 - [P5441 【XR-2】伤痕](https://www.luogu.com.cn/problem/P5441)
+- [P5595 【XR-4】歌唱比赛](https://www.luogu.com.cn/problem/P5595)
 
 ### Part 2.7 高精度
 
@@ -874,6 +876,7 @@
 - [P1168 中位数](https://www.luogu.com.cn/problem/P1168)
 - [P2085 最小函数值](https://www.luogu.com.cn/problem/P2085)
 - [P2827 蚯蚓](https://www.luogu.com.cn/problem/P2827)
+- [P3045 [USACO12FEB]Cow Coupons](https://www.luogu.com.cn/problem/P3045)
 
 ### Part 7.6 ST表
 
@@ -1367,6 +1370,7 @@
 - [P1527 [国家集训队]矩阵乘法](https://www.luogu.com.cn/problem/P1527)
 - [P2617 Dynamic Rankings](https://www.luogu.com.cn/problem/P2617)
 - [P3527 [POI2011]MET-Meteors](https://www.luogu.com.cn/problem/P3527)
+- [P4602 [CTSC2018]混合果汁](https://www.luogu.com.cn/problem/P4602)
 
 #### Part 10.3.3 莫队
 
