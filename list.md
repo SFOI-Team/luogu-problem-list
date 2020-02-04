@@ -612,6 +612,7 @@
 - [P4195 【模板】exBSGS](https://www.luogu.com.cn/problem/P4195)
 - [P5491 【模板】二次剩余](https://www.luogu.com.cn/problem/P5491)
 - [P3306 [SDOI2013]随机数生成器](https://www.luogu.com.cn/problem/P3306)
+- [P2485 [SDOI2011]计算器](https://www.luogu.com.cn/problem/P2485)
 
 ### Part 6.4 博弈论
 
@@ -776,9 +777,12 @@
 > 运用莫比乌斯反演，我们可以将一些函数转化，从而降低计算难度。
 
 - [P3172 [CQOI2015]选数](https://www.luogu.com.cn/problem/P3172)
+- [P2522 [HAOI2011]Problem b](https://www.luogu.com.cn/problem/P2522)
 - [P3455 [POI2007]ZAP-Queries](https://www.luogu.com.cn/problem/P3455)
 - [P3327 [SDOI2015]约数个数和](https://www.luogu.com.cn/problem/P3327)
+- [P1829 [国家集训队]Crash的数字表格 / JZPTAB](https://www.luogu.com.cn/problem/P1829)
 - [P4619 [SDOI2018]旧试题](https://www.luogu.com.cn/problem/P4619)
+- [P3704 [SDOI2017]数字表格](https://www.luogu.com.cn/problem/P3704)
 - [P5518 [MtOI2019]幽灵乐团](https://www.luogu.com.cn/problem/P5518)
 
 ### Part 6.10 筛法
@@ -889,6 +893,7 @@
 - [P2880 [USACO07JAN]Balanced Lineup](https://www.luogu.com.cn/problem/P2880)
 - [P5012 水の数列](https://www.luogu.com.cn/problem/P5012)
 - [P5344 【XR-1】逛森林](https://www.luogu.com.cn/problem/P5344)
+- [P2048 [NOI2010]超级钢琴](https://www.luogu.com.cn/problem/P2048)
 
 ### Part 7.7 树状数组
 
@@ -991,8 +996,6 @@
 - [P2590 [ZJOI2008]树的统计](https://www.luogu.com.cn/problem/P2590)
 - [P1505 [国家集训队]旅游](https://www.luogu.com.cn/problem/P1505)
 - [P2486 [SDOI2011]染色](https://www.luogu.com.cn/problem/P2486)
-- [P2146 [NOI2015]软件包管理器](https://www.luogu.com.cn/problem/P2146)
-- [P3178 [HAOI2015]树上操作](https://www.luogu.com.cn/problem/P3178)
 - [P3258 [JLOI2014]松鼠的新家](https://www.luogu.com.cn/problem/P3258)
 - [P4069 [SDOI2016]游戏](https://www.luogu.com.cn/problem/P4069)
 - [P4211 [LNOI2014]LCA](https://www.luogu.com.cn/problem/P4211)
@@ -1014,7 +1017,6 @@
 - [P3242 [HNOI2015]接水果](https://www.luogu.com.cn/problem/P3242)
 - [P3248 [HNOI2016]树](https://www.luogu.com.cn/problem/P3248)
 - [P5445 [APIO2019]路灯](https://www.luogu.com.cn/problem/P5445)
-- [P5471 [NOI2019]弹跳](https://www.luogu.com.cn/problem/P5471)
 
 ### Part 7.15 动态树
 
@@ -1055,6 +1057,7 @@
 - [P4390 [BOI2007]Mokia](https://www.luogu.com.cn/problem/P4390)
 - [P4475 巧克力王国](https://www.luogu.com.cn/problem/P4475)
 - [P2093 [国家集训队]JZPFAR](https://www.luogu.com.cn/problem/P2093)
+- [P5471 [NOI2019]弹跳](https://www.luogu.com.cn/problem/P5471)
 
 ### Part 7.18 珂朵莉树
 
@@ -1080,11 +1083,12 @@
 
 - [P3371 【模板】单源最短路径（弱化版）](https://www.luogu.com.cn/problem/P3371)
 - [P4779 【模板】单源最短路径（标准版）](https://www.luogu.com.cn/problem/P4779)
+- [P5905 【模板】Johnson 全源最短路](https://www.luogu.com.cn/problem/P5905)
 - [P1144 最短路计数](https://www.luogu.com.cn/problem/P1144)
-- [P5001 魔法祝福](https://www.luogu.com.cn/problem/P5001)
 - [P1462 通往奥格瑞玛的道路](https://www.luogu.com.cn/problem/P1462)
-- [P1522 牛的旅行 Cow Tours](https://www.luogu.com.cn/problem/P1522)
+- [P1522 Cow Tours](https://www.luogu.com.cn/problem/P1522)
 - [P1266 速度限制](https://www.luogu.com.cn/problem/P1266)
+- [P4001 [ICPC-Beijing 2006]狼抓兔子](https://www.luogu.com.cn/problem/P4001)
 - [P4568 [JLOI2011]飞行路线](https://www.luogu.com.cn/problem/P4568)
 - [P3238 [HNOI2014]道路堵塞](https://www.luogu.com.cn/problem/P3238)
 - [P5304 [GXOI/GZOI2019]旅行者](https://www.luogu.com.cn/problem/P5304)
@@ -1150,6 +1154,7 @@
 
 > 差分约束要解决的问题是：求出一组 $ n $ 元不等式的一组解，使得所有约束关系都能得到满足。 
 
+- [P5960 【模板】差分约束算法](https://www.luogu.com.cn/problem/P5960)
 - [P3275 [SCOI2011]糖果](https://www.luogu.com.cn/problem/P3275)
 - [P2294 [HNOI2005]狡猾的商人](https://www.luogu.com.cn/problem/P2294)
 - [P4926 [1007]倍杀测量者](https://www.luogu.com.cn/problem/P4926)
@@ -1161,11 +1166,11 @@
 
 - [P3387 【模板】缩点](https://www.luogu.com.cn/problem/P3387)
 - [P3388 【模板】割点（割顶）](https://www.luogu.com.cn/problem/P3388)
+- [P2341 [HAOI2006]受欢迎的牛](https://www.luogu.com.cn/problem/P2341)
 - [P2863 [USACO06JAN]The Cow Prom](https://www.luogu.com.cn/problem/P2863)
 - [P2746 [USACO5.3]Network of Schools](https://www.luogu.com.cn/problem/P2746)
 - [P1407 [国家集训队]稳定婚姻](https://www.luogu.com.cn/problem/P1407)
 - [P2272 [ZJOI2007]最大半连通子图](https://www.luogu.com.cn/problem/P2272)
-- [P2341 [HAOI2006]受欢迎的牛](https://www.luogu.com.cn/problem/P2341)
 - [P3225 [HNOI2012]矿场搭建](https://www.luogu.com.cn/problem/P3225)
 - [P4819 [中山市选]杀人游戏](https://www.luogu.com.cn/problem/P4819)
 - [P5058 [ZJOI2004]嗅探器](https://www.luogu.com.cn/problem/P5058)
@@ -1230,7 +1235,6 @@
 - [P2045 方格取数加强版](https://www.luogu.com.cn/problem/P2045)
 - [P2050 [NOI2012]美食节](https://www.luogu.com.cn/problem/P2050)
 - [P2053 [SCOI2007]修车](https://www.luogu.com.cn/problem/P2053)
-- [P2153 [SDOI2009]晨跑](https://www.luogu.com.cn/problem/P2153)
 - [P2604 [ZJOI2010]网络扩容](https://www.luogu.com.cn/problem/P2604)
 - [P2770 航空路线问题](https://www.luogu.com.cn/problem/P2770)
 - [P3159 [CQOI2012]交换棋子](https://www.luogu.com.cn/problem/P3159)
@@ -1376,9 +1380,10 @@
 
 > 莫队算法可以解决不少离线区间询问问题。
 
+- [P1494 [国家集训队]小Z的袜子 /【模板】莫队](https://www.luogu.com.cn/problem/P1494)
+- [P1903 [国家集训队]数颜色 / 维护队列 /【模板】带修莫队](https://www.luogu.com.cn/problem/P1903)
+- [P5906 【模板】回滚莫队](https://www.luogu.com.cn/problem/P5906)
 - [P4887 【模板】莫队二次离线（第十四分块(前体)）](https://www.luogu.com.cn/problem/P4887)
-- [P1494 [国家集训队]小Z的袜子](https://www.luogu.com.cn/problem/P1494)
-- [P1903 [国家集训队]数颜色 / 维护队列](https://www.luogu.com.cn/problem/P1903)
 - [P2709 小B的询问](https://www.luogu.com.cn/problem/P2709)
 - [P3674 小清新人渣的本愿](https://www.luogu.com.cn/problem/P3674)
 - [P3709 大爷的字符串题](https://www.luogu.com.cn/problem/P3709)
