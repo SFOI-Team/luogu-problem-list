@@ -187,7 +187,7 @@
 - [P3131 [USACO16JAN]Subsequences Summing to Sevens](https://www.luogu.com.cn/problem/P3131)
 - [P1387 最大正方形](https://www.luogu.com.cn/problem/P1387)
 - [P3397 地毯](https://www.luogu.com.cn/problem/P3397)
-- [[HNOI2003]激光炸弹](https://www.luogu.com.cn/problem/P2280)
+- [P2280 [HNOI2003]激光炸弹](https://www.luogu.com.cn/problem/P2280)
 - [P4552 [Poetize6] IncDec Sequence](https://www.luogu.com.cn/problem/P4552)
 
 
