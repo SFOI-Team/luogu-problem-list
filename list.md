@@ -860,6 +860,7 @@
 - [P1111 修复公路](https://www.luogu.com.cn/problem/P1111)
 - [P3958 奶酪](https://www.luogu.com.cn/problem/P3958)
 - [P1525 关押罪犯](https://www.luogu.com.cn/problem/P1525)
+- [P4185 [USACO18JAN]MooTube G](https://www.luogu.com.cn/problem/P4185)
 - [P2024 [NOI2001]食物链](https://www.luogu.com.cn/problem/P2024)
 - [P1197 [JSOI2008]星球大战](https://www.luogu.com.cn/problem/P1197)
 - [P1196 [NOI2002]银河英雄传说](https://www.luogu.com.cn/problem/P1196)
