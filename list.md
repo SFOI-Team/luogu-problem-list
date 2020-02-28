@@ -926,7 +926,6 @@
 - [P4556 [Vani有约会]雨天的尾巴](https://www.luogu.com.cn/problem/P4556)
 - [P5324 [BJOI2019]删数](https://www.luogu.com.cn/problem/P5324)
 - [P5327 [ZJOI2019]语言](https://www.luogu.com.cn/problem/P5327)
-- [P5500 [LnOI2019]真正的OIer从不女装](https://www.luogu.com.cn/problem/P5500)
 
 ### Part 7.9 分块
 
@@ -1170,7 +1169,6 @@
 - [P1407 [国家集训队]稳定婚姻](https://www.luogu.com.cn/problem/P1407)
 - [P2272 [ZJOI2007]最大半连通子图](https://www.luogu.com.cn/problem/P2272)
 - [P3225 [HNOI2012]矿场搭建](https://www.luogu.com.cn/problem/P3225)
-- [P4819 [中山市选]杀人游戏](https://www.luogu.com.cn/problem/P4819)
 - [P5058 [ZJOI2004]嗅探器](https://www.luogu.com.cn/problem/P5058)
 - [P2515 [HAOI2010]软件安装](https://www.luogu.com.cn/problem/P2515)
 
@@ -1240,7 +1238,6 @@
 - [P3358 最长k可重区间集问题](https://www.luogu.com.cn/problem/P3358)
 - [P4013 数字梯形问题](https://www.luogu.com.cn/problem/P4013)
 - [P4015 运输问题](https://www.luogu.com.cn/problem/P4015)
-- [P4249 [WC2007]剪刀石头布](https://www.luogu.com.cn/problem/P4249)
 - [P5331 [SNOI2019]通信](https://www.luogu.com.cn/problem/P5331)
 
 #### Part 8.9.4 上下界网络流
