@@ -674,10 +674,10 @@
 
 > 卡特兰数和斯特林数是两类常见的组合递推数列。
 
-- [P5395 【模板】第二类斯特林数·行](https://www.luogu.com.cn/problem/P5395)
-- [P5396 【模板】第二类斯特林数·列](https://www.luogu.com.cn/problem/P5396)
-- [P5408 【模板】第一类斯特林数·行](https://www.luogu.com.cn/problem/P5408)
-- [P5409 【模板】第一类斯特林数·列](https://www.luogu.com.cn/problem/P5409)
+- [P5395 第二类斯特林数·行](https://www.luogu.com.cn/problem/P5395)
+- [P5396 第二类斯特林数·列](https://www.luogu.com.cn/problem/P5396)
+- [P5408 第一类斯特林数·行](https://www.luogu.com.cn/problem/P5408)
+- [P5409 第一类斯特林数·列](https://www.luogu.com.cn/problem/P5409)
 - [P1655 小朋友的球](https://www.luogu.com.cn/problem/P1655)
 - [P2532 [AHOI2012]树屋阶梯](https://www.luogu.com.cn/problem/P2532)
 - [P3200 [HNOI2009]有趣的数列](https://www.luogu.com.cn/problem/P3200)
@@ -746,7 +746,6 @@
 
 > 对多项式的运算进行优化，从而能够解决规模更大的问题。
 
-- [P1919 【模板】A\*B Problem升级版（FFT快速傅里叶）](https://www.luogu.com.cn/problem/P1919)
 - [P3803 【模板】多项式乘法（FFT）](https://www.luogu.com.cn/problem/P3803)
 - [P4238 【模板】多项式求逆](https://www.luogu.com.cn/problem/P4238)
 - [P4245 【模板】任意模数NTT](https://www.luogu.com.cn/problem/P4245)
@@ -763,8 +762,6 @@
 - [P5273 【模板】多项式幂函数 (加强版)](https://www.luogu.com.cn/problem/P5273)
 - [P5282 【模板】快速阶乘算法](https://www.luogu.com.cn/problem/P5282)
 - [P5373 【模板】多项式复合函数](https://www.luogu.com.cn/problem/P5373)
-- [P5383 【模板】普通多项式转下降幂多项式](https://www.luogu.com.cn/problem/P5383)
-- [P5393 【模板】下降幂多项式转普通多项式](https://www.luogu.com.cn/problem/P5393)
 - [P5394 【模板】下降幂多项式乘法](https://www.luogu.com.cn/problem/P5394)
 - [P3338 [ZJOI2014]力](https://www.luogu.com.cn/problem/P3338)
 - [P3723 [AH2017/HNOI2017]礼物](https://www.luogu.com.cn/problem/P3723)
@@ -1419,3 +1416,15 @@
 - [P5402 [CTS2019]无处安放](https://www.luogu.com.cn/problem/P5402)
 - [P5418 [CTSC2016]NOIP十合一](https://www.luogu.com.cn/problem/P5418)
 - [P5600 【XR-4】尺规作图](https://www.luogu.com.cn/problem/P5600)
+
+#### Part 10.5.2 交互题
+
+> 在交互题中，选手程序需要通过与测评程序交互来完成任务。
+
+- [P1733 猜数（IO交互版）](https://www.luogu.com.cn/problem/P1733)
+- [P1947 猜数](https://www.luogu.com.cn/problem/P1947)
+- [P5208 [WC2019]I 君的商店](https://www.luogu.com.cn/problem/P5208)
+- [P5473 [NOI2019]I 君的探险](https://www.luogu.com.cn/problem/P5473)
+- [P6541 [WC2018]即时战略](https://www.luogu.com.cn/problem/P6541)
+- [P6558 [APIO2017]考拉的游戏](https://www.luogu.com.cn/problem/P6558)
+
