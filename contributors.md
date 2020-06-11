@@ -8,4 +8,5 @@
 - [abc1763613206](https://github.com/abc1763613206)
 - [bear-good](https://github.com/bear-good)
 - [fsy-juruo](https://github.com/fsy-juruo)
-- [expect](https://www.luogu.com.cn/space/show?uid=28910)
+- [expect](https://www.luogu.com.cn/user/28910)
+- [Re_see](https://www.luogu.com.cn/user/52765)
