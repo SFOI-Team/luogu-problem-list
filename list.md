@@ -724,7 +724,6 @@
 > 高斯消元可以用来求解方程组。
 
 - [P3389 【模板】高斯消元法](https://www.luogu.com.cn/problem/P3389)
-- [P4387 付公主的函数](https://www.luogu.com.cn/problem/P4387)
 - [P2447 [SDOI2010]外星千足虫](https://www.luogu.com.cn/problem/P2447)
 - [P4035 [JSOI2008]球形空间产生器](https://www.luogu.com.cn/problem/P4035)
 - [P5516 [MtOI2019]小铃的烦恼](https://www.luogu.com.cn/problem/P5516)
