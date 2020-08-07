@@ -139,7 +139,7 @@
 
 - [P1024 一元三次方程求解](https://www.luogu.com.cn/problem/P1024)
 - [P2678 跳石头](https://www.luogu.com.cn/problem/P2678)
-- [P1316 丢瓶盖](https://www.luogu.com.cn/problem/P1316)
+- [P1824 进击的奶牛](https://www.luogu.com.cn/problem/P1824)
 - [P1902 刺杀大使](https://www.luogu.com.cn/problem/P1902)
 - [P1314 聪明的质监员](https://www.luogu.com.cn/problem/P1314)
 - [P1083 借教室](https://www.luogu.com.cn/problem/P1083)
