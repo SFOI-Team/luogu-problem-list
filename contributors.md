@@ -10,3 +10,4 @@
 - [fsy-juruo](https://github.com/fsy-juruo)
 - [expect](https://www.luogu.com.cn/user/28910)
 - [Re_see](https://www.luogu.com.cn/user/52765)
+- [qinyihao](https://www.luogu.com.cn/user/348831)
