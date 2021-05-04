@@ -1305,7 +1305,7 @@
 - [P2742 【模板】二维凸包](https://www.luogu.com.cn/problem/P2742)
 - [P2287 [HNOI2004]最佳包裹](https://www.luogu.com.cn/problem/P2287)
 - [P3829 [SHOI2012]信用卡凸包](https://www.luogu.com.cn/problem/P3829)
-- [P4680 [Ynoi2018]末日时在做什么?有没有空?可以来拯救吗?](https://www.luogu.com.cn/problem/P4680)
+- [P4680 [Ynoi2018]末日时在做什么?有没有空?可以来拯救吗?](https://www.luogu.com.cn/problem/P4118)
 - [P4557 [JSOI2018]战争](https://www.luogu.com.cn/problem/P4557)
 - [P5403 [CTS2019]田野](https://www.luogu.com.cn/problem/P5403)
 
