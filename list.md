@@ -927,6 +927,7 @@
 - [P4556 [Vani有约会]雨天的尾巴](https://www.luogu.com.cn/problem/P4556)
 - [P5324 [BJOI2019]删数](https://www.luogu.com.cn/problem/P5324)
 - [P5327 [ZJOI2019]语言](https://www.luogu.com.cn/problem/P5327)
+- [P4145 上帝造题的七分钟 2 / 花神游历各国](https://www.luogu.com.cn/problem/P4145)
 
 ### Part 7.9 分块
 
