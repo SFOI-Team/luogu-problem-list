@@ -1036,8 +1036,8 @@
 
 > 可持久化数据结构实现了在更新信息的时候保留历史版本。
 
-- [P3919 【模板】可持久化数组（可持久化线段树/平衡树）](https://www.luogu.com.cn/problem/P3919)
-- [P3834 【模板】可持久化线段树 1（主席树）](https://www.luogu.com.cn/problem/P3834)
+- [P3919 【模板】可持久化线段树 1（可持久化数组）](https://www.luogu.com.cn/problem/P3919)
+- [P3834 【模板】可持久化线段树 2](https://www.luogu.com.cn/problem/P3834)
 - [P3402 【模板】可持久化并查集](https://www.luogu.com.cn/problem/P3402)
 - [P3835 【模板】可持久化平衡树](https://www.luogu.com.cn/problem/P3835)
 - [P5055 【模板】可持久化文艺平衡树](https://www.luogu.com.cn/problem/P5055)
