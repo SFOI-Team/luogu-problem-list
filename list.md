@@ -503,7 +503,7 @@
 
 - [P5496 【模板】回文自动机（PAM）](https://www.luogu.com.cn/problem/P5496)
 - [P3649 [APIO2014]回文串](https://www.luogu.com.cn/problem/P3649)
-- [P4287 [SHOI2011]双倍回文](https://www.luogu.com.cn/problem/solution/P4287)
+- [P4287 [SHOI2011]双倍回文](https://www.luogu.com.cn/problem/P4287)
 - [P4762 [CERC2014]Virus synthesis](https://www.luogu.com.cn/problem/P4762)
 
 ### Part 5.7 后缀数组
